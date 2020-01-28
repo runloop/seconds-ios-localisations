@@ -1,0 +1,14 @@
+/* These details will override the 'Personal Details' data which are used to calculate calorie expenditure during workouts. */
+"NSHealthShareUsageDescription" = "こちらの詳細が、トレーニング中のカロリー消費計算に使用される個人情報より優先されます。";
+/* Seconds will add workouts to Apple Health. */
+"NSHealthUpdateUsageDescription" = "Secondsを使うと、Apple Healthにトレーニングを追加できます。";
+/* Seconds connects to Bluetooth heartrate sensors to read heart rate data. */
+"NSBluetoothPeripheralUsageDescription" = "Secondsは、心拍数データを読み込むBluetooth心拍数センサーに接続します。";
+/* Seconds connects to your music library allowing your to assign music to your intervals. */
+"NSAppleMusicUsageDescription" = "Secondsは、休憩時間に割り当てる音楽を選べるよう、ご自分の音楽ライブラリーに接続します。";
+/* ©2010-2018 Runloop Ltd. All rights reserved. */
+"NSHumanReadableCopyright" = "©2010-2018 Runloop Ltd.すべての権利を保有します。";
+/* Seconds requires photo library access for attaching screenshots to support requests only. */
+"NSPhotoLibraryUsageDescription" = "秒は、要求をサポートするためだけにスクリーンショットを添付するためのフォトライブラリアクセスが必要です。";
+/* Seconds will pair with heart rate sensors and read heart rate information which can be displayed on screen and saved to Apple Health. */
+"NSBluetoothAlwaysUsageDescription" = "秒は心拍センサーとペアになり、画面に表示してApple Healthに保存できる心拍情報を読み取ります。";

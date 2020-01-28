@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>timer_downloading_alert_count_message</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@d_remaining@</string>
+      <key>d_remaining</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>Um alerta restante.</string>
+        <key>other</key>
+        <string>%li alertas restantes.</string>
+      </dict>
+    </dict>
+    <key>speech_formatted_hours</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@d_hours@</string>
+      <key>d_hours</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>%li hora</string>
+        <key>other</key>
+        <string>%li horas</string>
+      </dict>
+    </dict>
+    <key>speech_formatted_minutes</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@d_minutes@</string>
+      <key>d_minutes</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>%li minuto</string>
+        <key>other</key>
+        <string>%li minutos</string>
+      </dict>
+    </dict>
+    <key>speech_formatted_seconds</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@d_seconds@</string>
+      <key>d_seconds</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>%li segundo</string>
+        <key>other</key>
+        <string>%li segundos</string>
+      </dict>
+    </dict>
+    <key>media_picker_song_album_count</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@d_albums@, %#@d_songs@</string>
+      <key>d_albums</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>%li álbum</string>
+        <key>other</key>
+        <string>%li álbums</string>
+      </dict>
+      <key>d_songs</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>%li som</string>
+        <key>other</key>
+        <string>%li sons</string>
+      </dict>
+    </dict>
+    <key>media_picker_songs_minutes_count</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@d_songs@, %#@d_minutes@</string>
+      <key>d_songs</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>%li som</string>
+        <key>other</key>
+        <string>%li sons</string>
+      </dict>
+      <key>d_minutes</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>%li minuto</string>
+        <key>other</key>
+        <string>%li minutos</string>
+      </dict>
+    </dict>
+    <key>media_picker_parts_minutes_count</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@d_parts@, %#@d_minutes@</string>
+      <key>d_parts</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>%li parte</string>
+        <key>other</key>
+        <string>%li partes</string>
+      </dict>
+      <key>d_minutes</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>%li minuto</string>
+        <key>other</key>
+        <string>%li minutos</string>
+      </dict>
+    </dict>
+    <key>media_picker_podcasts_minutes_count</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@d_podcasts@, %#@d_minutes@</string>
+      <key>d_podcasts</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>%li podcast</string>
+        <key>other</key>
+        <string>%li podcasts</string>
+      </dict>
+      <key>d_minutes</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>%li minuto</string>
+        <key>other</key>
+        <string>%li minutos</string>
+      </dict>
+    </dict>
+  </dict>
+</plist>

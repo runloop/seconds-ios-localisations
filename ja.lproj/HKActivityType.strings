@@ -1,0 +1,154 @@
+/* Other */
+"3000" = "その他";
+/* American Football */
+"1" = "アメリカン・フットボール";
+/* Archery */
+"2" = "アーチェリー";
+/* Australian Football */
+"3" = "オーストラリアン・フットボール";
+/* Badminton */
+"4" = "バドミントン";
+/* Baseball */
+"5" = "野球";
+/* Basketball */
+"6" = "バスケットボール";
+/* Bowling */
+"7" = "ボーリング";
+/* Boxing */
+"8" = "ボクシング";
+/* Climbing */
+"9" = "クライミング";
+/* Cricket */
+"10" = "クリケット";
+/* Cross Training */
+"11" = "クロストレーニング";
+/* Curling */
+"12" = "カーリング";
+/* Cycling */
+"13" = "サイクリング";
+/* Dance */
+"14" = "ダンス";
+/* Dance Inspired Training */
+"15" = "ダンス風トレーニング";
+/* Elliptical */
+"16" = "エリプティカル";
+/* Equestrian Sports */
+"17" = "乗馬スポーツ";
+/* Fencing */
+"18" = "フェンシング";
+/* Fishing */
+"19" = "釣り";
+/* Functional Strength Training */
+"20" = "機能性筋力トレーニング";
+/* Golf */
+"21" = "ゴルフ";
+/* Gymnastics */
+"22" = "器械体操";
+/* Handball */
+"23" = "ハンドボール";
+/* Hiking */
+"24" = "ハイキング";
+/* Hockey */
+"25" = "ホッケー";
+/* Hunting */
+"26" = "ハンティング";
+/* Lacrosse */
+"27" = "ラクロス";
+/* Martial Arts */
+"28" = "格闘技";
+/* Mind and Body */
+"29" = "心と体";
+/* Mixed Metabolic Cardio Training */
+"30" = "混合代謝カーディオ・トレーニング";
+/* Paddle Sports */
+"31" = "パドルスポーツ";
+/* Play */
+"32" = "プレイ";
+/* Preparation and Recovery */
+"33" = "準備と回復";
+/* Racquetball */
+"34" = "ラケットボール";
+/* Rowing */
+"35" = "ローイング";
+/* Rugby */
+"36" = "ラグビー";
+/* Running */
+"37" = "ランニング";
+/* Sailing */
+"38" = "セーリング";
+/* Skating Sports */
+"39" = "スケートスポーツ";
+/* Snow Sports */
+"40" = "スノースポーツ";
+/* Football */
+"41" = "サッカー";
+/* Softball */
+"42" = "ソフトボール";
+/* Squash */
+"43" = "スカッシュ";
+/* Stair Climbing */
+"44" = "階段上り";
+/* Surfing Sports */
+"45" = "サーフィンスポーツ";
+/* Swimming */
+"46" = "スイミング";
+/* Table Tennis */
+"47" = "卓球";
+/* Tennis */
+"48" = "テニス";
+/* Track and Field */
+"49" = "陸上";
+/* Traditional Strength Training */
+"50" = "伝統的な筋力トレーニング";
+/* Volleyball */
+"51" = "バレーボール";
+/* Walking */
+"52" = "ウォーキング";
+/* Water Fitness */
+"53" = "ウォーターフィットネス";
+/* Water Polo */
+"54" = "水球";
+/* Water Sports */
+"55" = "ウォータースポーツ";
+/* Wrestling */
+"56" = "レスリング";
+/* Yoga */
+"57" = "ヨガ";
+/* Barre */
+"58" = "バー";
+/* Core Training */
+"59" = "体幹トレーニング";
+/* Cross Country Skiing */
+"60" = "クロスカントリー";
+/* Downhill Skiing */
+"61" = "スキー";
+/* Flexibility */
+"62" = "柔軟";
+/* High Intensity Interval Training */
+"63" = "HIITトレーニング";
+/* Jump Rope */
+"64" = "縄跳び";
+/* Kickboxing */
+"65" = "キックボクシング";
+/* Pilates */
+"66" = "ピラティス";
+/* Snowboarding */
+"67" = "スノーボード";
+/* Stairs */
+"68" = "階段";
+/* Step Training */
+"69" = "ステップ・トレーニング";
+/* Wheelchair Walk Pace */
+"70" = "歩行速度車椅子";
+/* Wheelchair Run Pace */
+"71" = "走行速度車椅子";
+/* Tai Chi */
+"72" = "太極拳";
+/* Mixed Cardio */
+"73" = "総合カーディオ";
+/* Hand Cycling */
+"74" = "ハンドサイクル";
+/* Disc Sports */
+"75" = "ディスクスポーツ";
+/* Fitness Gaming */
+"76" = "フィットネスゲーム";

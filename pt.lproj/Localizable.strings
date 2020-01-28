@@ -1,0 +1,1220 @@
+/* My Timers */
+"home_title" = "Meus Temporizadores";
+/* My Timers */
+"menu_timers" = "Meus Temporizadores";
+/* Settings */
+"menu_settings" = "Configurações";
+/* Items: %@ */
+"container_number_of_items" = "Itens: %@";
+/* Imported Timers */
+"imported_timers_title" = "Temporizadores Importados";
+/* Cut */
+"edit_control_cut" = "Recortar";
+/* Copy */
+"edit_control_copy" = "Copiar";
+/* Paste */
+"edit_control_paste" = "Colar";
+/* Share */
+"toolbar_item_share" = "Compartilhar";
+/* Organise */
+"toolbar_item_edit" = "Organizar";
+/* Done */
+"toolbar_item_done" = "Concluído";
+/* Help */
+"toolbar_item_help" = "Ajuda";
+/* Shared Timers */
+"shared_items_container_name" = "Temporizadores Compartilhados";
+/* An Error Occurred */
+"share_error_title" = "Um Erro Ocorreu";
+/* Something went wrong with your request. Please try again later. */
+"share_error_message" = "Ocorreu um problema com o seu pedido. Por favor, tente novamente mais tarde.";
+/* Cancel */
+"navigation_bar_cancel_button" = "Cancelar";
+/* Close */
+"navigation_bar_close_button" = "Fechar";
+/* Import Here */
+"navigation_bar_import_button" = "Importar Aqui";
+/* Dismiss */
+"alert_dismiss_button_title" = "Dispensar";
+/* Name */
+"container_editor_name_label" = "Nome";
+/* Folder */
+"container_editor_title" = "Pasta";
+/* Choose Template */
+"editor_picker_title" = "Escolher Modelo";
+/* New Folder */
+"editor_option_folder" = "Nova Pasta";
+/* Import From Clipboard */
+"editor_option_import" = "Importar da Área de Transferência";
+/* Rest */
+"common_timer_rest" = "Descanso";
+/* Warm Up */
+"common_timer_warmup" = "Aquecimento";
+/* Cool Down */
+"common_timer_cooldown" = "Desaquecimento";
+/* HIIT Timer */
+"hiit_timer_type" = "HIIT";
+/* High Intensity */
+"hiit_timer_high_intensity" = "Alta intensidade";
+/* Low Intensity */
+"hiit_timer_low_intensity" = "Baixa intensidade";
+/* Circuit Timer */
+"circuit_timer_type" = "Circuito";
+/* Compound Timer */
+"compound_timer_type" = "Composto";
+/* Custom Timer */
+"custom_timer_type" = "Personalizado";
+/* Round Timer */
+"round_timer_type" = "Round";
+/* Round */
+"round_timer_round" = "Round";
+/* Break */
+"round_timer_break" = "Parada";
+/* Tabata Timer */
+"tabata_timer_type" = "Tabata";
+/* Advanced Timer (Non-editable) */
+"advanced_timer_type" = "Temporizador Avançado (Não-editável)";
+/* Required */
+"common_editor_required_section_header" = "Obrigatório";
+/* Optional */
+"common_editor_optional_section_header" = "Opcional";
+/* Exercises */
+"common_editor_exercises_section_header" = "Exercícios";
+/* Extras */
+"common_editor_audio_section_header" = "Extras";
+/* Number of Sets */
+"common_editor_sets_label" = "Número de Séries";
+/* Alerts */
+"common_editor_soundscheme_label" = "Alertas";
+/* Audio */
+"common_editor_music_label" = "Áudio";
+/* Preview */
+"common_editor_preview_label" = "Prever";
+/* No Audio Selected */
+"common_editor_no_music" = "Nenhum Áudio Selecionado";
+/* Playlist: %@ */
+"common_editor_playlist" = "Lista: %@";
+/* Song: [title] - [artist] */
+"common_editor_song" = "Som: %1$@ - %2$@";
+/* Album: %@ - %@ */
+"common_editor_album" = "Álbum: %1$@ - %2$@";
+/* Genre: %@ */
+"common_editor_genre" = "Gênero: %@";
+/* Podcast: %@ - %@ */
+"common_editor_podcast" = "Podcast: %@ - %@";
+/* Audiobook: %@ */
+"common_editor_audiobook" = "Livro de Áudio: %@";
+/* Artist: %@ */
+"common_editor_artist" = "Artista: %@";
+/* Rest Between Intervals */
+"common_editor_interval_rest_label" = "Descanso Entre Intervalos";
+/* Rest Between Sets */
+"common_editor_set_rest_label" = "Descanso Entre Séries";
+/* Warmup */
+"common_editor_warmup_label" = "Aquecimento";
+/* Cooldown */
+"common_editor_cooldown_label" = "Desaquecimento";
+/* HIIT Timer */
+"hiit_editor_title" = "HIIT";
+/* Name */
+"hiit_editor_name_label" = "Nome";
+/* High Intensity */
+"hiit_editor_high_intensity_label" = "Alta Intensidade";
+/* Low Intensity */
+"hiit_editor_low_intensity_label" = "Baixa Intensidade";
+/* Warmup */
+"hiit_editor_warmup_label" = "Aquecimento";
+/* Cool Down */
+"hiit_editor_cooldown_label" = "Desaquecimento";
+/* Start With Low Intensity */
+"hiit_editor_extra_low_label" = "Começar Com Baixa Intensidade";
+/* Round Timer */
+"round_editor_title" = "Round";
+/* Number of Rounds */
+"round_editor_rounds_label" = "Número de Rounds";
+/* Rounds */
+"round_editor_round_label" = "Rounds";
+/* Breaks */
+"round_editor_break_label" = "Paradas";
+/* Add Exercise */
+"circuit_editor_add_exercise_label" = "Adicionar Exercício";
+/* Circuit Timer */
+"circuit_editor_title" = "Circuito";
+/* Custom Timer */
+"custom_editor_title" = "Personalizado";
+/* Compound Timer */
+"compound_editor_title" = "Composto";
+/* Sub-Timers */
+"compound_editor_subtimers_section_header" = "Sub-Temporizadores";
+/* Add Sub-Timer */
+"compound_editor_add_subtimer_label" = "Adicionar Sub-Temporizador";
+/* Number of Cycles */
+"compound_editor_times_to_repeat_label" = "Número de Ciclos";
+/* Rest Between Sub-Timers */
+"compound_editor_timer_rest_label" = "Descanso Entre Sub-Temporizadores";
+/* Rest Between Cycles */
+"compound_editor_repeat_rest_label" = "Descanso Entre Ciclos";
+/* Interval */
+"interval_editor_title" = "Intervalo";
+/* Name */
+"interval_editor_name_label" = "Nome";
+/* Duration */
+"interval_editor_duration_label" = "Duração";
+/* Colour */
+"interval_editor_color_label" = "Cor";
+/* Split Interval Left/Right */
+"interval_editor_split_left_right" = "Dividir Intervalo Esquerda/Direita";
+/* No Sounds */
+"soundscheme_none" = "Sem Sons";
+/* Beeps */
+"soundscheme_beeps_title" = "Bips";
+/* Default Beeps */
+"soundscheme_beeps_default" = "Bips Padrão";
+/* Single Beep, Short */
+"soundscheme_beeps_single_short" = "Único Bip, Curto";
+/* Single Beep, Long */
+"soundscheme_beeps_single_long" = "Único Bip, Longo";
+/* Three Beeps + 10 Second Beep */
+"soundscheme_beeps_three_with_ten" = "Três Bips + Bip de 10 segundos";
+/* Five Beeps + 10 Second Beep */
+"soundscheme_beeps_five_with_ten" = "Cinco Bips + Bip de 10 segundos";
+/* Text-to-Speech */
+"soundscheme_tts_title" = "Texto falado";
+/* Text-to-Speech with Count */
+"soundscheme_tts_with_count" = "Texto falado com Contagem";
+/* Text-to-Speech without Count */
+"soundscheme_tts_without_count" = "Texto falado sem Contagem";
+/* Text-to-Speech with Time */
+"soundscheme_tts_with_time" = "Texto falado com Tempo";
+/* Text-to-Speech with Warning */
+"soundscheme_tts_with_warning" = "Texto falado com Aviso";
+/* Meditation */
+"soundscheme_meditation_title" = "Meditação";
+/* Gong */
+"soundscheme_meditation_gong" = "Gongo";
+/* Thai Gong */
+"soundscheme_meditation_gong_thai" = "Gongo Thailandês";
+/* Tibetan Bell */
+"soundscheme_meditation_bell" = "Sino Tibetano";
+/* Cowbell */
+"soundscheme_misc_cowbell" = "Sino de Vaca";
+/* Cuckoo */
+"soundscheme_misc_cuckoo" = "Cuco";
+/* Vibrations Only */
+"soundscheme_vibrations_title" = "Vibrações Apenas";
+/* One Vibration */
+"soundscheme_vibrations_one" = "Uma Vibração";
+/* Four Vibrations */
+"soundscheme_vibrations_four" = "Quatro Vibrações";
+/* Round Based */
+"soundscheme_rounds_title" = "Baseado em Round";
+/* MMA */
+"soundscheme_rounds_mma" = "MMA";
+/* Boxing */
+"soundscheme_rounds_boxing" = "Boxe";
+/* Select Colour */
+"color_picker_title" = "Selecionar Cor";
+/* Grey */
+"color_grey" = "Cinza";
+/* Red */
+"color_red" = "Vermelho";
+/* Orange */
+"color_orange" = "Laranja";
+/* Yellow */
+"color_yellow" = "Amarelo";
+/* Green */
+"color_green" = "Verde";
+/* Blue */
+"color_blue" = "Azul";
+/* Purple */
+"color_purple" = "Roxo";
+/* Magenta */
+"color_magenta" = "Magenta";
+/* Violet */
+"color_violet" = "Violeta";
+/* Value must be at least %d */
+"validator_integer_too_small" = "Valor deve ser no mínimo %li";
+/* Value must be at most %d */
+"validator_integer_too_large" = "Valor deve ser no máximo %li";
+/* String required */
+"validator_string_required" = "Sequência obrigatória";
+/* Songs */
+"media_picker_songs_title" = "Músicas";
+/* Playlists */
+"media_picker_playlists_title" = "Listas";
+/* Albums */
+"media_picker_album_title" = "Álbuns";
+/* Artists */
+"media_picker_artist_title" = "Artistas";
+/* Genres */
+"media_picker_genre_title" = "Gêneros";
+/* Podcasts */
+"media_picker_podcasts_title" = "Podcasts";
+/* Audiobooks */
+"media_picker_audiobooks_title" = "Livros de Áudio";
+/* Select Anyway */
+"media_picker_alert_action_ok" = "Selecione de Qualquer Maneira";
+/* Pick Another */
+"media_picker_alert_action_pick_again" = "Escolha Outro";
+/* Undownloaded Media */
+"media_picker_cloud_item_alert_title" = "Media Não Baixada";
+/* The song '%@' has not been downloaded from iCloud and will not play during your timer.\n\nTo ensure it does play you must first download it within the Music app. */
+"media_picker_cloud_song_alert_message" = "A Música '%@' contém não foi baixado do iCloud e não vai tocar durante seu temporizador.\n\nPara garantir que ele toque, você deve primeiro baixá-lo dentro do app de Música.";
+/* The album '%@' contains songs yet to be downloaded from iCloud which will not play during your timer.\n\nTo ensure they do play you must first download them within the Music app. */
+"media_picker_cloud_album_alert_message" = "O álbum '%@' contém músicas ainda a ser baixadas do iCloud que não vão tocar durante seu temporizador.\n\nPara garantir que eles toquem, você deve primeiro baixá-los dentro do app de Música.";
+/* The artist '%@' contains songs yet to be downloaded from iCloud which will not play during your timer.\n\nTo ensure they do play you must first download them within the Music app. */
+"media_picker_cloud_artist_alert_message" = "O artista '%@' contém músicas ainda a ser baixadas do iCloud que não vão tocar durante seu temporizador.\n\nPara garantir que eles toquem, você deve primeiro baixá-los dentro do app de Música.";
+/* The playlist '%@' contains songs yet to be downloaded from iCloud which will not play during your timer.\n\nTo ensure they do play you must first download them within the Music app. */
+"media_picker_cloud_playlist_alert_message" = "A lista de reprodução '%@' contém músicas ainda a ser baixadas do iCloud que não vão tocar durante seu temporizador.\n\nPara garantir que eles toquem, você deve primeiro baixá-los dentro do app de Música.";
+/* The genre '%@' contains songs yet to be downloaded from iCloud which will not play during your timer.\n\nTo ensure they do play you must first download them within the Music app. */
+"media_picker_cloud_genre_alert_message" = "O Gênero '%@' contém músicas ainda a ser baixadas do iCloud que não vão tocar durante seu temporizador.\n\nPara garantir que eles toquem, você deve primeiro baixá-los dentro do app de Música.";
+/* %@pood */
+"units_unconvential_pood" = "%@pood";
+/* Mass */
+"units_title_mass_group" = "Massa";
+/* Poods */
+"units_title_pood_group" = "Poods";
+/* Long Distances */
+"units_title_long_distance_group" = "Longas Distâncias";
+/* Short Distances */
+"units_title_short_distance_group" = "Pequenas Distâncias";
+/* Kilograms */
+"units_type_kilograms" = "Quilogramas";
+/* Pounds */
+"units_type_pounds" = "Libras";
+/* Poods */
+"units_type_poods" = "Poods";
+/* Kilometres */
+"units_type_kilometers" = "Quilômetros";
+/* Miles */
+"units_type_miles" = "Milhas";
+/* Metres */
+"units_type_meters" = "Metros";
+/* Yards */
+"units_type_yards" = "Jardas";
+/* Feet */
+"units_type_feet" = "Pés";
+/* As prescribed in routine */
+"units_type_as_prescribed" = "Como prescrito na rotina";
+/* Units */
+"units_preferred_units_title" = "Unidades";
+/* Elapsed */
+"timer_elapsed" = "Decorrido";
+/* Interval */
+"timer_interval" = "Intervalo";
+/* Remaining */
+"timer_remaining" = "Restante";
+/* Up next */
+"timer_up_next" = "Próximo";
+/* End of Timer */
+"timer_end_interval_name" = "Fim do Temporizador";
+/* Current Interval */
+"timer_current_interval" = "Intervalo Atual";
+/* Exit Timer */
+"timer_options_exit" = "Sair do Temporizador";
+/* Reset */
+"timer_options_reset" = "Reiniciar";
+/* Back to Timer */
+"timer_options_resume" = "Voltar para Temporizador";
+/* Audio Selection */
+"audio_editor_interval_audio_title" = "Seleção de Áudio";
+/* Options */
+"audio_editor_options_title" = "Opções";
+/* Shuffle */
+"audio_editor_shuffle_label" = "Reprodução Aleatória";
+/* Resume */
+"audio_editor_resume_label" = "Continuar";
+/* Volume */
+"audio_editor_volume_title" = "Volume";
+/* Sound Settings */
+"sound_settings_title" = "Som";
+/* Alerts */
+"sound_settings_alerts_title" = "Alertas";
+/* Volume */
+"sound_settings_alerts_volume_label" = "Volume";
+/* Internal Audio */
+"sound_settings_interval_audio_title" = "Áudio Interno";
+/* Volume */
+"sound_settings_music_volume_label" = "Volume";
+/* Ducking */
+"sound_settings_ducking_amount_label" = "Redução";
+/* External Audio */
+"sound_settings_external_audio_title" = "Áudio Externo";
+/* Duck Volume */
+"sound_settings_external_ducking_label" = "Reduz Volume";
+/* Speech Options */
+"sound_settings_voice_title" = "Opções de Fala";
+/* Language */
+"sound_settings_language_label" = "Idioma";
+/* Pitch */
+"sound_settings_voice_pitch_label" = "Tom de Voz";
+/* Speed */
+"sound_settings_voice_speed_label" = "Velocidade";
+/* Sample Text */
+"sound_settings_sample_text_label" = "Texto Modelo";
+/* The quick brown fox jumps over the lazy dog */
+"sound_settings_sample_text_placeholder" = "A rápida raposa marrom pula sobre o cachorro preguiçoso";
+/* Speak Now */
+"sound_settings_speak_now_label" = "Fale Agora";
+/* Restore Defaults */
+"sound_settings_restore_label" = "Restaurar Padrões";
+/* Settings */
+"settings_title" = "Configurações";
+/* AirPlay */
+"settings_airplay_header" = "AirPlay";
+/* Privacy Mode */
+"settings_privacy_mode" = "Modo Privacidade";
+/* Timer Settings */
+"timer_settings_title" = "Temporizador";
+/* Disable Auto-Lock */
+"timer_settings_disable_auto_lock" = "Desabilitar Auto-Bloqueio";
+/* Buttons Require Long Press */
+"timer_settings_long_press_buttons" = "Botões Exigem Toque Longo";
+/* Tap Timer to Play/Pause */
+"timer_settings_tap_timer_to_play_pause" = "Toque Temporizador para Tocar/Pausar";
+/* Buttons Beep When Pressed */
+"timer_settings_beep_on_button_presses" = "Botões Bipam Quando Pressionados";
+/* Get Ready */
+"timer_settings_preparation_interval_name" = "Fique Pronto";
+/* Preparation Interval */
+"timer_settings_preparation_interval" = "Intervalo de Preparação";
+/* Notifications In Background */
+"timer_settings_notifications_in_background" = "Notificações de Fundo";
+/* Choose a Language */
+"voice_language_title" = "Escolha um Idioma";
+/* Current Language */
+"voice_langauge_current_title" = "Idioma Atual";
+/* Common English */
+"voice_langauge_common_title" = "Inglês Comum";
+/* Popular European */
+"voice_langauge_popular_title" = "Europeu popular";
+/* Other Languages */
+"voice_langauge_others_title" = "Outros Idiomas";
+/* External Music Detected */
+"external_music_alert_title" = "Música Externa Detectada";
+/* This routine wants to play music from your Music library but an external audio source has been detected.\nWhich would you like to use? */
+"external_music_alert_message" = "Essa rotina quer tocar música de sua biblioteca de Música, mas uma fonte externa de áudio foi detectada.\nQual você gostaria de usar?";
+/* External audio */
+"external_music_option_play" = "Áudio Externo";
+/* Timer audio */
+"external_music_option_stop" = "Áudio Temporizador";
+/* %@, %@, and %@ */
+"speech_formatted_time_three_components" = "%1$@, %2$@, e %3$@";
+/* %@ and %@ */
+"speech_formatted_time_two_components" = "%1$@ e %2$@";
+/* {current_name} for {current_duration} */
+"speech_alert_with_time" = "{current_name} para {current_duration}";
+/* Up next, {next_name} for {next_duration} */
+"speech_alert_prewarn_interval" = "Próximo, {next_name} para {next_duration}";
+/* Timer completed in */
+"speech_alert_prewarn_end" = "Temporizador completado em";
+/* Your timer is complete. */
+"speech_alert_timer_complete" = "Seu temporizador está completo.";
+/* Interval 1 */
+"speech_sample_interval_name_one" = "Intervalo 1";
+/* Interval 2 */
+"speech_sample_interval_name_two" = "Intervalo 2";
+/* Support */
+"support_title" = "Suporte";
+/* Unable to Generate Email */
+"support_no_email_alert_title" = "Não Foi Possível Gerar o E-mail";
+/* This device is not configured to send email. Would you like to copy the email 'support@runloop.com' to your clipboard to use later? */
+"support_no_email_alert_message" = "Esse dispositivo não está configurado para enviar e-mail. Você gostaria de copiar o e-mail 'support@runloop.com' para sua área de transferência para usar mais tarde?";
+/* Yes */
+"support_no_email_alert_yes" = "Sim";
+/* No */
+"support_no_email_alert_no" = "Não";
+/* Sample Timers */
+"samples_folder_name" = "Temporizadores Modelo";
+/* Seconds Demo */
+"sample_timers_demo_name" = "Demo Seconds";
+/* 7 Minute Workout */
+"sample_timers_7minute_name" = "7 Minutos de Exercício";
+/* Tabata Timer */
+"sample_timers_tabata_name" = "Temporizador Tabata";
+/* Beginner HIIT Timer */
+"sample_timers_hiit_beginner_name" = "Temporizador Iniciante HIIT";
+/* Advanced HIIT Timer */
+"sample_timers_hiit_advanced_name" = "Temporizador Avançado HIIT";
+/* Calisthenics Timer */
+"sample_timers_calisthenics_name" = "Temporizador de Ginástica";
+/* Stretch Timer */
+"sample_timers_stretches_name" = "Temporizador de Alongamento";
+/* MMA Timer */
+"sample_timers_mma_name" = "Temporizador MMA";
+/* Boxing Timer */
+"sample_timers_boxing_name" = "Temporizador de Boxe";
+/* Jumping Jacks */
+"sample_timers_exercise_jumping_jacks" = "Polichinelos";
+/* Wall Sit */
+"sample_timers_exercise_wall_sits" = "Agachamento Parede";
+/* Push-Ups */
+"sample_timers_exercise_pushups" = "Flexões";
+/* Crunches */
+"sample_timers_exercise_crunches" = "Abdominais Curtas";
+/* Step-Ups */
+"sample_timers_exercise_stepups" = "Step-Ups";
+/* Squats */
+"sample_timers_exercise_squats" = "Agachamento";
+/* Tricep Dips */
+"sample_timers_exercise_tricep_dips" = "Tríceps nas Paralelas";
+/* Plank */
+"sample_timers_exercise_plank" = "Prancha";
+/* High Knees */
+"sample_timers_exercise_high_knees" = "Elevação de Joelhos";
+/* Lunges */
+"sample_timers_exercise_lunges" = "Avanços";
+/* Push-Up with Rotation */
+"sample_timers_exercise_pushups_rotation" = "Flexão com Rotação";
+/* Side Plank */
+"sample_timers_exercise_side_planks" = "Prancha Lateral";
+/* Squat Jumps */
+"sample_timers_exercise_squat_jumps" = "Agachamento com Flexões";
+/* Sit-Ups */
+"sample_timers_exercise_situps" = "Abdominais";
+/* Squat Thrusts */
+"sample_timers_exercise_squat_thrusts" = "Agachamento com Flexões";
+/* Back Extensions */
+"sample_timers_exercise_back_extensions" = "Hiperextensão lombar";
+/* Seconds Interval Timer */
+"sample_timers_demo_interval_1" = "Seconds Temporizador Intervalado";
+/* Has A Large Clear Display */
+"sample_timers_demo_interval_2" = "Tem Uma Grande Clara Tela";
+/* Is Simple Yet Versatile */
+"sample_timers_demo_interval_3" = "É Simples, Mas Versátil";
+/* Will Speak Your Interval Names */
+"sample_timers_demo_interval_4" = "Vai Falar os Nomes dos Seus Intervalos";
+/* Play Your Music During Intervals */
+"sample_timers_demo_interval_5" = "Toque Sua Música Durante Intervalos";
+/* And Let You Assign Colours. */
+"sample_timers_demo_interval_6" = "E Lhe Permite Atribuir Cores.";
+/* Create Timers Using Templates */
+"sample_timers_demo_interval_7" = "Criar Temporizadores Usando Modelos";
+/* For H.I.I.T, Circuits, Tabata */
+"sample_timers_demo_interval_8" = "Para H.I.I.T, Circuitos, Tabata";
+/* Or Custom Timers Like This. */
+"sample_timers_demo_interval_9" = "Ou Personalize Temporizadores Como Este.";
+/* Combine Many Timers Into One. */
+"sample_timers_demo_interval_10" = "Combinar Muitos Temporizadores em Um.";
+/* Share Timers With Friends. */
+"sample_timers_demo_interval_11" = "Compartilhar Temporizadores com Amigos.";
+/* This Is Just a Quick Demo. */
+"sample_timers_demo_interval_12" = "Essa é Apenas Uma Demonstração Rápida.";
+/* The Possibilities Are Endless. */
+"sample_timers_demo_interval_13" = "As Possibilidades são Infinitas.";
+/* Quad */
+"sample_timers_stretch_quad" = "Quadríceps";
+/* Hamstring */
+"sample_timers_stretch_hamstring" = "Isquiotibais";
+/* Hip and Gluteal */
+"sample_timers_stretch_hip" = "Quadril e glúteo";
+/* Back */
+"sample_timers_stretch_back" = "Costas";
+/* Chest and Bicep */
+"sample_timers_stretch_chest" = "Peito e Bíceps";
+/* Tricep */
+"sample_timers_stretch_tricep" = "Tríceps";
+/* Neck */
+"sample_timers_stretch_neck" = "Pescoço";
+/* Love using Seconds? */
+"request_rating_title" = "Adora Usar Seconds?";
+/* Please take a moment to rate it on the App Store. */
+"request_rating_message" = "Por favor, separe um momento para avaliar na App Store.";
+/* %@ (Left) */
+"interval_name_left" = "%@ (Esquerda)";
+/* %@ (Right) */
+"interval_name_right" = "%@ (Direita)";
+/* Duplicate */
+"popover_menu_duplicate" = "Duplicar";
+/* %@ for %@ */
+"notification_interval_with_duration" = "%1$@ para %2$@";
+/* Your timer is complete. */
+"notification_timer_complete" = "Seu temporizador está completo.";
+/* Restore Purchases */
+"free_restore_purchases" = "Restaurar compras";
+/* Fetching Products... */
+"free_fetching_product" = "Buscando Produtos...";
+/* An error occurred. Tap to try again. */
+"free_error_fetching_products" = "Um erro ocorreu. Toque para tentar novamente.";
+/* Contacting App Store */
+"free_bezel_message_contacting" = "Contatando App Store";
+/* Restoring Previous Purchases */
+"free_bezel_message_restoring" = "Restaurando Compras Anteriores";
+/* Failed to Make Purchase */
+"free_bezel_message_purchase_failed" = "Falha ao Fazer Compra";
+/* Purchases Restored Successfully */
+"free_bezel_message_restore_succeeded" = "Compras Restauradas com Sucesso";
+/* Failed to Restore Purchases */
+"free_bezel_message_restore_failed" = "Falha ao Restaurar Compras";
+/* Delete */
+"edit_action_delete" = "Excluir";
+/* Edit */
+"edit_action_edit" = "Editar";
+/* Pause for Interruptions */
+"timer_settings_pause_for_interruptions" = "Pausa para Interrupções";
+/* Vibrate on Alert */
+"sound_settings_vibrate_on_alerts_label" = "Vibrar em Alerta";
+/* Hide Statusbar */
+"timer_settings_hide_status_bar" = "Esconder Barra de Status";
+/* Exit */
+"timer_exit_accessibility_label" = "Sair";
+/* Play */
+"timer_play_accessibility_label" = "Iniciar";
+/* Reset */
+"timer_reset_accessibility_label" = "Zerar";
+/* Help */
+"timer_help_accessibility_label" = "Ajuda";
+/* Lock Interface */
+"timer_lock_accessibility_label" = "Bloquear Interface";
+/* Options */
+"timer_options_accessibility_label" = "Opções";
+/* ? */
+"timer_help_button_label" = "?";
+/* Lock Interface */
+"timer_options_lock" = "Bloquear Interface";
+/* Unlock Interface */
+"timer_options_unlock" = "Desbloquear Interface";
+/* Unlock Interface */
+"timer_unlock_accessibility_label" = "Desbloquear Interface";
+/* Pause */
+"timer_pause_accessibility_label" = "Pausa";
+/* Lock Interface When Timing */
+"timer_settings_lock_interface_on_play" = "Interface Bloqueada ao Temporizar";
+/* What's Changed */
+"changelog_title" = "O Que Mudou";
+/* Exclude From Count */
+"interval_editor_exclude_from_count" = "Excluir da Contagem";
+/* Halfway Alert */
+"interval_editor_halfway_alert" = "Alerta de Meio Caminho";
+/* Allow Overrun */
+"common_editor_allow_overrun" = "Permitir excesso";
+/* Overrun */
+"timer_settings_overrun_interval_name" = "Excesso";
+/* Configure Timer Display */
+"timer_settings_display" = "Configurar Tela do Temporizador";
+/* Share on Timer Complete */
+"share_settings_share_on_complete" = "Compartilhar em Temporizador Completo";
+/* Remaining */
+"timer_interval_remaining" = "Restante";
+/* Heart Rate */
+"timer_current_bpm" = "Frequência Cardíaca";
+/* Elapsed */
+"timer_interval_elapsed" = "Decorrido";
+/* Calories */
+"timer_calories" = "Calorias";
+/* Total Time */
+"timer_display_settings_group_total_time" = "Tempo Total";
+/* Interval Time */
+"timer_display_settings_group_interval_time" = "Tempo de Intervalo";
+/* Counters */
+"timer_display_settings_group_counters" = "Contadores";
+/* Heart Rate */
+"timer_display_settings_group_heart_rate" = "Frequência Cardíaca";
+/* Timer Display */
+"timer_display_settings_title" = "Tela do Temporizador";
+/* Main */
+"timer_display_settings_main_label" = "Principal";
+/* Left */
+"timer_display_settings_left_label" = "Esquerda";
+/* Center */
+"timer_display_settings_center_label" = "Centro";
+/* Right */
+"timer_display_settings_right_label" = "Direita";
+/* Pick One */
+"timer_display_settings_options_title" = "Escolha Um";
+/* Total Remaining */
+"timer_info_total_remaining" = "Total Restante";
+/* Total Elapsed */
+"timer_info_total_elapsed" = "Total Decorrido";
+/* Interval Remaining */
+"timer_info_interval_remaining" = "Intervalo Restante";
+/* Interval Elapsed */
+"timer_info_interval_elapsed" = "Intervalo Decorrido";
+/* Interval Count */
+"timer_info_interval_count" = "Contagem de Intervalo";
+/* Current Beats per Minute */
+"timer_info_bpm_current" = "Atual Batidas por Minuto";
+/* Calories */
+"timer_info_total_calories" = "Calorias";
+/* Heart Rate Settings */
+"heart_rate_settings_title" = "Frequência Cardíaca";
+/* My Sensors */
+"heart_rate_settings_own_title" = "Meus Sensores";
+/* Nearby Sensors */
+"heart_rate_settings_nearby_title" = "Sensores Próximos";
+/* No Sensors */
+"heart_rate_settings_no_sensors" = "Sem Sensores";
+/* Discover Nearby Sensors */
+"heart_rate_settings_discover_sensors" = "Descobrir Sensores Próximos";
+/* End Discovery */
+"heart_rate_settings_stop_discovery" = "Fim da Descoberta";
+/* Personal Details */
+"personal_details_title" = "Detalhes Pessoais";
+/* Gender */
+"personal_details_sex_label" = "Sexo";
+/* Female */
+"personal_details_sex_female" = "Feminino";
+/* Male */
+"personal_details_sex_male" = "Masculino";
+/* Year of Birth */
+"personal_details_birthyear_label" = "Ano de Nascimento";
+/* Invalid Year of Birth */
+"personal_details_birthyear_invalid_title" = "Ano de Nascimento Inválido";
+/* Please enter a birth year from %d up to or including %d */
+"personal_details_birthyear_invalid_message" = "Por favor introduza um ano do nascimento de %1$li ou incluindo %2$li";
+/* Weight */
+"personal_details_weight_label" = "Peso";
+/* Unit */
+"personal_details_weight_unit_label" = "Unidade";
+/* Fitness Level */
+"personal_details_fitness_level_label" = "Nível de Fitness";
+/* Very Poor */
+"personal_details_fitness_level_very_poor" = "Muito Pobre";
+/* Poor */
+"personal_details_fitness_level_poor" = "Pobre";
+/* Fair */
+"personal_details_fitness_level_fair" = "Moderado";
+/* Good */
+"personal_details_fitness_level_good" = "Bom";
+/* Excellent */
+"personal_details_fitness_level_excellent" = "Excelente";
+/* Superior */
+"personal_details_fitness_level_superior" = "Superior";
+/* Or VO2 Max */
+"personal_details_vo2max_label" = "Ou VO2 Máx";
+/* This timer contains alerts that require downloading. You may dismiss this message now but alerts will not sound until downloaded. */
+"timer_downloading_alerts_message" = "Esse temporizador contém alertas que exigem download. Você pode excluir essa mensagem agora, mas os alertas não vão soar até serem baixados.";
+/* Downloading Alerts */
+"timer_downloading_alerts_title" = "Alertas de Download";
+/* Export */
+"toolbar_item_export" = "Exportar";
+/* {current_timer_name} completed in */
+"speech_alert_prewarn_end_with_name" = "{current_timer_name} completado em";
+/* That's halfway */
+"speech_alert_halfway" = "Isso é meio caminho";
+/* Halfway, {current_remaining_time} to go. */
+"speech_alert_halfway_with_time" = "Meio Caminho, {current_remaining_time} para ir.";
+/* Optional */
+"common_optional_placeholder" = "Opcional";
+/* Persist */
+"audio_editor_persist_label" = "Persistir";
+/* Average BPM */
+"timer_average_bpm" = "BPM Média";
+/* Max BPM */
+"timer_max_bpm" = "BPM Máx";
+/* Average Beats Per Minute */
+"timer_info_bpm_average" = "Batidas Por Minuto Média";
+/* Maximum Beats Per Minute */
+"timer_info_bpm_max" = "Batidas Por Minuto Máxima";
+/* Control With Remote */
+"timer_settings_control_with_remote" = "Controle Remoto Com";
+/* Randomise Order */
+"circuit_editor_randomise_exercises_label" = "Ordem Aleatória";
+/* Apple Health */
+"settings_health_header" = "Apple Saúde";
+/* Share Data */
+"settings_share_health_data" = "Salvar dados de treino";
+/* Other */
+"personal_details_sex_other" = "Outro";
+/* Not Set */
+"personal_details_sex_not_set" = "Não Definido";
+/* Activity */
+"common_editor_activity_label" = "Atividade";
+/* Not Set */
+"activity_type_none" = "Não Definida";
+/* Activity Type */
+"activity_picker_title" = "Tipo de Atividade";
+/* Single Beep, Short, Alternating */
+"soundscheme_beeps_single_short_alternating" = "Bip Único, Curto, Alternando";
+/* Single Beep, Long, Alternating */
+"soundscheme_beeps_single_long_alternating" = "Bip Único, Longo, Alternando";
+/* Use System Music Player */
+"sound_settings_music_player_label" = "Usar o Reprodutor de Música do Sistema";
+/* Become a beta tester */
+"support_beta_label" = "Torne-se um testador beta";
+/* Social Channels */
+"support_social_title" = "Canais Sociais";
+/* More from Runloop */
+"home_more_apps_title" = "Mais da Runloop";
+/* Workout tracker & gym log for strength training and bodybuilding. */
+"home_heavyset_description" = "Tracker e registrador de treino para treinamento de força e bodybuilding na academia.";
+/* iCloud Backups */
+"settings_backup_title" = "Backups da iCloud";
+/* iCloud Backups */
+"backup_title" = "Backups da iCloud";
+/* Select a backup to restore */
+"backup_restore_section_header" = "Selecione um backup para restaurar";
+/* Restoring this backup will overwrite your existing timers. Is this what you want to do? */
+"backup_restore_message" = "Restaurar esse backup irá sobrescrever os seus temporizadores existentes. É isso que quer fazer?";
+/* Overwrite */
+"backup_restore_overwrite" = "Sobrescrever";
+/* Restoring iCloud Backup */
+"backup_restore_progress_message" = "Restaurando Backup da iCloud";
+/* Restore Succeeded */
+"backup_restore_success_message" = "Restaurado com Sucesso";
+/* Restore Failed */
+"backup_restore_failed_message" = "Restauração Falhou";
+/* Percent of Max Heartrate */
+"timer_info_percentage_max_heartrate" = "Porcentagem da Máx. Frequência Cardíaca";
+/* Current Time */
+"timer_info_current_time" = "Tempo Atual";
+/* HR % */
+"timer_percent_heartrate" = "FC %";
+/* N/A */
+"timer_info_not_available" = "N/A";
+/* Very Light */
+"heart_zone_very_light" = "Muito Leve";
+/* Light */
+"heart_zone_light" = "Leve";
+/* Moderate */
+"heart_zone_moderate" = "Moderado";
+/* Hard */
+"heart_zone_hard" = "Difícil";
+/* Maximum */
+"heart_zone_maximum" = "Máximo";
+/* Heart Rate Zone */
+"timer_info_heartrate_zone" = "Zona de Frequência Cardíaca";
+/* Zone */
+"timer_heart_rate_zone" = "Zona";
+/* Current Time */
+"timer_current_time" = "Tempo Atual";
+/* Other */
+"timer_display_settings_group_other" = "Outro";
+/* Observed Max Heart Rate */
+"personal_details_observed_max_heart_rate_label" = "Taxa de Frequência Cardíaca Observada";
+/* Optional */
+"common_placeholder_optional" = "Opcional";
+/* Mindful Session Types */
+"activity_picker_mindful_session_title" = "Tipos de Sessão de Meditação";
+/* Workout Activity Types */
+"activity_picker_workout_activity_types_title" = "Tipos de Atividade de Exercício";
+/* Grant Pending Permissions */
+"settings_grant_pending_permissions" = "Garantir Permissões Pendentes";
+/* Album: %@ */
+"common_editor_album_no_artist" = "Álbum: %@";
+/* Dark Theme */
+"settings_dark_theme" = "Thema Escuro";
+/* Notes */
+"common_notes_section_header" = "Notas";
+/* Notes */
+"notes_editor_title" = "Notas";
+/* Not Set */
+"color_not_set" = "Não Definido";
+/* None */
+"color_picker_none_button" = "Nenhum";
+/* Foreground Colour */
+"color_foreground" = "Cor do Plano da Frente";
+/* Customise Colours */
+"color_settings_title" = "Personalizar Cores";
+/* Preview */
+"color_settings_preview_label" = "Pré-visualizar";
+/* Preview Colours */
+"color_picker_preview_title" = "Pré-visualizar Cores";
+/* Mint */
+"color_mint" = "Hortelã";
+/* Restore Defaults */
+"color_settings_reset_button_title" = "Restaurar Padrões";
+/* Previous Versions */
+"color_settings_previous_header" = "Versões Anteriores";
+/* Version 1 Colours */
+"color_settings_previous_version_1" = "Cores da Versão 1";
+/* Version 3 Colours */
+"color_settings_previous_version_3" = "Cores da Versão 3";
+/* Sort */
+"toolbar_item_sort" = "Ordenar";
+/* Dismiss */
+"sort_option_dismiss" = "Dispensar";
+/* Name, Folders first */
+"sort_option_kind_name" = "Nome, Pastas primeiro";
+/* Longest, Folders first */
+"sort_option_kind_longest" = "Mais longo, Pastas primeiro";
+/* Shortest, Folders first */
+"sort_option_kind_shortest" = "Mais curto, Pastas primeiro";
+/* Name */
+"sort_option_name" = "Nome";
+/* Cadence */
+"interval_editor_cadence_header" = "Ritmo";
+/* Beats per Minute */
+"interval_editor_bpm_label" = "Batidas por Minuto";
+/* Cadence */
+"sound_settings_cadence_title" = "Ritmo";
+/* Volume */
+"sound_settings_cadence_volume_label" = "Volume";
+/* Template Defaults */
+"settings_template_defaults_title" = "Padrões do Template";
+/* Unnamed Timer */
+"default_timer_name" = "Temporizador Não Nomeado";
+/* Unnamed Folder */
+"default_folder_name" = "Pasta Não Nomeada";
+/* Unnamed Interval */
+"default_interval_name" = "Intervalo Não Nomeado";
+/* Unknown Item */
+"unknown_object" = "Item Desconhecido";
+/* Timer has no duration */
+"timer_duration_error_title" = "Temporizador não possui duração";
+/* This timer needs to be edited to ensure it has a duration before it can be used. */
+"timer_duration_error_message" = "Esse temporizador precisa ser editado para garantir que ele possui uma duração antes de poder ser usado.";
+/* Interval Audio */
+"audio_editor_intervals_title" = "Áudio do Intervalo";
+/* Timer Audio */
+"audio_editor_timer_title" = "Áudio do Temporizador";
+/* End Message */
+"sound_settings_end_message_label" = "Finalizar Mensagem";
+/* Remove Audio */
+"audio_editor_remove_audio" = "Remover Áudio";
+/* Recent */
+"media_picker_recents_title" = "Recente";
+/* Circuit / Tabata Timer */
+"circuit_tabata_timer_type" = "Temporizador de Circuito / Tabata";
+/* Tabata Style */
+"circuit_editor_tabata_style_label" = "Estilo Tabata";
+/* Miscellaneous */
+"uncategorised_timers_title" = "Variado";
+/* Auto-Start */
+"timer_settings_autostart" = "Iniciar Automaticamente";
+/* Prefer Internal Audio */
+"timer_settings_prefer_internal_audio" = "Preferência de Áudio Interno";
+/* Num. Exercises */
+"editor_exercise_count_title" = "Num. Exer.";
+/* Ex. Duration */
+"editor_exercise_duration_title" = "Duração Exer.";
+/* Num. Cycles */
+"editor_cycles_count_title" = "Num. Ciclos";
+/* Ex. Rest */
+"editor_exercise_rest_title" = "Descanso Exer.";
+/* Cycle Rest */
+"editor_cycle_rest_title" = "Descanso Ciclo";
+/* Style */
+"editor_timer_style" = "Estilo";
+/* Warm Up */
+"editor_warm_up_title" = "Aquec.";
+/* Cool Down */
+"editor_cool_down_title" = "Desaquec.";
+/* Start */
+"editor_start_button" = "Iniciar";
+/* Next */
+"editor_next_button" = "Próximo";
+/* Back */
+"editor_back_button" = "Voltar";
+/* Circuit */
+"editor_timer_style_circuit" = "Circuito";
+/* Tabata */
+"editor_timer_style_tabata" = "Tabata";
+/* End Timer */
+"timer_end_timer_button" = "Fin. Temp.";
+/* Reset */
+"timer_reset_menu_item" = "Zerar";
+/* End Timer */
+"timer_end_timer_menu_item" = "Fin. Temp.";
+/* End Workout */
+"timer_end_workout_button" = "Fin. Exer.";
+/* End Session */
+"timer_end_session_button" = "Fin. Sessão";
+/* Restart */
+"timer_restart_button" = "Reiniciar";
+/* Your timer is complete. */
+"timer_completion_message" = "Seu temporizador está completo.";
+/* N/A */
+"timer_heart_rate_not_available" = "N/A";
+/* Quick Timer */
+"list_quick_timer_button" = "Temporizador Rápido";
+/* Summary */
+"summary_title" = "Sumário";
+/* %d%% Complete */
+"summary_percent_complete" = "%li%% Completo";
+/* Total Time */
+"summary_total_timer_title" = "Tempo Total";
+/* Active Calories */
+"summary_active_calories_title" = "Calorias Ativas";
+/* Total Calories */
+"summary_total_calories_title" = "Calorias Totais";
+/* %dcal */
+"summary_calories_value" = "%lical";
+/* Avg Heart Rate */
+"summary_average_heart_rate_title" = "Freq. Card. Méd.";
+/* %dbpm */
+"summary_average_heart_rate_value" = "%libpm";
+/* Discard */
+"summary_discard_button" = "Descartar";
+/* Dismiss */
+"summary_dismiss_button" = "Dispensar";
+/* Save Failed */
+"summary_save_failed_title" = "Salv. Falhou";
+/* Activity */
+"activities_title" = "Atividade";
+/* Location */
+"activities_location_title" = "Local";
+/* Activities */
+"activities_activities_title" = "Atividades";
+/* Indoor %@ */
+"activities_indoor_activity" = "%@ Coberta";
+/* Outdoor %@ */
+"activities_outdoor_activity" = "%@ ao Ar Livre";
+/* Your saved timers will appear here after making changes in the iOS app. */
+"list_info_message_paid" = "Seus temporizadores salvos aparecerão aqui após fazer as alterações no app para iOS.";
+/* Quick Timer */
+"quick_timer_name" = "Temporizador Rápido";
+/* Exercise %d */
+"quick_timer_exercise" = "Exercício %li";
+/* %@ (Left) */
+"timer_exercise_name_left" = "%@ (Esquerda)";
+/* %@ (Right) */
+"timer_exercise_name_right" = "%@ (Direita)";
+/* Warm Up */
+"quick_timer_warm_up" = "Aquecimento";
+/* Cool Down */
+"quick_timer_cool_down" = "Desaquecimento";
+/* Rest */
+"quick_timer_rest" = "Descanso";
+/* Have you granted the required permissions in the iOS app settings? */
+"summary_save_failed_message" = "Você garantiu as permissões necessárias nas configurações do app iOS?";
+/* Unnamed Timer */
+"list_unnamed_timer" = "Temp. Sem Nome";
+/* Unnamed Folder */
+"list_unnamed_folder" = "Pasta Sem Nome";
+/* Available Upgrades */
+"upgrade_available_products_header" = "Atualizações Disponíveis";
+/* Restores purchases made with previous installations of Seconds. */
+"upgrade_restore_footer" = "Restaura compras feitas com as instalações do Seconds anteriores";
+/* Upgrade */
+"upgrade_title" = "Atualizar";
+/* To assign audio to your intervals you will need to update your settings and allow %@ access to your Media Library */
+"media_permission_warning_message" = "Para colocar áudio nos seus intervalos, você precisará atualizar suas configurações e permitir %@ acessar a sua Biblioteca de Mídia";
+/* Audio not found */
+"audio_not_found_title" = "Áudio não encontrado";
+/* Please reselect your audio */
+"audio_not_found_message" = "Selecionar novamente o seu áudio";
+/* Sync song changes with intervals */
+"audio_editor_timer_resume_label" = "A sincronização das músicas muda com os intervalos";
+/* Skip restart option */
+"watch_settings_skip_restart_option" = "Pular opção de reiniciar";
+/* Discard */
+"timer_discard_workout_menu_item" = "Descartar";
+/* Sync Timers Now */
+"watch_settings_sync_now" = "Sincronizar Temporizadores Agora";
+/* Swimming */
+"watch_settings_swimming_header" = "Natação";
+/* Pool Length */
+"watch_settings_pool_length_label" = "Comprimento da piscina";
+/* Unit of Measurement */
+"watch_settings_pool_unit_label" = "Unidade de medida";
+/* Metres */
+"unit_metres" = "Metros";
+/* Yards */
+"unit_yards" = "Jardas";
+/* Low Power Mode */
+"watch_settings_low_power_mode_label" = "Modo de baixa potência";
+/* Alerts */
+"watch_settings_enable_alerts_title" = "Alertas";
+/* Volume */
+"watch_settings_alert_volume_title" = "Volume";
+/* Haptic */
+"watch_settings_enable_haptic_title" = "Háptico";
+/* Done */
+"summary_done_button" = "Concluído";
+/* Lock */
+"timer_water_lock_menu_item" = "Bloqueio";
+/* Error */
+"alert_error_title" = "Erro";
+/* Count Up Indefinitely */
+"interval_editor_count_up" = "Contar indefinidamente";
+/* Estimated Duration */
+"interval_editor_estimated_duration_label" = "Duração estimada";
+/* Seconds saves a backup file to your private iCloud container each time you make a change to your timers.\n\nTo restore a backup tap the row.\n\nTo delete a backup swipe left across the row and tap Delete. */
+"backup_privacy_message" = "O Seconds salva um arquivo de backup em seu contêiner particular do iCloud toda vez que você faz uma alteração nos timers.\n\nPara restaurar um backup, toque na linha.\n\nPara excluir um deslize de backup para a esquerda na linha e toque em Excluir.";
+/* Your personal details are only used within the app to increase the accuracy of calorie calculations. This information is never shared with 3rd parties. */
+"personal_details_privacy_footer" = "Seus dados pessoais são usados apenas dentro do aplicativo para aumentar a precisão dos cálculos de calorias. Esta informação nunca é compartilhada com terceiros.";
+/* Free */
+"common_free" = "Livre";
+/* Play All */
+"toolbar_item_play_all" = "Jogue tudo";
+/* Upgrade now - %@ */
+"upsell_delay_upgrade_button" = "Atualize agora - %@";
+/* Upgrade to skip this screen. */
+"upsell_delay_body_watch" = "Upgrade para pular esta tela.";
+/* Please wait */
+"upsell_delay_title_watch" = "Esperar";
+/* Nothing to restore */
+"free_bezel_message_restore_no_products" = "Nada para restaurar";
+/* Fetching price... */
+"common_fetching_price" = "Buscando o preço";
+/* Upgrade now - %@ */
+"upsell_upgrade_title" = "Atualize agora - %@";
+/* Upgrade to Pro */
+"upsell_title" = "Atualizar para Pro";
+/* Upgrade now - %@ */
+"timer_list_upgrade_button_title" = "Atualize agora - %@";
+/* Upgrade to remove all restrictions and delays. Previous purchases can be restored in %@ > %@. */
+"timer_list_upgrade_footnote" = "Upgrade para remover todas as restrições, anúncios e atrasos.";
+/* As a non-paying user you may only use the timers you create one time. Please upgrade to remove this restriction. */
+"upsell_message_upgrade" = "Como um usuário não-pagantes você só pode usar os temporizadores você cria uma vez. Por favor, atualize para remover essa restrição.";
+/* Start a timer */
+"watch_complication_start_timer" = "Iniciar um temporizador";
+/* Welcome to %@ */
+"welcome_heading" = "Bem vindo a %@";
+/* Advanced Templates */
+"welcome_design_title" = "Modelos Avançados";
+/* Easily design complex interval timers for any activity using templates. */
+"welcome_design_message" = "Projete facilmente cronômetros de intervalo complexos para qualquer atividade usando modelos.";
+/* Text to Speech */
+"welcome_speech_title" = "Texto para fala";
+/* Hear the interval names in advance so you always know what's next. */
+"welcome_speech_message" = "Ouça os nomes dos intervalos com antecedência para saber sempre o que vem por aí.";
+/* Listen to Your Music */
+"welcome_music_title" = "Ouça sua música";
+/* Match the intensity of your music to the intensity of you workout. */
+"welcome_music_message" = "Combine a intensidade da sua música com a intensidade do seu treino.";
+/* Accept & Continue */
+"welcome_continue_button" = "Aceitar e continuar";
+/* Runloop has updated its privacy policy. */
+"privacy_update_heading" = "Runloop atualizou sua política de privacidade.";
+/* Runloop collects Usage Data to improve the app, and shares Aggregated Data with providers. To learn more please read our %@ and %@ before continuing. */
+"privacy_disclaimer" = "O Runloop coleta dados de uso para melhorar o aplicativo e compartilha dados agregados com provedores. Para saber mais, leia nossos %1$@ e %2$@ antes de continuar.";
+/* privacy policy */
+"privacy_disclaimer_policy_title" = "política de Privacidade";
+/* terms and conditions */
+"privacy_disclaimer_terms_title" = "termos e Condições";
+/* Accept & Continue */
+"privacy_update_continue_button" = "Aceitar e continuar";
+/* Restrictions */
+"restrictions_header" = "Restrições";
+/* Seconds is a paid app that can be used for free to trial all its features before committing to a one-time purchase.\n\nBefore upgrading users may use the timers they create one time only, after which the paid upgrade is required to use them again.\n\nUsers can use the app for free for as long as they like by recreating their timers before each use. */
+"restrictions_body" = "Segundos é um aplicativo pago que pode ser usado gratuitamente para testar todos os seus recursos antes de se comprometer com uma compra única. \n\n Antes de atualizar, os usuários podem usar os cronômetros que eles criam apenas uma vez, após o qual a atualização paga é necessária para usá-los novamente. \n\n Os usuários podem usar o aplicativo gratuitamente pelo tempo que quiserem, recriando seus timers antes de cada uso.";
+/* I Understand */
+"restrictions_button_title" = "Compreendo";
+/* Support is available in English only. */
+"support_section_footer" = "O suporte está disponível apenas em inglês.";
+/* Search Help Topics */
+"support_help_topics_title" = "Pesquisar tópicos da Ajuda";
+/* Continue Conversation */
+"support_conversation_title" = "Continue conversando";
+/* Notifications */
+"notifications_header" = "Notificações";
+/* Seconds may send notifications for the following reasons only: */
+"notification_intro" = "Segundos podem enviar notificações apenas pelos seguintes motivos:";
+/* Alert you to interval changes while in the background. */
+"notification_purpose_0" = "Alertá-lo para mudanças de intervalo, enquanto em segundo plano.";
+/* Alert you when a support issue is updated. */
+"notification_purpose_1" = "Alerte você quando um problema de suporte for atualizado.";
+/* Runloop will never send you marketing or other unwanted messages via notifications. */
+"notification_outro" = "O Runloop nunca enviará mensagens de marketing ou outras mensagens indesejadas por meio de notificações.";
+/* Enable Notifications */
+"notification_enable_button" = "Ativar notificações";
+/* Continue without notifications */
+"notification_skip_button" = "Continue sem notificações";
+/* Exercise [%i] */
+"circuit_editor_new_exercise_name" = "Exercício %li";
+"interval_editor_reduced_volume" = "Reduzir o volume do áudio";
+"settings_privacy_title" = "Privacidade";
+"settings_privacy_analytics_title" = "Ativar o Analytics";
+"settings_privacy_analytics_description" = "O Runloop monitora instalações ativas, exibições de tela e outros eventos de interface para melhorar a qualidade e o desempenho do aplicativo. O conteúdo do usuário e os dados de integridade nunca são enviados para nossos servidores.";
+"settings_privacy_crash_title" = "Ativar relatórios de falhas";
+"settings_privacy_crash_description" = "O Runloop coleta relatórios de falhas para ajudar a diagnosticar erros fatais e melhorar a qualidade, o desempenho e a experiência do usuário do aplicativo.";
+/* Reset */
+"countdown_timer_reset" = "Restabelecer";
+/* Countdown */
+"countdown_timer_title" = "Contagem regressiva";
+/* Your countdown is complete */
+"countdown_notification_message" = "Sua contagem regressiva está completa";
+/* My Intervals */
+"intervals_tabbar_title" = "Intervalos";
+/* Preset %d */
+"countdown_preset_title" = "Predefinição %li";
+/* Countdown Presets */
+"timer_settings_countdown_presets" = "Predefinições de contagem regressiva";
+/* Countdown presets are only editable for upgraded users. */
+"countdown_presets_footer" = "As predefinições de contagem regressiva são editáveis apenas para usuários atualizados.";
+/* Please wait while your timers are transferred from your phone. */
+"watch_loading_timers_message" = "Aguarde enquanto os seus temporizadores são transferidos do seu telefone.";
+/* Voice */
+"watch_voice_title" = "Voz";
+/* Start */
+"stopwatch_button_start" = "Começar";
+/* Stop */
+"stopwatch_button_stop" = "Pare";
+/* Lap */
+"stopwatch_button_lap" = "Colo";
+/* Reset */
+"stopwatch_button_reset" = "Restabelecer";
+/* Lap %li */
+"stopwatch_lap_title" = "Colo %li";
+/* Stopwatch */
+"stopwatch_title" = "Cronômetro";
+/* Stopwatch */
+"watch_stopwatch_title" = "Cronômetro";
+/* Pause Between Sides */
+"interval_editor_split_rest_duration" = "Pausa entre os lados";
+/* Swap sides */
+"interval_name_swap_sides" = "Troque os lados";
+/* Quick Intervals */
+"watch_home_quick_timer" = "Intervalos Rápidos";
+/* My Intervals */
+"watch_home_intervals" = "Meus intervalos";
+/* Countdown */
+"watch_home_countdown" = "Contagem regressiva";
+/* Stopwatch */
+"watch_home_stopwatch" = "Cronômetro";
+/* Settings */
+"watch_home_settings" = "Definições";
+/* Alerts */
+"watch_settings_alerts" = "Alertas";
+/* Haptics */
+"watch_settings_haptics" = "Haptics";
+/* Low Power Mode */
+"watch_settings_low_power" = "Modo de baixo consumo";
+/* Skip Restart Option */
+"watch_settings_skip_restart" = "Ignorar a opção de reinicialização";
+/* Total Time */
+"editor_total_time_title" = "Tempo total";
+/* Anonymous */
+"user_details_anonymous" = "Anônimo";
+/* Signed in as */
+"user_details_signed_in_label" = "Assinado como";
+/* User Account */
+"user_details_title" = "Conta de usuário";
+/* This anonymous user is valid on this device only. */
+"user_details_anonymous_footer" = "Este usuário anônimo é válido apenas neste dispositivo.";
+/* Upgrade Status */
+"user_details_upgrade" = "Status de Upgrade";
+/* None */
+"user_details_upgrade_none" = "Nenhum";
+/* Unverified */
+"user_details_upgrade_unverified" = "Não verificado";
+/* Verified */
+"user_details_upgrade_verified" = "Verificado";
+/* Verify Upgrade */
+"user_details_verify_upgrade" = "Verificar atualização";
+/* Sign Out */
+"user_details_sign_out" = "Sair";
+/* Copy User ID */
+"user_details_copy_uid" = "Copiar ID do usuário";
+/* Verification Successful */
+"free_bezel_message_verify_succeeded" = "Verificação bem sucedida";
+/* Unable to Verify */
+"free_bezel_message_verify_failed" = "Não é possível verificar";
+/* Verifying */
+"free_bezel_message_verifying" = "Verificando";
+/* Report a bug */
+"support_report_bug" = "Reportar um erro";
+/* Contact Support */
+"support_help_contact" = "Entre em contato com o suporte";
+/* Left */
+"interval_name_first_half_default" = "Esquerda";
+/* Right */
+"interval_name_second_half_default" = "Direito";
+/* %1$@ (%2$@) */
+"interval_name_split" = "%1$@ (%2$@)";
+/* First Half */
+"interval_name_first_half_label" = "Primeira metade";
+/* Second Half */
+"interval_name_second_half_label" = "Segundo tempo";
+/* Version 3 (Light) Colours */
+"color_settings_previous_version_3_light" = "Versão 3 cores (tema claro)";
+/* Version 3 (Dark) Colours */
+"color_settings_previous_version_3_dark" = "Versão 3 cores (tema escuro)";
+/* For creating a URL for sharing with other users. */
+"toolbar_item_share_online" = "Compartilhar";
+/* For sharing a URL created for use on the device. */
+"toolbar_item_share_device" = "Compartilhar";
+/* Relates to app icon shortcut options and URLs created to be used on the device. */
+"timer_settings_shortcuts_heading" = "Ações rápidas e URLs";

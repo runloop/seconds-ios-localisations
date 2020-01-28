@@ -1,0 +1,154 @@
+/* Other */
+"3000" = "其他";
+/* American Football */
+"1" = "美式足球";
+/* Archery */
+"2" = "射箭";
+/* Australian Football */
+"3" = "澳式足球";
+/* Badminton */
+"4" = "羽毛球";
+/* Baseball */
+"5" = "棒球";
+/* Basketball */
+"6" = "籃球";
+/* Bowling */
+"7" = "保齡球";
+/* Boxing */
+"8" = "拳擊";
+/* Climbing */
+"9" = "攀岩";
+/* Cricket */
+"10" = "板球";
+/* Cross Training */
+"11" = "交叉訓練";
+/* Curling */
+"12" = "冰壺";
+/* Cycling */
+"13" = "自行車";
+/* Dance */
+"14" = "跳舞";
+/* Dance Inspired Training */
+"15" = "靈感來源於舞蹈的訓練";
+/* Elliptical */
+"16" = "橢圓運動";
+/* Equestrian Sports */
+"17" = "馬術運動";
+/* Fencing */
+"18" = "擊劍";
+/* Fishing */
+"19" = "垂釣";
+/* Functional Strength Training */
+"20" = "功能性力量訓練";
+/* Golf */
+"21" = "高爾夫";
+/* Gymnastics */
+"22" = "體操";
+/* Handball */
+"23" = "手球";
+/* Hiking */
+"24" = "遠足";
+/* Hockey */
+"25" = "冰球";
+/* Hunting */
+"26" = "打獵";
+/* Lacrosse */
+"27" = "曲棍球";
+/* Martial Arts */
+"28" = "武術";
+/* Mind and Body */
+"29" = "身心";
+/* Mixed Metabolic Cardio Training */
+"30" = "複合新陳代謝有氧訓練";
+/* Paddle Sports */
+"31" = "皮划艇運動";
+/* Play */
+"32" = "播放";
+/* Preparation and Recovery */
+"33" = "準備活動和恢復";
+/* Racquetball */
+"34" = "回力球";
+/* Rowing */
+"35" = "划船";
+/* Rugby */
+"36" = "橄欖球";
+/* Running */
+"37" = "跑步";
+/* Sailing */
+"38" = "帆船運動";
+/* Skating Sports */
+"39" = "滑冰運動";
+/* Snow Sports */
+"40" = "冰雪運動";
+/* Football */
+"41" = "足球";
+/* Softball */
+"42" = "壘球";
+/* Squash */
+"43" = "壁球";
+/* Stair Climbing */
+"44" = "爬樓梯";
+/* Surfing Sports */
+"45" = "衝浪運動";
+/* Swimming */
+"46" = "游泳";
+/* Table Tennis */
+"47" = "乒乓球";
+/* Tennis */
+"48" = "網球";
+/* Track and Field */
+"49" = "田徑";
+/* Traditional Strength Training */
+"50" = "傳統的力量訓練";
+/* Volleyball */
+"51" = "排球";
+/* Walking */
+"52" = "散步";
+/* Water Fitness */
+"53" = "水上健身";
+/* Water Polo */
+"54" = "水球";
+/* Water Sports */
+"55" = "水上運動";
+/* Wrestling */
+"56" = "摔跤";
+/* Yoga */
+"57" = "瑜伽";
+/* Barre */
+"58" = "Barre";
+/* Core Training */
+"59" = "核心訓練";
+/* Cross Country Skiing */
+"60" = "越野滑雪";
+/* Downhill Skiing */
+"61" = "下坡滑雪";
+/* Flexibility */
+"62" = "靈活性";
+/* High Intensity Interval Training */
+"63" = "高強度間歇訓練";
+/* Jump Rope */
+"64" = "跳繩";
+/* Kickboxing */
+"65" = "踢拳";
+/* Pilates */
+"66" = "普拉提";
+/* Snowboarding */
+"67" = "單板滑雪";
+/* Stairs */
+"68" = "爬樓梯";
+/* Step Training */
+"69" = "按步訓練";
+/* Wheelchair Walk Pace */
+"70" = "輪椅步行速度";
+/* Wheelchair Run Pace */
+"71" = "輪椅跑步速度";
+/* Tai Chi */
+"72" = "太極";
+/* Mixed Cardio */
+"73" = "混合有氧運動";
+/* Hand Cycling */
+"74" = "手騎自行車";
+/* Disc Sports */
+"75" = "光盤運動";
+/* Fitness Gaming */
+"76" = "健身遊戲";

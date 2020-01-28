@@ -1,0 +1,1220 @@
+/* My Timers */
+"home_title" = "Mina timers";
+/* My Timers */
+"menu_timers" = "Mina timers";
+/* Settings */
+"menu_settings" = "Inställningar";
+/* Items: %@ */
+"container_number_of_items" = "Objekt: %@";
+/* Imported Timers */
+"imported_timers_title" = "Importerade timers";
+/* Cut */
+"edit_control_cut" = "Klipp ut";
+/* Copy */
+"edit_control_copy" = "Kopiera";
+/* Paste */
+"edit_control_paste" = "Klistra in";
+/* Share */
+"toolbar_item_share" = "Dela";
+/* Organise */
+"toolbar_item_edit" = "Organisera";
+/* Done */
+"toolbar_item_done" = "Klar";
+/* Help */
+"toolbar_item_help" = "Hjälp";
+/* Shared Timers */
+"shared_items_container_name" = "Delade timers";
+/* An Error Occurred */
+"share_error_title" = "Ett fel uppstod";
+/* Something went wrong with your request. Please try again later. */
+"share_error_message" = "Något gick fel med din begäran. Försök igen senare.";
+/* Cancel */
+"navigation_bar_cancel_button" = "Avbryt";
+/* Close */
+"navigation_bar_close_button" = "Stäng";
+/* Import Here */
+"navigation_bar_import_button" = "Importera hit";
+/* Dismiss */
+"alert_dismiss_button_title" = "Avfärda";
+/* Name */
+"container_editor_name_label" = "Namn";
+/* Folder */
+"container_editor_title" = "Mapp";
+/* Choose Template */
+"editor_picker_title" = "Välj mall";
+/* New Folder */
+"editor_option_folder" = "Ny mapp";
+/* Import From Clipboard */
+"editor_option_import" = "Importera från urklipp";
+/* Rest */
+"common_timer_rest" = "Vila";
+/* Warm Up */
+"common_timer_warmup" = "Uppvärmning";
+/* Cool Down */
+"common_timer_cooldown" = "Nedvarvning";
+/* HIIT Timer */
+"hiit_timer_type" = "HIIT-timer";
+/* High Intensity */
+"hiit_timer_high_intensity" = "Hög intensitet";
+/* Low Intensity */
+"hiit_timer_low_intensity" = "Låg intensitet";
+/* Circuit Timer */
+"circuit_timer_type" = "Timer för cirkelträning";
+/* Compound Timer */
+"compound_timer_type" = "Timer för kombinationsträning";
+/* Custom Timer */
+"custom_timer_type" = "Anpassad timer";
+/* Round Timer */
+"round_timer_type" = "Timer för omgång";
+/* Round */
+"round_timer_round" = "Omgång";
+/* Break */
+"round_timer_break" = "Rast";
+/* Tabata Timer */
+"tabata_timer_type" = "Tabata-timer";
+/* Advanced Timer (Non-editable) */
+"advanced_timer_type" = "Avancerad timer (kan ej redigeras)";
+/* Required */
+"common_editor_required_section_header" = "Krävs";
+/* Optional */
+"common_editor_optional_section_header" = "Valfritt";
+/* Exercises */
+"common_editor_exercises_section_header" = "Övningar";
+/* Extras */
+"common_editor_audio_section_header" = "Tillval";
+/* Number of Sets */
+"common_editor_sets_label" = "Antal repetitioner";
+/* Alerts */
+"common_editor_soundscheme_label" = "Notiser";
+/* Audio */
+"common_editor_music_label" = "Ljud";
+/* Preview */
+"common_editor_preview_label" = "Förhandsvisa";
+/* No Audio Selected */
+"common_editor_no_music" = "Inget ljud valt";
+/* Playlist: %@ */
+"common_editor_playlist" = "Spellista: %@";
+/* Song: [title] - [artist] */
+"common_editor_song" = "Låt: %1$@ - %2$@";
+/* Album: %@ - %@ */
+"common_editor_album" = "Album: %1$@ - %2$@";
+/* Genre: %@ */
+"common_editor_genre" = "Genre: %@";
+/* Podcast: %@ - %@ */
+"common_editor_podcast" = "Podcast: %@ - %@";
+/* Audiobook: %@ */
+"common_editor_audiobook" = "Ljudbok: %@";
+/* Artist: %@ */
+"common_editor_artist" = "Artist: %@";
+/* Rest Between Intervals */
+"common_editor_interval_rest_label" = "Vila mellan intervaller";
+/* Rest Between Sets */
+"common_editor_set_rest_label" = "Vila mellan repetitioner";
+/* Warmup */
+"common_editor_warmup_label" = "Uppvärmning";
+/* Cooldown */
+"common_editor_cooldown_label" = "Nedvarvning";
+/* HIIT Timer */
+"hiit_editor_title" = "HIIT-timer";
+/* Name */
+"hiit_editor_name_label" = "Namn";
+/* High Intensity */
+"hiit_editor_high_intensity_label" = "Hög intensitet";
+/* Low Intensity */
+"hiit_editor_low_intensity_label" = "Låg intensitet";
+/* Warmup */
+"hiit_editor_warmup_label" = "Uppvärmning";
+/* Cool Down */
+"hiit_editor_cooldown_label" = "Nedvarvning";
+/* Start With Low Intensity */
+"hiit_editor_extra_low_label" = "Börja med låg intensitet";
+/* Round Timer */
+"round_editor_title" = "Timer för omgång";
+/* Number of Rounds */
+"round_editor_rounds_label" = "Antal omgångar";
+/* Rounds */
+"round_editor_round_label" = "Omgångar";
+/* Breaks */
+"round_editor_break_label" = "Raster";
+/* Add Exercise */
+"circuit_editor_add_exercise_label" = "Lägg till övning";
+/* Circuit Timer */
+"circuit_editor_title" = "Timer för cirkelträning";
+/* Custom Timer */
+"custom_editor_title" = "Anpassad timer";
+/* Compound Timer */
+"compound_editor_title" = "Timer för kombinationsträning";
+/* Sub-Timers */
+"compound_editor_subtimers_section_header" = "Sub-timers";
+/* Add Sub-Timer */
+"compound_editor_add_subtimer_label" = "Lägg till sub-timer";
+/* Number of Cycles */
+"compound_editor_times_to_repeat_label" = "Antal varv";
+/* Rest Between Sub-Timers */
+"compound_editor_timer_rest_label" = "Vila mellan sub-timers";
+/* Rest Between Cycles */
+"compound_editor_repeat_rest_label" = "Vila mellan varv";
+/* Interval */
+"interval_editor_title" = "Intervall";
+/* Name */
+"interval_editor_name_label" = "Namn";
+/* Duration */
+"interval_editor_duration_label" = "Längd";
+/* Colour */
+"interval_editor_color_label" = "Färg";
+/* Split Interval Left/Right */
+"interval_editor_split_left_right" = "Dela intervall vänster/höger";
+/* No Sounds */
+"soundscheme_none" = "Inget ljud";
+/* Beeps */
+"soundscheme_beeps_title" = "Pip";
+/* Default Beeps */
+"soundscheme_beeps_default" = "Standardpip";
+/* Single Beep, Short */
+"soundscheme_beeps_single_short" = "Ett pip, kort";
+/* Single Beep, Long */
+"soundscheme_beeps_single_long" = "Ett pip, långt";
+/* Three Beeps + 10 Second Beep */
+"soundscheme_beeps_three_with_ten" = "Tre pip + 10-sekunderspip";
+/* Five Beeps + 10 Second Beep */
+"soundscheme_beeps_five_with_ten" = "Fem pip + 10-sekunderspip";
+/* Text-to-Speech */
+"soundscheme_tts_title" = "Text till tal";
+/* Text-to-Speech with Count */
+"soundscheme_tts_with_count" = "Text till tal med räkning";
+/* Text-to-Speech without Count */
+"soundscheme_tts_without_count" = "Text till tal utan räkning";
+/* Text-to-Speech with Time */
+"soundscheme_tts_with_time" = "Text till tal med tid";
+/* Text-to-Speech with Warning */
+"soundscheme_tts_with_warning" = "Text till tal med varning";
+/* Meditation */
+"soundscheme_meditation_title" = "Meditation";
+/* Gong */
+"soundscheme_meditation_gong" = "Gong";
+/* Thai Gong */
+"soundscheme_meditation_gong_thai" = "Thailändsk gong";
+/* Tibetan Bell */
+"soundscheme_meditation_bell" = "Tibetansk klocka";
+/* Cowbell */
+"soundscheme_misc_cowbell" = "Koskälla";
+/* Cuckoo */
+"soundscheme_misc_cuckoo" = "Gökur";
+/* Vibrations Only */
+"soundscheme_vibrations_title" = "Endast vibration";
+/* One Vibration */
+"soundscheme_vibrations_one" = "En vibration";
+/* Four Vibrations */
+"soundscheme_vibrations_four" = "Fyra vibrationer";
+/* Round Based */
+"soundscheme_rounds_title" = "Rondbaserad";
+/* MMA */
+"soundscheme_rounds_mma" = "MMA";
+/* Boxing */
+"soundscheme_rounds_boxing" = "Boxning";
+/* Select Colour */
+"color_picker_title" = "Välj färg";
+/* Grey */
+"color_grey" = "Grå";
+/* Red */
+"color_red" = "Röd";
+/* Orange */
+"color_orange" = "Orange";
+/* Yellow */
+"color_yellow" = "Gul";
+/* Green */
+"color_green" = "Grön";
+/* Blue */
+"color_blue" = "Blå";
+/* Purple */
+"color_purple" = "Lila";
+/* Magenta */
+"color_magenta" = "Magenta";
+/* Violet */
+"color_violet" = "Lila";
+/* Value must be at least %d */
+"validator_integer_too_small" = "Värdet måste vara minst %li";
+/* Value must be at most %d */
+"validator_integer_too_large" = "Värdet måste vara högst %li";
+/* String required */
+"validator_string_required" = "Sträng krävs";
+/* Songs */
+"media_picker_songs_title" = "Låtar";
+/* Playlists */
+"media_picker_playlists_title" = "Spellistor";
+/* Albums */
+"media_picker_album_title" = "Album";
+/* Artists */
+"media_picker_artist_title" = "Artister";
+/* Genres */
+"media_picker_genre_title" = "Genres";
+/* Podcasts */
+"media_picker_podcasts_title" = "Podcaster";
+/* Audiobooks */
+"media_picker_audiobooks_title" = "Ljudböcker";
+/* Select Anyway */
+"media_picker_alert_action_ok" = "Välj ändå";
+/* Pick Another */
+"media_picker_alert_action_pick_again" = "Välj annan";
+/* Undownloaded Media */
+"media_picker_cloud_item_alert_title" = "Ej nerladdad media";
+/* The song '%@' has not been downloaded from iCloud and will not play during your timer.\n\nTo ensure it does play you must first download it within the Music app. */
+"media_picker_cloud_song_alert_message" = "Låten '%@' har inte laddats ner från iCloud och kommer inte att spelas under tiden på din timer.\n\nFör att vara säker på att den spelas måste du först ladda ner den i Musikappen.";
+/* The album '%@' contains songs yet to be downloaded from iCloud which will not play during your timer.\n\nTo ensure they do play you must first download them within the Music app. */
+"media_picker_cloud_album_alert_message" = "Albumet '%@' innehåller låtar som inte har laddats ner från iCloud och kommer inte att spelas upp under tiden på din timer.\n\nFör att vara säker på att de kommer att spelas upp måste du först ladda ner dem i Musikappen.";
+/* The artist '%@' contains songs yet to be downloaded from iCloud which will not play during your timer.\n\nTo ensure they do play you must first download them within the Music app. */
+"media_picker_cloud_artist_alert_message" = "Artisten '%@' har låtar som inte har laddats ner från iCloud och kommer inte kommer att spelas upp under tiden på din timer.\n\nFör att vara säker på att de spelas upp måste du först ladda ner dem i Musikappen.";
+/* The playlist '%@' contains songs yet to be downloaded from iCloud which will not play during your timer.\n\nTo ensure they do play you must first download them within the Music app. */
+"media_picker_cloud_playlist_alert_message" = "Spellistan '%@' innehåller låtar som inte har laddats ner från iCloud och kommer inte att spelas upp under tiden på din timer.\n\nFör att vara säker på att de spelas upp måste du först ladda ner dem i Musikappen.";
+/* The genre '%@' contains songs yet to be downloaded from iCloud which will not play during your timer.\n\nTo ensure they do play you must first download them within the Music app. */
+"media_picker_cloud_genre_alert_message" = "Genren '%@' innehåller låtar som inte har laddats ner från iCloud och kommer inte att spelas upp under tiden på din timer.\n\nFör att vara säker på att de spelas upp måste du först ladda ner dem i Musikappen.";
+/* %@pood */
+"units_unconvential_pood" = "%@pood";
+/* Mass */
+"units_title_mass_group" = "Vikt";
+/* Poods */
+"units_title_pood_group" = "Poods";
+/* Long Distances */
+"units_title_long_distance_group" = "Långdistans";
+/* Short Distances */
+"units_title_short_distance_group" = "Kortdistans";
+/* Kilograms */
+"units_type_kilograms" = "Kilogram";
+/* Pounds */
+"units_type_pounds" = "Pund";
+/* Poods */
+"units_type_poods" = "Poods";
+/* Kilometres */
+"units_type_kilometers" = "Kilometer";
+/* Miles */
+"units_type_miles" = "Miles";
+/* Metres */
+"units_type_meters" = "Meter";
+/* Yards */
+"units_type_yards" = "Yards";
+/* Feet */
+"units_type_feet" = "Fot";
+/* As prescribed in routine */
+"units_type_as_prescribed" = "Som ordinerat i rutinen";
+/* Units */
+"units_preferred_units_title" = "Enheter";
+/* Elapsed */
+"timer_elapsed" = "Förfluten";
+/* Interval */
+"timer_interval" = "Intervall";
+/* Remaining */
+"timer_remaining" = "Återstående";
+/* Up next */
+"timer_up_next" = "Nästa";
+/* End of Timer */
+"timer_end_interval_name" = "Slut på timer";
+/* Current Interval */
+"timer_current_interval" = "Aktuellt intervall";
+/* Exit Timer */
+"timer_options_exit" = "Avsluta timer";
+/* Reset */
+"timer_options_reset" = "Nollställ";
+/* Back to Timer */
+"timer_options_resume" = "Återgå till timern";
+/* Audio Selection */
+"audio_editor_interval_audio_title" = "Ljudval";
+/* Options */
+"audio_editor_options_title" = "Alternativ";
+/* Shuffle */
+"audio_editor_shuffle_label" = "Blanda";
+/* Resume */
+"audio_editor_resume_label" = "Fortsätt";
+/* Volume */
+"audio_editor_volume_title" = "Volym";
+/* Sound Settings */
+"sound_settings_title" = "Ljudinställningar";
+/* Alerts */
+"sound_settings_alerts_title" = "Notiser";
+/* Volume */
+"sound_settings_alerts_volume_label" = "Volym";
+/* Internal Audio */
+"sound_settings_interval_audio_title" = "Interna ljud";
+/* Volume */
+"sound_settings_music_volume_label" = "Volym";
+/* Ducking */
+"sound_settings_ducking_amount_label" = "Ducking";
+/* External Audio */
+"sound_settings_external_audio_title" = "Externa ljudfiler";
+/* Duck Volume */
+"sound_settings_external_ducking_label" = "Sänk volymen";
+/* Speech Options */
+"sound_settings_voice_title" = "Alternativ för tal";
+/* Language */
+"sound_settings_language_label" = "Språk";
+/* Pitch */
+"sound_settings_voice_pitch_label" = "Tonhöjd";
+/* Speed */
+"sound_settings_voice_speed_label" = "Hastighet";
+/* Sample Text */
+"sound_settings_sample_text_label" = "Exempeltext";
+/* The quick brown fox jumps over the lazy dog */
+"sound_settings_sample_text_placeholder" = "Flygande bäckasiner söka vila på mjuka tuvor";
+/* Speak Now */
+"sound_settings_speak_now_label" = "Tala nu";
+/* Restore Defaults */
+"sound_settings_restore_label" = "Återställ standardinställningar";
+/* Settings */
+"settings_title" = "Inställningar";
+/* AirPlay */
+"settings_airplay_header" = "AirPlay";
+/* Privacy Mode */
+"settings_privacy_mode" = "Privat läge";
+/* Timer Settings */
+"timer_settings_title" = "Timerinställningar";
+/* Disable Auto-Lock */
+"timer_settings_disable_auto_lock" = "Stäng av auto-lås";
+/* Buttons Require Long Press */
+"timer_settings_long_press_buttons" = "Knapparna kräver långt tryck";
+/* Tap Timer to Play/Pause */
+"timer_settings_tap_timer_to_play_pause" = "Tryck på timern för att spela/pausa";
+/* Buttons Beep When Pressed */
+"timer_settings_beep_on_button_presses" = "Knapparna piper vid tryck";
+/* Get Ready */
+"timer_settings_preparation_interval_name" = "Gör dig redo";
+/* Preparation Interval */
+"timer_settings_preparation_interval" = "Förberedelseintervall";
+/* Notifications In Background */
+"timer_settings_notifications_in_background" = "Bakgrundsnotiser";
+/* Choose a Language */
+"voice_language_title" = "Välj ett språk";
+/* Current Language */
+"voice_langauge_current_title" = "Aktuellt språk";
+/* Common English */
+"voice_langauge_common_title" = "Vanlig engelska";
+/* Popular European */
+"voice_langauge_popular_title" = "Populära europeiska";
+/* Other Languages */
+"voice_langauge_others_title" = "Andra språk";
+/* External Music Detected */
+"external_music_alert_title" = "Extern musik upptäckt";
+/* This routine wants to play music from your Music library but an external audio source has been detected.\nWhich would you like to use? */
+"external_music_alert_message" = "Rutinen spelar musik från ditt bibliotek, men en extern ljudkälla har upptäckts.\nVilken vill du använda?";
+/* External audio */
+"external_music_option_play" = "Externt ljud";
+/* Timer audio */
+"external_music_option_stop" = "Timerns ljud";
+/* %@, %@, and %@ */
+"speech_formatted_time_three_components" = "%1$@, %2$@, och %3$@";
+/* %@ and %@ */
+"speech_formatted_time_two_components" = "%1$@ och %2$@";
+/* {current_name} for {current_duration} */
+"speech_alert_with_time" = "{current_name} i {current_duration}";
+/* Up next, {next_name} for {next_duration} */
+"speech_alert_prewarn_interval" = "Nästa är, {next_name} i {next_duration}";
+/* Timer completed in */
+"speech_alert_prewarn_end" = "Timer färdig om";
+/* Your timer is complete. */
+"speech_alert_timer_complete" = "Din timer är klar.";
+/* Interval 1 */
+"speech_sample_interval_name_one" = "Intervall 1";
+/* Interval 2 */
+"speech_sample_interval_name_two" = "Intervall 2";
+/* Support */
+"support_title" = "Kundtjänst";
+/* Unable to Generate Email */
+"support_no_email_alert_title" = "Kunde inte skapa e-mail";
+/* This device is not configured to send email. Would you like to copy the email 'support@runloop.com' to your clipboard to use later? */
+"support_no_email_alert_message" = "Din enhet är inte konfigurerad för att skicka e-mail. Vill du kopiera e-mailadressen 'support@runloop.com' till urklipp för att använda den senare?";
+/* Yes */
+"support_no_email_alert_yes" = "Ja";
+/* No */
+"support_no_email_alert_no" = "Nej";
+/* Sample Timers */
+"samples_folder_name" = "Exempeltimers";
+/* Seconds Demo */
+"sample_timers_demo_name" = "Seconds Demo";
+/* 7 Minute Workout */
+"sample_timers_7minute_name" = "7-minuters träning";
+/* Tabata Timer */
+"sample_timers_tabata_name" = "Tabata-timer";
+/* Beginner HIIT Timer */
+"sample_timers_hiit_beginner_name" = "HIIT-timer för nybörjare";
+/* Advanced HIIT Timer */
+"sample_timers_hiit_advanced_name" = "Advancerad HIIT-timer";
+/* Calisthenics Timer */
+"sample_timers_calisthenics_name" = "Gymnastiktimer";
+/* Stretch Timer */
+"sample_timers_stretches_name" = "Stretchningstimer";
+/* MMA Timer */
+"sample_timers_mma_name" = "MMA-timer";
+/* Boxing Timer */
+"sample_timers_boxing_name" = "Boxningstimer";
+/* Jumping Jacks */
+"sample_timers_exercise_jumping_jacks" = "Jumping Jacks";
+/* Wall Sit */
+"sample_timers_exercise_wall_sits" = "Väggsitt";
+/* Push-Ups */
+"sample_timers_exercise_pushups" = "Armhävningar";
+/* Crunches */
+"sample_timers_exercise_crunches" = "Crunches";
+/* Step-Ups */
+"sample_timers_exercise_stepups" = "Step-Ups";
+/* Squats */
+"sample_timers_exercise_squats" = "Knäböj";
+/* Tricep Dips */
+"sample_timers_exercise_tricep_dips" = "Tricep Dips";
+/* Plank */
+"sample_timers_exercise_plank" = "Plankan";
+/* High Knees */
+"sample_timers_exercise_high_knees" = "Höga knälyft";
+/* Lunges */
+"sample_timers_exercise_lunges" = "Utfallssteg";
+/* Push-Up with Rotation */
+"sample_timers_exercise_pushups_rotation" = "Armhävning med rotation";
+/* Side Plank */
+"sample_timers_exercise_side_planks" = "Plankan i sidled";
+/* Squat Jumps */
+"sample_timers_exercise_squat_jumps" = "Knäböj med hopp";
+/* Sit-Ups */
+"sample_timers_exercise_situps" = "Sit-ups";
+/* Squat Thrusts */
+"sample_timers_exercise_squat_thrusts" = "Knäböj med tryck";
+/* Back Extensions */
+"sample_timers_exercise_back_extensions" = "Ryggövningar";
+/* Seconds Interval Timer */
+"sample_timers_demo_interval_1" = "Seconds intervall-timer";
+/* Has A Large Clear Display */
+"sample_timers_demo_interval_2" = "Har en stor och tydlig display";
+/* Is Simple Yet Versatile */
+"sample_timers_demo_interval_3" = "Enkel och mångsidig";
+/* Will Speak Your Interval Names */
+"sample_timers_demo_interval_4" = "Läser upp dina intervallnamn";
+/* Play Your Music During Intervals */
+"sample_timers_demo_interval_5" = "Spelar dina favoritlåtar under intervaller";
+/* And Let You Assign Colours. */
+"sample_timers_demo_interval_6" = "Och låter dig välja färger.";
+/* Create Timers Using Templates */
+"sample_timers_demo_interval_7" = "Ställ in timers med hjälp av mallar";
+/* For H.I.I.T, Circuits, Tabata */
+"sample_timers_demo_interval_8" = "För H.I.I.T, cirkelträning, Tabata";
+/* Or Custom Timers Like This. */
+"sample_timers_demo_interval_9" = "Eller specialanpassade timers som den här.";
+/* Combine Many Timers Into One. */
+"sample_timers_demo_interval_10" = "Kombinera flera timers.";
+/* Share Timers With Friends. */
+"sample_timers_demo_interval_11" = "Dela timers med vänner.";
+/* This Is Just a Quick Demo. */
+"sample_timers_demo_interval_12" = "Det här är bara en snabb demo.";
+/* The Possibilities Are Endless. */
+"sample_timers_demo_interval_13" = "Möjligheterna är oändliga.";
+/* Quad */
+"sample_timers_stretch_quad" = "Lårmuskeln";
+/* Hamstring */
+"sample_timers_stretch_hamstring" = "Knäsenor";
+/* Hip and Gluteal */
+"sample_timers_stretch_hip" = "Höft och säte";
+/* Back */
+"sample_timers_stretch_back" = "Rygg";
+/* Chest and Bicep */
+"sample_timers_stretch_chest" = "Bröst och biceps";
+/* Tricep */
+"sample_timers_stretch_tricep" = "Triceps";
+/* Neck */
+"sample_timers_stretch_neck" = "Nacke";
+/* Love using Seconds? */
+"request_rating_title" = "Gillar du Seconds?";
+/* Please take a moment to rate it on the App Store. */
+"request_rating_message" = "Ta gärna en stund och betygsätt appen på App Store.";
+/* %@ (Left) */
+"interval_name_left" = "%@ (Vänster)";
+/* %@ (Right) */
+"interval_name_right" = "%@ (Höger)";
+/* Duplicate */
+"popover_menu_duplicate" = "Kopiera";
+/* %@ for %@ */
+"notification_interval_with_duration" = "%1$@ i %2$@";
+/* Your timer is complete. */
+"notification_timer_complete" = "Din timer är färdig.";
+/* Restore Purchases */
+"free_restore_purchases" = "Återställ köp";
+/* Fetching Products... */
+"free_fetching_product" = "Hämtar produkter...";
+/* An error occurred. Tap to try again. */
+"free_error_fetching_products" = "Ett fel uppstod. Klicka för att försöka igen.";
+/* Contacting App Store */
+"free_bezel_message_contacting" = "Kontaktar App Store";
+/* Restoring Previous Purchases */
+"free_bezel_message_restoring" = "Återställer tidigare köp";
+/* Failed to Make Purchase */
+"free_bezel_message_purchase_failed" = "Köpet kunde inte genomföras";
+/* Purchases Restored Successfully */
+"free_bezel_message_restore_succeeded" = "Köp återställda";
+/* Failed to Restore Purchases */
+"free_bezel_message_restore_failed" = "Kunde inte återställa köp";
+/* Delete */
+"edit_action_delete" = "Ta bort";
+/* Edit */
+"edit_action_edit" = "Redigera";
+/* Pause for Interruptions */
+"timer_settings_pause_for_interruptions" = "Paus för avbrott";
+/* Vibrate on Alert */
+"sound_settings_vibrate_on_alerts_label" = "Vibrera vid varning";
+/* Hide Statusbar */
+"timer_settings_hide_status_bar" = "Dölj statusfält";
+/* Exit */
+"timer_exit_accessibility_label" = "Avsluta";
+/* Play */
+"timer_play_accessibility_label" = "Spela upp";
+/* Reset */
+"timer_reset_accessibility_label" = "Återställ";
+/* Help */
+"timer_help_accessibility_label" = "Hjälp";
+/* Lock Interface */
+"timer_lock_accessibility_label" = "Lås gränssnitt";
+/* Options */
+"timer_options_accessibility_label" = "Alternativ";
+/* ? */
+"timer_help_button_label" = "?";
+/* Lock Interface */
+"timer_options_lock" = "Lås gränssnitt";
+/* Unlock Interface */
+"timer_options_unlock" = "Lås upp gränssnitt";
+/* Unlock Interface */
+"timer_unlock_accessibility_label" = "Lås upp gränssnitt";
+/* Pause */
+"timer_pause_accessibility_label" = "Pausa";
+/* Lock Interface When Timing */
+"timer_settings_lock_interface_on_play" = "Lås gränssnitt vid tidtagning";
+/* What's Changed */
+"changelog_title" = "Vad som har ändrats";
+/* Exclude From Count */
+"interval_editor_exclude_from_count" = "Ta inte med i beräkningarna";
+/* Halfway Alert */
+"interval_editor_halfway_alert" = "Halvtidsalarm";
+/* Allow Overrun */
+"common_editor_allow_overrun" = "Tillåt överskrivning";
+/* Overrun */
+"timer_settings_overrun_interval_name" = "Överskrivning";
+/* Configure Timer Display */
+"timer_settings_display" = "Ställ in display för timern";
+/* Share on Timer Complete */
+"share_settings_share_on_complete" = "Dela inställningar på färdig timer";
+/* Remaining */
+"timer_interval_remaining" = "Återstående";
+/* Heart Rate */
+"timer_current_bpm" = "Puls";
+/* Elapsed */
+"timer_interval_elapsed" = "Förfluten";
+/* Calories */
+"timer_calories" = "Kalorier";
+/* Total Time */
+"timer_display_settings_group_total_time" = "Total tid";
+/* Interval Time */
+"timer_display_settings_group_interval_time" = "Intervalltid";
+/* Counters */
+"timer_display_settings_group_counters" = "Räknare";
+/* Heart Rate */
+"timer_display_settings_group_heart_rate" = "Puls";
+/* Timer Display */
+"timer_display_settings_title" = "Display för timer";
+/* Main */
+"timer_display_settings_main_label" = "Huvudmeny";
+/* Left */
+"timer_display_settings_left_label" = "Vänster";
+/* Center */
+"timer_display_settings_center_label" = "Mitten";
+/* Right */
+"timer_display_settings_right_label" = "Höger";
+/* Pick One */
+"timer_display_settings_options_title" = "Välj en";
+/* Total Remaining */
+"timer_info_total_remaining" = "Totalt återstående";
+/* Total Elapsed */
+"timer_info_total_elapsed" = "Totalt förfluten";
+/* Interval Remaining */
+"timer_info_interval_remaining" = "Återstående intervall";
+/* Interval Elapsed */
+"timer_info_interval_elapsed" = "Förflutet intervall";
+/* Interval Count */
+"timer_info_interval_count" = "Intervallräkning";
+/* Current Beats per Minute */
+"timer_info_bpm_current" = "Nuvarande slag per minut";
+/* Calories */
+"timer_info_total_calories" = "Kalorier";
+/* Heart Rate Settings */
+"heart_rate_settings_title" = "Pulsinställningar";
+/* My Sensors */
+"heart_rate_settings_own_title" = "Mina sensorer";
+/* Nearby Sensors */
+"heart_rate_settings_nearby_title" = "Närliggande sensorer";
+/* No Sensors */
+"heart_rate_settings_no_sensors" = "Inga sensorer";
+/* Discover Nearby Sensors */
+"heart_rate_settings_discover_sensors" = "Sök närliggande sensorer";
+/* End Discovery */
+"heart_rate_settings_stop_discovery" = "Avsluta sökning";
+/* Personal Details */
+"personal_details_title" = "Personuppgifter";
+/* Gender */
+"personal_details_sex_label" = "Kön";
+/* Female */
+"personal_details_sex_female" = "Kvinna";
+/* Male */
+"personal_details_sex_male" = "Man";
+/* Year of Birth */
+"personal_details_birthyear_label" = "Födelseår";
+/* Invalid Year of Birth */
+"personal_details_birthyear_invalid_title" = "Ogiltigt födelseår";
+/* Please enter a birth year from %d up to or including %d */
+"personal_details_birthyear_invalid_message" = "Ange ett födelsår från %1$li upp till eller inklusive %2$li";
+/* Weight */
+"personal_details_weight_label" = "Vikt";
+/* Unit */
+"personal_details_weight_unit_label" = "Enhet";
+/* Fitness Level */
+"personal_details_fitness_level_label" = "Fitnessnivå";
+/* Very Poor */
+"personal_details_fitness_level_very_poor" = "Väldigt dålig";
+/* Poor */
+"personal_details_fitness_level_poor" = "Dålig";
+/* Fair */
+"personal_details_fitness_level_fair" = "Medel";
+/* Good */
+"personal_details_fitness_level_good" = "Bra";
+/* Excellent */
+"personal_details_fitness_level_excellent" = "Utmärkt";
+/* Superior */
+"personal_details_fitness_level_superior" = "Överlägsen";
+/* Or VO2 Max */
+"personal_details_vo2max_label" = "eller VO2 Max";
+/* This timer contains alerts that require downloading. You may dismiss this message now but alerts will not sound until downloaded. */
+"timer_downloading_alerts_message" = "Den här timern kräver nedladdade filer. Du kan avfärda det här meddelandet nu, men larmen kommer inte att ringa förrän nedladdningen är klar.";
+/* Downloading Alerts */
+"timer_downloading_alerts_title" = "Notis för nedladdning";
+/* Export */
+"toolbar_item_export" = "Exportera";
+/* {current_timer_name} completed in */
+"speech_alert_prewarn_end_with_name" = "{current_timer_name} klarades på";
+/* That's halfway */
+"speech_alert_halfway" = "Det är halvvägs";
+/* Halfway, {current_remaining_time} to go. */
+"speech_alert_halfway_with_time" = "Halvvägs, {current_remaining_time} kvar.";
+/* Optional */
+"common_optional_placeholder" = "Valfritt";
+/* Persist */
+"audio_editor_persist_label" = "Fortsätt";
+/* Average BPM */
+"timer_average_bpm" = "Genomsnittliga SPM";
+/* Max BPM */
+"timer_max_bpm" = "Max SPM";
+/* Average Beats Per Minute */
+"timer_info_bpm_average" = "Genomsnittliga slag per minut";
+/* Maximum Beats Per Minute */
+"timer_info_bpm_max" = "Max antal slag per minut";
+/* Control With Remote */
+"timer_settings_control_with_remote" = "Kontrollera med fjärrkontroll";
+/* Randomise Order */
+"circuit_editor_randomise_exercises_label" = "Blanda ordningen";
+/* Apple Health */
+"settings_health_header" = "Apple Health";
+/* Share Data */
+"settings_share_health_data" = "Spara Träningsdata";
+/* Other */
+"personal_details_sex_other" = "Annat";
+/* Not Set */
+"personal_details_sex_not_set" = "Inget val";
+/* Activity */
+"common_editor_activity_label" = "Aktivitet";
+/* Not Set */
+"activity_type_none" = "Inget val";
+/* Activity Type */
+"activity_picker_title" = "Typ av aktivitet";
+/* Single Beep, Short, Alternating */
+"soundscheme_beeps_single_short_alternating" = "Ett pip, kort, alternerande";
+/* Single Beep, Long, Alternating */
+"soundscheme_beeps_single_long_alternating" = "Ett pip, långt, alternerande";
+/* Use System Music Player */
+"sound_settings_music_player_label" = "Använd systemets musikprogram";
+/* Become a beta tester */
+"support_beta_label" = "Bli beta-testare";
+/* Social Channels */
+"support_social_title" = "Sociala medier";
+/* More from Runloop */
+"home_more_apps_title" = "Mer från Runloop";
+/* Workout tracker & gym log for strength training and bodybuilding. */
+"home_heavyset_description" = "Tracker för träning & gym-logg för styrketräning och bodybuilding.";
+/* iCloud Backups */
+"settings_backup_title" = "Backup med iCloud";
+/* iCloud Backups */
+"backup_title" = "Backup med iCloud";
+/* Select a backup to restore */
+"backup_restore_section_header" = "Välj en backup att återställa";
+/* Restoring this backup will overwrite your existing timers. Is this what you want to do? */
+"backup_restore_message" = "När du återställer backup raderas dina aktuella timers. Vill du göra det?";
+/* Overwrite */
+"backup_restore_overwrite" = "Skriv över";
+/* Restoring iCloud Backup */
+"backup_restore_progress_message" = "Återställer iCloud-backup";
+/* Restore Succeeded */
+"backup_restore_success_message" = "Återställning klar";
+/* Restore Failed */
+"backup_restore_failed_message" = "Återställningen misslyckades";
+/* Percent of Max Heartrate */
+"timer_info_percentage_max_heartrate" = "Procentantal av högsta hjärtfrekvens";
+/* Current Time */
+"timer_info_current_time" = "Nuvarande tid";
+/* HR % */
+"timer_percent_heartrate" = "Hjärtfrekvens %";
+/* N/A */
+"timer_info_not_available" = "Ej tillgänglig";
+/* Very Light */
+"heart_zone_very_light" = "Mycket lätt";
+/* Light */
+"heart_zone_light" = "Lätt";
+/* Moderate */
+"heart_zone_moderate" = "Medel";
+/* Hard */
+"heart_zone_hard" = "Svår";
+/* Maximum */
+"heart_zone_maximum" = "Max";
+/* Heart Rate Zone */
+"timer_info_heartrate_zone" = "Zon för hjärtfrekvens";
+/* Zone */
+"timer_heart_rate_zone" = "Zon";
+/* Current Time */
+"timer_current_time" = "Nuvarande tid";
+/* Other */
+"timer_display_settings_group_other" = "Övrigt";
+/* Observed Max Heart Rate */
+"personal_details_observed_max_heart_rate_label" = "Högsta hjärtfrekvens noterad";
+/* Optional */
+"common_placeholder_optional" = "Valfritt";
+/* Mindful Session Types */
+"activity_picker_mindful_session_title" = "Typer av Mindfulness";
+/* Workout Activity Types */
+"activity_picker_workout_activity_types_title" = "Träningstyper";
+/* Grant Pending Permissions */
+"settings_grant_pending_permissions" = "Godkänn väntande förfrågningar";
+/* Album: %@ */
+"common_editor_album_no_artist" = "Album: %@";
+/* Dark Theme */
+"settings_dark_theme" = "Mörkt tema";
+/* Notes */
+"common_notes_section_header" = "Anteckningar";
+/* Notes */
+"notes_editor_title" = "Anteckningar";
+/* Not Set */
+"color_not_set" = "Inte inställd";
+/* None */
+"color_picker_none_button" = "Ingen";
+/* Foreground Colour */
+"color_foreground" = "Förgrundsfärg";
+/* Customise Colours */
+"color_settings_title" = "Anpassa färger";
+/* Preview */
+"color_settings_preview_label" = "Förhandstitt";
+/* Preview Colours */
+"color_picker_preview_title" = "Förhandstitt för färger";
+/* Mint */
+"color_mint" = "Mint";
+/* Restore Defaults */
+"color_settings_reset_button_title" = "Återställ till standard";
+/* Previous Versions */
+"color_settings_previous_header" = "Tidigare versioner";
+/* Version 1 Colours */
+"color_settings_previous_version_1" = "Färger från version 1";
+/* Version 3 Colours */
+"color_settings_previous_version_3" = "Färger från version 3";
+/* Sort */
+"toolbar_item_sort" = "Sortera";
+/* Dismiss */
+"sort_option_dismiss" = "Avvisa";
+/* Name, Folders first */
+"sort_option_kind_name" = "Namn, mappar först";
+/* Longest, Folders first */
+"sort_option_kind_longest" = "Längst, mappar först";
+/* Shortest, Folders first */
+"sort_option_kind_shortest" = "Kortast, mappar först";
+/* Name */
+"sort_option_name" = "Namn";
+/* Cadence */
+"interval_editor_cadence_header" = "Rytm";
+/* Beats per Minute */
+"interval_editor_bpm_label" = "Slag per minut";
+/* Cadence */
+"sound_settings_cadence_title" = "Rytm";
+/* Volume */
+"sound_settings_cadence_volume_label" = "Volym";
+/* Template Defaults */
+"settings_template_defaults_title" = "Standard för mallar";
+/* Unnamed Timer */
+"default_timer_name" = "Timer utan namn";
+/* Unnamed Folder */
+"default_folder_name" = "Mapp utan namn";
+/* Unnamed Interval */
+"default_interval_name" = "Intervall utan namn";
+/* Unknown Item */
+"unknown_object" = "Objekt utan namn";
+/* Timer has no duration */
+"timer_duration_error_title" = "Timern har ingen längd";
+/* This timer needs to be edited to ensure it has a duration before it can be used. */
+"timer_duration_error_message" = "Timern måste redigeras för att ha en längd innan den kan användas.";
+/* Interval Audio */
+"audio_editor_intervals_title" = "Intervall-ljud";
+/* Timer Audio */
+"audio_editor_timer_title" = "Timer-ljud";
+/* End Message */
+"sound_settings_end_message_label" = "Slutmeddelande";
+/* Remove Audio */
+"audio_editor_remove_audio" = "Ta bort ljud";
+/* Recent */
+"media_picker_recents_title" = "Senaste";
+/* Circuit / Tabata Timer */
+"circuit_tabata_timer_type" = "Varv / Tabata-timer";
+/* Tabata Style */
+"circuit_editor_tabata_style_label" = "Tabata-stil";
+/* Miscellaneous */
+"uncategorised_timers_title" = "Diverse";
+/* Auto-Start */
+"timer_settings_autostart" = "Auto-start";
+/* Prefer Internal Audio */
+"timer_settings_prefer_internal_audio" = "Använd internt ljud";
+/* Num. Exercises */
+"editor_exercise_count_title" = "Antal övningar";
+/* Ex. Duration */
+"editor_exercise_duration_title" = "Övningens längd";
+/* Num. Cycles */
+"editor_cycles_count_title" = "Antal cykler";
+/* Ex. Rest */
+"editor_exercise_rest_title" = "Vila";
+/* Cycle Rest */
+"editor_cycle_rest_title" = "Vila mellan cykler";
+/* Style */
+"editor_timer_style" = "Typ";
+/* Warm Up */
+"editor_warm_up_title" = "Uppvärmning";
+/* Cool Down */
+"editor_cool_down_title" = "Nedvarvning";
+/* Start */
+"editor_start_button" = "Börja";
+/* Next */
+"editor_next_button" = "Nästa";
+/* Back */
+"editor_back_button" = "Tillbaka";
+/* Circuit */
+"editor_timer_style_circuit" = "Varv";
+/* Tabata */
+"editor_timer_style_tabata" = "Tabata";
+/* End Timer */
+"timer_end_timer_button" = "Stoppa timer";
+/* Reset */
+"timer_reset_menu_item" = "Återställ";
+/* End Timer */
+"timer_end_timer_menu_item" = "Stoppa timer";
+/* End Workout */
+"timer_end_workout_button" = "Avsluta träning";
+/* End Session */
+"timer_end_session_button" = "Avsluta pass";
+/* Restart */
+"timer_restart_button" = "Starta om";
+/* Your timer is complete. */
+"timer_completion_message" = "Din timer är klar";
+/* N/A */
+"timer_heart_rate_not_available" = "--";
+/* Quick Timer */
+"list_quick_timer_button" = "Snabbtimer";
+/* Summary */
+"summary_title" = "Sammanfattning";
+/* %d%% Complete */
+"summary_percent_complete" = "%li%% klart";
+/* Total Time */
+"summary_total_timer_title" = "Total tid";
+/* Active Calories */
+"summary_active_calories_title" = "Aktiva kalorier";
+/* Total Calories */
+"summary_total_calories_title" = "Totalt antal kalorier";
+/* %dcal */
+"summary_calories_value" = "%li kalorier";
+/* Avg Heart Rate */
+"summary_average_heart_rate_title" = "Hjärtfrekvens";
+/* %dbpm */
+"summary_average_heart_rate_value" = "%lispm";
+/* Discard */
+"summary_discard_button" = "Släng";
+/* Dismiss */
+"summary_dismiss_button" = "Avvisa";
+/* Save Failed */
+"summary_save_failed_title" = "Ej sparad";
+/* Activity */
+"activities_title" = "Aktivitet";
+/* Location */
+"activities_location_title" = "Plats";
+/* Activities */
+"activities_activities_title" = "Aktiviteter";
+/* Indoor %@ */
+"activities_indoor_activity" = "%@ inomhus";
+/* Outdoor %@ */
+"activities_outdoor_activity" = "%@ utomhus";
+/* Your saved timers will appear here after making changes in the iOS app. */
+"list_info_message_paid" = "Här kan du se dina sparade timers när du har gjort ändringar i iOS-appen.";
+/* Quick Timer */
+"quick_timer_name" = "Snabbtimer";
+/* Exercise %d */
+"quick_timer_exercise" = "Övning %li";
+/* %@ (Left) */
+"timer_exercise_name_left" = "%@ (Vänster)";
+/* %@ (Right) */
+"timer_exercise_name_right" = "%@ (Höger)";
+/* Warm Up */
+"quick_timer_warm_up" = "Uppvärmning";
+/* Cool Down */
+"quick_timer_cool_down" = "Nedvarvning";
+/* Rest */
+"quick_timer_rest" = "Vila";
+/* Have you granted the required permissions in the iOS app settings? */
+"summary_save_failed_message" = "Har du tillåtit behörigheter i iOS-inställningarna för appen?";
+/* Unnamed Timer */
+"list_unnamed_timer" = "Timer utan namn";
+/* Unnamed Folder */
+"list_unnamed_folder" = "Mapp utan namn";
+/* Available Upgrades */
+"upgrade_available_products_header" = "Tillgängliga uppgraderingar";
+/* Restores purchases made with previous installations of Seconds. */
+"upgrade_restore_footer" = "Återställer köps som gjorts med tidigare versioner av Seconds.";
+/* Upgrade */
+"upgrade_title" = "Uppgradera";
+/* To assign audio to your intervals you will need to update your settings and allow %@ access to your Media Library */
+"media_permission_warning_message" = "För att lägga till ljudspår på dina intervaller måste du uppdatera dina inställningar och ge %@ åtkomst till ditt mediebibliotek.";
+/* Audio not found */
+"audio_not_found_title" = "Ljudspår hittades ej";
+/* Please reselect your audio */
+"audio_not_found_message" = "Vänligen välj ljudspår igen";
+/* Sync song changes with intervals */
+"audio_editor_timer_resume_label" = "Synkroniserad låt ändras med intervaller";
+/* Skip restart option */
+"watch_settings_skip_restart_option" = "Hoppa över val för omstart";
+/* Discard */
+"timer_discard_workout_menu_item" = "Avvisa";
+/* Sync Timers Now */
+"watch_settings_sync_now" = "Synka timers nu";
+/* Swimming */
+"watch_settings_swimming_header" = "Simning";
+/* Pool Length */
+"watch_settings_pool_length_label" = "Poollängd";
+/* Unit of Measurement */
+"watch_settings_pool_unit_label" = "Måttenhet";
+/* Metres */
+"unit_metres" = "meter";
+/* Yards */
+"unit_yards" = "yards";
+/* Low Power Mode */
+"watch_settings_low_power_mode_label" = "Låg strömläge";
+/* Alerts */
+"watch_settings_enable_alerts_title" = "varningar";
+/* Volume */
+"watch_settings_alert_volume_title" = "Volym";
+/* Haptic */
+"watch_settings_enable_haptic_title" = "haptisk";
+/* Done */
+"summary_done_button" = "Gjort";
+/* Lock */
+"timer_water_lock_menu_item" = "Låsa";
+/* Error */
+"alert_error_title" = "Fel";
+/* Count Up Indefinitely */
+"interval_editor_count_up" = "Räkna upp obestämd tid";
+/* Estimated Duration */
+"interval_editor_estimated_duration_label" = "Beräknad varaktighet";
+/* Seconds saves a backup file to your private iCloud container each time you make a change to your timers.\n\nTo restore a backup tap the row.\n\nTo delete a backup swipe left across the row and tap Delete. */
+"backup_privacy_message" = "Sekunder sparar en backupfil till din privata iCloud-behållare varje gång du ändrar dina timers. \n\n För att återställa en säkerhetskopia trycker du på raden. \n\n Om du vill radera en säkerhetskopiering drar du vänster över raden och trycker på Ta bort.";
+/* Your personal details are only used within the app to increase the accuracy of calorie calculations. This information is never shared with 3rd parties. */
+"personal_details_privacy_footer" = "Dina personuppgifter används bara i appen för att öka noggrannheten i kaloriberäkningarna. Denna information delas aldrig med tredje part.";
+/* Free */
+"common_free" = "Fri";
+/* Play All */
+"toolbar_item_play_all" = "Spela alla";
+/* Upgrade now - %@ */
+"upsell_delay_upgrade_button" = "Uppgradera nu - %@";
+/* Upgrade to skip this screen. */
+"upsell_delay_body_watch" = "Uppgradera för att hoppa över den här skärmen.";
+/* Please wait */
+"upsell_delay_title_watch" = "Vänta";
+/* Nothing to restore */
+"free_bezel_message_restore_no_products" = "Inget att återställa";
+/* Fetching price... */
+"common_fetching_price" = "Hämtar pris ...";
+/* Upgrade now - %@ */
+"upsell_upgrade_title" = "Uppgradera nu - %@";
+/* Upgrade to Pro */
+"upsell_title" = "Uppgradera till PRO";
+/* Upgrade now - %@ */
+"timer_list_upgrade_button_title" = "Uppgradera nu - %@";
+/* Upgrade to remove all restrictions and delays. Previous purchases can be restored in %@ > %@. */
+"timer_list_upgrade_footnote" = "Uppgradera för att ta bort alla restriktioner och förseningar. Tidigare inköp kan återställas i %1$@ > %2$@.";
+/* As a non-paying user you may only use the timers you create one time. Please upgrade to remove this restriction. */
+"upsell_message_upgrade" = "Som icke betalande användare kan du bara använda de timers du skapar en gång. Uppgradera för att ta bort denna begränsning.";
+/* Start a timer */
+"watch_complication_start_timer" = "Starta en timer";
+/* Welcome to %@ */
+"welcome_heading" = "Välkommen till %@";
+/* Advanced Templates */
+"welcome_design_title" = "Avancerade mallar";
+/* Easily design complex interval timers for any activity using templates. */
+"welcome_design_message" = "Skapa enkelt komplexa intervalltimer för vilken aktivitet som helst som använder mallar.";
+/* Text to Speech */
+"welcome_speech_title" = "Text till tal";
+/* Hear the interval names in advance so you always know what's next. */
+"welcome_speech_message" = "Hör intervallnamnen i förväg så att du alltid vet vad som är nästa.";
+/* Listen to Your Music */
+"welcome_music_title" = "Lyssna på din musik";
+/* Match the intensity of your music to the intensity of you workout. */
+"welcome_music_message" = "Matcha intensiteten på din musik till intensiteten i träningen.";
+/* Accept & Continue */
+"welcome_continue_button" = "Acceptera och fortsätt";
+/* Runloop has updated its privacy policy. */
+"privacy_update_heading" = "Runloop har uppdaterat sin integritetspolicy.";
+/* Runloop collects Usage Data to improve the app, and shares Aggregated Data with providers. To learn more please read our %@ and %@ before continuing. */
+"privacy_disclaimer" = "Runloop samlar användningsdata för att förbättra appen och delar aggregerad data med leverantörer. För mer information, läs våra %1$@ och %2$@ innan du fortsätter.";
+/* privacy policy */
+"privacy_disclaimer_policy_title" = "integritetspolicy";
+/* terms and conditions */
+"privacy_disclaimer_terms_title" = "Villkor";
+/* Accept & Continue */
+"privacy_update_continue_button" = "Acceptera och fortsätt";
+/* Restrictions */
+"restrictions_header" = "begränsningar";
+/* Seconds is a paid app that can be used for free to trial all its features before committing to a one-time purchase.\n\nBefore upgrading users may use the timers they create one time only, after which the paid upgrade is required to use them again.\n\nUsers can use the app for free for as long as they like by recreating their timers before each use. */
+"restrictions_body" = "Sekund är en betald app som kan användas gratis för att pröva alla dess funktioner innan man begår ett enstaka köp. \n\n Innan du uppgraderar användare får du använda de timers som de skapar en gång, varefter den betalda uppgraderingen krävs för att använda dem igen. \n\n Användare kan använda appen gratis så länge de gillar att återskapa sina timers före varje användning.";
+/* I Understand */
+"restrictions_button_title" = "Jag förstår";
+/* Support is available in English only. */
+"support_section_footer" = "Support är endast tillgängligt på engelska.";
+/* Search Help Topics */
+"support_help_topics_title" = "Sök hjälpämnen";
+/* Continue Conversation */
+"support_conversation_title" = "Fortsätt Samtal";
+/* Notifications */
+"notifications_header" = "anmälningar";
+/* Seconds may send notifications for the following reasons only: */
+"notification_intro" = "Sekunder kan bara skicka meddelanden av följande skäl:";
+/* Alert you to interval changes while in the background. */
+"notification_purpose_0" = "Varning dig till intervalländringar i bakgrunden.";
+/* Alert you when a support issue is updated. */
+"notification_purpose_1" = "Varning när en supportproblem uppdateras.";
+/* Runloop will never send you marketing or other unwanted messages via notifications. */
+"notification_outro" = "Runloop skickar aldrig marknadsföring eller andra oönskade meddelanden via meddelanden.";
+/* Enable Notifications */
+"notification_enable_button" = "Aktivera meddelanden";
+/* Continue without notifications */
+"notification_skip_button" = "Fortsätt utan meddelanden";
+/* Exercise [%i] */
+"circuit_editor_new_exercise_name" = "Övning %li";
+"interval_editor_reduced_volume" = "Minska ljudvolymen";
+"settings_privacy_title" = "Integritet";
+"settings_privacy_analytics_title" = "Aktivera Analytics";
+"settings_privacy_analytics_description" = "Runloop-monitorer aktiva installationer, skärmvyer och andra gränssnittshändelser för att förbättra appens kvalitet och prestanda. Användarinnehåll och hälsodata skickas aldrig till våra servrar.";
+"settings_privacy_crash_title" = "Aktivera kraschrapporter";
+"settings_privacy_crash_description" = "Runloop samlar kraschrapporter för att diagnostisera dödliga fel och förbättra appens kvalitet, prestanda och användarupplevelse.";
+/* Reset */
+"countdown_timer_reset" = "Återställa";
+/* Countdown */
+"countdown_timer_title" = "Nedräkning";
+/* Your countdown is complete */
+"countdown_notification_message" = "Din nedräkning är klar";
+/* My Intervals */
+"intervals_tabbar_title" = "Intervaller";
+/* Preset %d */
+"countdown_preset_title" = "Förinställd %li";
+/* Countdown Presets */
+"timer_settings_countdown_presets" = "Nedräkning förinställningar";
+/* Countdown presets are only editable for upgraded users. */
+"countdown_presets_footer" = "Nedräkningsinställningar kan bara redigeras för uppgraderade användare.";
+/* Please wait while your timers are transferred from your phone. */
+"watch_loading_timers_message" = "Vänta medan dina timers överförs från din telefon.";
+/* Voice */
+"watch_voice_title" = "Röst";
+/* Start */
+"stopwatch_button_start" = "Start";
+/* Stop */
+"stopwatch_button_stop" = "Stopp";
+/* Lap */
+"stopwatch_button_lap" = "Varv";
+/* Reset */
+"stopwatch_button_reset" = "Nollställ";
+/* Lap %li */
+"stopwatch_lap_title" = "Varv %li";
+/* Stopwatch */
+"stopwatch_title" = "Stoppur";
+/* Stopwatch */
+"watch_stopwatch_title" = "Stoppur";
+/* Pause Between Sides */
+"interval_editor_split_rest_duration" = "Paus mellan sidor";
+/* Swap sides */
+"interval_name_swap_sides" = "Byt sida";
+/* Quick Intervals */
+"watch_home_quick_timer" = "Snabbintervaller";
+/* My Intervals */
+"watch_home_intervals" = "Mina intervaller";
+/* Countdown */
+"watch_home_countdown" = "Nedräkning";
+/* Stopwatch */
+"watch_home_stopwatch" = "Stoppur";
+/* Settings */
+"watch_home_settings" = "Inställningar";
+/* Alerts */
+"watch_settings_alerts" = "Varningar";
+/* Haptics */
+"watch_settings_haptics" = "Haptik";
+/* Low Power Mode */
+"watch_settings_low_power" = "Låg strömläge";
+/* Skip Restart Option */
+"watch_settings_skip_restart" = "Hoppa över omstart";
+/* Total Time */
+"editor_total_time_title" = "Total tid";
+/* Anonymous */
+"user_details_anonymous" = "Anonym";
+/* Signed in as */
+"user_details_signed_in_label" = "Inloggad som";
+/* User Account */
+"user_details_title" = "Användarkonto";
+/* This anonymous user is valid on this device only. */
+"user_details_anonymous_footer" = "Den anonyma användaren är endast giltig på den här enheten.";
+/* Upgrade Status */
+"user_details_upgrade" = "Uppgraderingsstatus";
+/* None */
+"user_details_upgrade_none" = "Ingen";
+/* Unverified */
+"user_details_upgrade_unverified" = "Overifierade";
+/* Verified */
+"user_details_upgrade_verified" = "Verifierad";
+/* Verify Upgrade */
+"user_details_verify_upgrade" = "Verifiera uppgradering";
+/* Sign Out */
+"user_details_sign_out" = "Logga ut";
+/* Copy User ID */
+"user_details_copy_uid" = "Kopiera användar-ID";
+/* Verification Successful */
+"free_bezel_message_verify_succeeded" = "Verifiering framgångsrik";
+/* Unable to Verify */
+"free_bezel_message_verify_failed" = "Det gick inte att verifiera";
+/* Verifying */
+"free_bezel_message_verifying" = "Verifiera";
+/* Report a bug */
+"support_report_bug" = "Rapportera en bugg";
+/* Contact Support */
+"support_help_contact" = "Kontakta supporten";
+/* Left */
+"interval_name_first_half_default" = "Vänster";
+/* Right */
+"interval_name_second_half_default" = "Höger";
+/* %1$@ (%2$@) */
+"interval_name_split" = "%1$@ (%2$@)";
+/* First Half */
+"interval_name_first_half_label" = "Första halvan";
+/* Second Half */
+"interval_name_second_half_label" = "Andra hälften";
+/* Version 3 (Light) Colours */
+"color_settings_previous_version_3_light" = "Version 3-färger (Light Theme)";
+/* Version 3 (Dark) Colours */
+"color_settings_previous_version_3_dark" = "Version 3-färger (Dark Theme)";
+/* For creating a URL for sharing with other users. */
+"toolbar_item_share_online" = "Dela med sig";
+/* For sharing a URL created for use on the device. */
+"toolbar_item_share_device" = "Dela med sig";
+/* Relates to app icon shortcut options and URLs created to be used on the device. */
+"timer_settings_shortcuts_heading" = "Snabba åtgärder och webbadresser";

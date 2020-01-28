@@ -1,0 +1,1220 @@
+/* My Timers */
+"home_title" = "我的计时器";
+/* My Timers */
+"menu_timers" = "我的计时器";
+/* Settings */
+"menu_settings" = "设置";
+/* Items: %@ */
+"container_number_of_items" = "项目：%@";
+/* Imported Timers */
+"imported_timers_title" = "导入的计时器";
+/* Cut */
+"edit_control_cut" = "剪切";
+/* Copy */
+"edit_control_copy" = "拷贝";
+/* Paste */
+"edit_control_paste" = "粘贴";
+/* Share */
+"toolbar_item_share" = "共享";
+/* Organise */
+"toolbar_item_edit" = "整理";
+/* Done */
+"toolbar_item_done" = "完成";
+/* Help */
+"toolbar_item_help" = "帮助";
+/* Shared Timers */
+"shared_items_container_name" = "共享的计时器";
+/* An Error Occurred */
+"share_error_title" = "出现错误";
+/* Something went wrong with your request. Please try again later. */
+"share_error_message" = "您的请求出了点问题。请稍后再试。";
+/* Cancel */
+"navigation_bar_cancel_button" = "取消";
+/* Close */
+"navigation_bar_close_button" = "关闭";
+/* Import Here */
+"navigation_bar_import_button" = "导入到这里";
+/* Dismiss */
+"alert_dismiss_button_title" = "解除";
+/* Name */
+"container_editor_name_label" = "名称";
+/* Folder */
+"container_editor_title" = "文件夹";
+/* Choose Template */
+"editor_picker_title" = "选取模板";
+/* New Folder */
+"editor_option_folder" = "新建文件夹";
+/* Import From Clipboard */
+"editor_option_import" = "从剪贴板中导入";
+/* Rest */
+"common_timer_rest" = "休息";
+/* Warm Up */
+"common_timer_warmup" = "热身活动";
+/* Cool Down */
+"common_timer_cooldown" = "整理运动";
+/* HIIT Timer */
+"hiit_timer_type" = "HIIT 计时器";
+/* High Intensity */
+"hiit_timer_high_intensity" = "高强度";
+/* Low Intensity */
+"hiit_timer_low_intensity" = "低强度";
+/* Circuit Timer */
+"circuit_timer_type" = "循环计时器";
+/* Compound Timer */
+"compound_timer_type" = "复合计时器";
+/* Custom Timer */
+"custom_timer_type" = "自定义计时器";
+/* Round Timer */
+"round_timer_type" = "回合计时器";
+/* Round */
+"round_timer_round" = "回合";
+/* Break */
+"round_timer_break" = "间歇";
+/* Tabata Timer */
+"tabata_timer_type" = "Tabata计时器";
+/* Advanced Timer (Non-editable) */
+"advanced_timer_type" = "高级计时器（不可编辑）";
+/* Required */
+"common_editor_required_section_header" = "必选项";
+/* Optional */
+"common_editor_optional_section_header" = "可选项";
+/* Exercises */
+"common_editor_exercises_section_header" = "锻炼项目";
+/* Extras */
+"common_editor_audio_section_header" = "其他";
+/* Number of Sets */
+"common_editor_sets_label" = "组的数目";
+/* Alerts */
+"common_editor_soundscheme_label" = "提示";
+/* Audio */
+"common_editor_music_label" = "音频";
+/* Preview */
+"common_editor_preview_label" = "预览";
+/* No Audio Selected */
+"common_editor_no_music" = "没有选择音频";
+/* Playlist: %@ */
+"common_editor_playlist" = "播放列表：%@";
+/* Song: [title] - [artist] */
+"common_editor_song" = "歌曲：%1$@ - %2$@";
+/* Album: %@ - %@ */
+"common_editor_album" = "专辑：%1$@ - %2$@";
+/* Genre: %@ */
+"common_editor_genre" = "风格：%@";
+/* Podcast: %@ - %@ */
+"common_editor_podcast" = "播客：%@ - %@";
+/* Audiobook: %@ */
+"common_editor_audiobook" = "有声读物：%@";
+/* Artist: %@ */
+"common_editor_artist" = "艺术家：%@";
+/* Rest Between Intervals */
+"common_editor_interval_rest_label" = "运动项目之间的休息";
+/* Rest Between Sets */
+"common_editor_set_rest_label" = "每组之间的休息";
+/* Warmup */
+"common_editor_warmup_label" = "热身活动";
+/* Cooldown */
+"common_editor_cooldown_label" = "整理运动";
+/* HIIT Timer */
+"hiit_editor_title" = "HIIT 计时器";
+/* Name */
+"hiit_editor_name_label" = "名称";
+/* High Intensity */
+"hiit_editor_high_intensity_label" = "高强度";
+/* Low Intensity */
+"hiit_editor_low_intensity_label" = "低强度";
+/* Warmup */
+"hiit_editor_warmup_label" = "热身活动";
+/* Cool Down */
+"hiit_editor_cooldown_label" = "整理运动";
+/* Start With Low Intensity */
+"hiit_editor_extra_low_label" = "由低强度开始";
+/* Round Timer */
+"round_editor_title" = "回合计时器";
+/* Number of Rounds */
+"round_editor_rounds_label" = "回合数目";
+/* Rounds */
+"round_editor_round_label" = "回合";
+/* Breaks */
+"round_editor_break_label" = "休息";
+/* Add Exercise */
+"circuit_editor_add_exercise_label" = "添加锻炼";
+/* Circuit Timer */
+"circuit_editor_title" = "循环计时器";
+/* Custom Timer */
+"custom_editor_title" = "自定义计时器";
+/* Compound Timer */
+"compound_editor_title" = "复合计时器";
+/* Sub-Timers */
+"compound_editor_subtimers_section_header" = "子计时器";
+/* Add Sub-Timer */
+"compound_editor_add_subtimer_label" = "添加子计时器";
+/* Number of Cycles */
+"compound_editor_times_to_repeat_label" = "循环次数";
+/* Rest Between Sub-Timers */
+"compound_editor_timer_rest_label" = "子计时器之间休息";
+/* Rest Between Cycles */
+"compound_editor_repeat_rest_label" = "循环之间休息";
+/* Interval */
+"interval_editor_title" = "运动项目";
+/* Name */
+"interval_editor_name_label" = "名称";
+/* Duration */
+"interval_editor_duration_label" = "时长";
+/* Colour */
+"interval_editor_color_label" = "颜色";
+/* Split Interval Left/Right */
+"interval_editor_split_left_right" = "运动分开 左/右";
+/* No Sounds */
+"soundscheme_none" = "没有声音";
+/* Beeps */
+"soundscheme_beeps_title" = "哔哔声";
+/* Default Beeps */
+"soundscheme_beeps_default" = "默认哔哔声";
+/* Single Beep, Short */
+"soundscheme_beeps_single_short" = "哔一声，短";
+/* Single Beep, Long */
+"soundscheme_beeps_single_long" = "哔一声，长";
+/* Three Beeps + 10 Second Beep */
+"soundscheme_beeps_three_with_ten" = "哔三声 + 10 秒长哔";
+/* Five Beeps + 10 Second Beep */
+"soundscheme_beeps_five_with_ten" = "哔五声 + 10 秒长哔";
+/* Text-to-Speech */
+"soundscheme_tts_title" = "朗读文字";
+/* Text-to-Speech with Count */
+"soundscheme_tts_with_count" = "朗读文字附带计数";
+/* Text-to-Speech without Count */
+"soundscheme_tts_without_count" = "朗读文字不带计数";
+/* Text-to-Speech with Time */
+"soundscheme_tts_with_time" = "朗读文字附带时间";
+/* Text-to-Speech with Warning */
+"soundscheme_tts_with_warning" = "朗读文字附带提醒";
+/* Meditation */
+"soundscheme_meditation_title" = "冥想类";
+/* Gong */
+"soundscheme_meditation_gong" = "锣";
+/* Thai Gong */
+"soundscheme_meditation_gong_thai" = "泰国锣";
+/* Tibetan Bell */
+"soundscheme_meditation_bell" = "西藏钟声";
+/* Cowbell */
+"soundscheme_misc_cowbell" = "牛铃";
+/* Cuckoo */
+"soundscheme_misc_cuckoo" = "布谷叫";
+/* Vibrations Only */
+"soundscheme_vibrations_title" = "仅振动";
+/* One Vibration */
+"soundscheme_vibrations_one" = "振动一下";
+/* Four Vibrations */
+"soundscheme_vibrations_four" = "振动四下";
+/* Round Based */
+"soundscheme_rounds_title" = "回合制";
+/* MMA */
+"soundscheme_rounds_mma" = "综合格斗";
+/* Boxing */
+"soundscheme_rounds_boxing" = "拳击";
+/* Select Colour */
+"color_picker_title" = "选取颜色";
+/* Grey */
+"color_grey" = "灰色";
+/* Red */
+"color_red" = "红色";
+/* Orange */
+"color_orange" = "橙色";
+/* Yellow */
+"color_yellow" = "黄色";
+/* Green */
+"color_green" = "绿色";
+/* Blue */
+"color_blue" = "蓝色";
+/* Purple */
+"color_purple" = "紫色";
+/* Magenta */
+"color_magenta" = "洋红";
+/* Violet */
+"color_violet" = "紫色";
+/* Value must be at least %d */
+"validator_integer_too_small" = "数值至少为 %li";
+/* Value must be at most %d */
+"validator_integer_too_large" = "数值至多为 %li";
+/* String required */
+"validator_string_required" = "需要输入字符串";
+/* Songs */
+"media_picker_songs_title" = "歌曲";
+/* Playlists */
+"media_picker_playlists_title" = "播放列表";
+/* Albums */
+"media_picker_album_title" = "专辑";
+/* Artists */
+"media_picker_artist_title" = "艺术家";
+/* Genres */
+"media_picker_genre_title" = "风格";
+/* Podcasts */
+"media_picker_podcasts_title" = "播客";
+/* Audiobooks */
+"media_picker_audiobooks_title" = "有声读物";
+/* Select Anyway */
+"media_picker_alert_action_ok" = "依旧选取";
+/* Pick Another */
+"media_picker_alert_action_pick_again" = "选取另一个";
+/* Undownloaded Media */
+"media_picker_cloud_item_alert_title" = "无法下载的媒体";
+/* The song '%@' has not been downloaded from iCloud and will not play during your timer.\n\nTo ensure it does play you must first download it within the Music app. */
+"media_picker_cloud_song_alert_message" = "歌曲 ‘%@’ 尚未从 iCloud 下载，无法在您的计时器运行时播放。\n\n已通过“音乐”应用程序下载的歌曲才可以播放。";
+/* The album '%@' contains songs yet to be downloaded from iCloud which will not play during your timer.\n\nTo ensure they do play you must first download them within the Music app. */
+"media_picker_cloud_album_alert_message" = "专辑 ‘%@’ 包含尚未从 iCloud 下载的歌曲，无法在您的计时器运行时播放它们。\n\n已通过“音乐”应用程序下载的歌曲才可以播放。";
+/* The artist '%@' contains songs yet to be downloaded from iCloud which will not play during your timer.\n\nTo ensure they do play you must first download them within the Music app. */
+"media_picker_cloud_artist_alert_message" = "艺术家 ‘%@’ 包含尚未从 iCloud 下载的歌曲，无法在您的计时器运行时播放它们。\n\n已通过“音乐”应用程序下载的歌曲才可以播放。";
+/* The playlist '%@' contains songs yet to be downloaded from iCloud which will not play during your timer.\n\nTo ensure they do play you must first download them within the Music app. */
+"media_picker_cloud_playlist_alert_message" = "播放列表 ‘%@’ 包含尚未从 iCloud 下载的歌曲，无法在您的计时器运行时播放它们。\n\n已通过“音乐”应用程序下载的歌曲才可以播放。";
+/* The genre '%@' contains songs yet to be downloaded from iCloud which will not play during your timer.\n\nTo ensure they do play you must first download them within the Music app. */
+"media_picker_cloud_genre_alert_message" = "风格 ‘%@’ 包含尚未从 iCloud 下载的歌曲，无法在您的计时器运行时播放它们。\n\n已通过“音乐”应用程序下载的歌曲才可以播放。";
+/* %@pood */
+"units_unconvential_pood" = "%@pood";
+/* Mass */
+"units_title_mass_group" = "质量";
+/* Poods */
+"units_title_pood_group" = "Poods";
+/* Long Distances */
+"units_title_long_distance_group" = "长距离";
+/* Short Distances */
+"units_title_short_distance_group" = "短距离";
+/* Kilograms */
+"units_type_kilograms" = "公斤";
+/* Pounds */
+"units_type_pounds" = "磅";
+/* Poods */
+"units_type_poods" = "Poods";
+/* Kilometres */
+"units_type_kilometers" = "公里";
+/* Miles */
+"units_type_miles" = "英里";
+/* Metres */
+"units_type_meters" = "米";
+/* Yards */
+"units_type_yards" = "码";
+/* Feet */
+"units_type_feet" = "英尺";
+/* As prescribed in routine */
+"units_type_as_prescribed" = "按照常规规定";
+/* Units */
+"units_preferred_units_title" = "单位";
+/* Elapsed */
+"timer_elapsed" = "历时";
+/* Interval */
+"timer_interval" = "运动项目";
+/* Remaining */
+"timer_remaining" = "剩下";
+/* Up next */
+"timer_up_next" = "接下来";
+/* End of Timer */
+"timer_end_interval_name" = "计时器结束";
+/* Current Interval */
+"timer_current_interval" = "当前运动";
+/* Exit Timer */
+"timer_options_exit" = "退出计时器";
+/* Reset */
+"timer_options_reset" = "还原";
+/* Back to Timer */
+"timer_options_resume" = "返回到计时器";
+/* Audio Selection */
+"audio_editor_interval_audio_title" = "音频选择";
+/* Options */
+"audio_editor_options_title" = "选项";
+/* Shuffle */
+"audio_editor_shuffle_label" = "随机播放";
+/* Resume */
+"audio_editor_resume_label" = "继续播放";
+/* Volume */
+"audio_editor_volume_title" = "音量";
+/* Sound Settings */
+"sound_settings_title" = "声音设置";
+/* Alerts */
+"sound_settings_alerts_title" = "提示";
+/* Volume */
+"sound_settings_alerts_volume_label" = "音量";
+/* Internal Audio */
+"sound_settings_interval_audio_title" = "内部音频";
+/* Volume */
+"sound_settings_music_volume_label" = "音量";
+/* Ducking */
+"sound_settings_ducking_amount_label" = "浮动声音";
+/* External Audio */
+"sound_settings_external_audio_title" = "外部音频";
+/* Duck Volume */
+"sound_settings_external_ducking_label" = "浮动播放音量";
+/* Speech Options */
+"sound_settings_voice_title" = "语音选项";
+/* Language */
+"sound_settings_language_label" = "语言";
+/* Pitch */
+"sound_settings_voice_pitch_label" = "声调";
+/* Speed */
+"sound_settings_voice_speed_label" = "语速";
+/* Sample Text */
+"sound_settings_sample_text_label" = "样本文字";
+/* The quick brown fox jumps over the lazy dog */
+"sound_settings_sample_text_placeholder" = "天王盖地虎 宝塔镇河妖";
+/* Speak Now */
+"sound_settings_speak_now_label" = "开始朗读";
+/* Restore Defaults */
+"sound_settings_restore_label" = "恢复默认";
+/* Settings */
+"settings_title" = "设置";
+/* AirPlay */
+"settings_airplay_header" = "AirPlay";
+/* Privacy Mode */
+"settings_privacy_mode" = "隐私模式";
+/* Timer Settings */
+"timer_settings_title" = "计时器设置";
+/* Disable Auto-Lock */
+"timer_settings_disable_auto_lock" = "禁止自动锁定";
+/* Buttons Require Long Press */
+"timer_settings_long_press_buttons" = "按键需要长按";
+/* Tap Timer to Play/Pause */
+"timer_settings_tap_timer_to_play_pause" = "轻按计时器播放和暂停";
+/* Buttons Beep When Pressed */
+"timer_settings_beep_on_button_presses" = "按下按钮时发出哔哔声";
+/* Get Ready */
+"timer_settings_preparation_interval_name" = "准备好";
+/* Preparation Interval */
+"timer_settings_preparation_interval" = "准备运动项目";
+/* Notifications In Background */
+"timer_settings_notifications_in_background" = "后台通知";
+/* Choose a Language */
+"voice_language_title" = "选取语言";
+/* Current Language */
+"voice_langauge_current_title" = "当前语言";
+/* Common English */
+"voice_langauge_common_title" = "普通英语";
+/* Popular European */
+"voice_langauge_popular_title" = "流行欧系";
+/* Other Languages */
+"voice_langauge_others_title" = "其他语言";
+/* External Music Detected */
+"external_music_alert_title" = "检测到外部音乐";
+/* This routine wants to play music from your Music library but an external audio source has been detected.\nWhich would you like to use? */
+"external_music_alert_message" = "常规是要播放您音乐库中的音乐，但已检测到外部音频来源。\n您想用哪个？";
+/* External audio */
+"external_music_option_play" = "外部音频";
+/* Timer audio */
+"external_music_option_stop" = "计时器音频";
+/* %@, %@, and %@ */
+"speech_formatted_time_three_components" = "%1$@，%2$@，和 %3$@";
+/* %@ and %@ */
+"speech_formatted_time_two_components" = "%1$@ 和 %2$@";
+/* {current_name} for {current_duration} */
+"speech_alert_with_time" = "{current_name} 持续 {current_duration}";
+/* Up next, {next_name} for {next_duration} */
+"speech_alert_prewarn_interval" = "接下来将是持续 {next_duration} 的 {next_name}";
+/* Timer completed in */
+"speech_alert_prewarn_end" = "计时器开始倒计时";
+/* Your timer is complete. */
+"speech_alert_timer_complete" = "您的计时器已完成。";
+/* Interval 1 */
+"speech_sample_interval_name_one" = "运动项目 1";
+/* Interval 2 */
+"speech_sample_interval_name_two" = "运动项目 2";
+/* Support */
+"support_title" = "技术支持";
+/* Unable to Generate Email */
+"support_no_email_alert_title" = "无法生成邮件";
+/* This device is not configured to send email. Would you like to copy the email 'support@runloop.com' to your clipboard to use later? */
+"support_no_email_alert_message" = "这台设备尚未设置电子邮件。您想将电子邮件地址 “support@runloop.com” 拷贝到剪贴板备用吗？";
+/* Yes */
+"support_no_email_alert_yes" = "是";
+/* No */
+"support_no_email_alert_no" = "否";
+/* Sample Timers */
+"samples_folder_name" = "定时器样本";
+/* Seconds Demo */
+"sample_timers_demo_name" = "Seconds 演示";
+/* 7 Minute Workout */
+"sample_timers_7minute_name" = "7 分钟健身法";
+/* Tabata Timer */
+"sample_timers_tabata_name" = "Tabata计时器";
+/* Beginner HIIT Timer */
+"sample_timers_hiit_beginner_name" = "初级 HIIT 计时器";
+/* Advanced HIIT Timer */
+"sample_timers_hiit_advanced_name" = "高级 HIIT 计时器";
+/* Calisthenics Timer */
+"sample_timers_calisthenics_name" = "柔软体操计时器";
+/* Stretch Timer */
+"sample_timers_stretches_name" = "拉伸运动计时器";
+/* MMA Timer */
+"sample_timers_mma_name" = "综合格斗计时器";
+/* Boxing Timer */
+"sample_timers_boxing_name" = "拳击计时器";
+/* Jumping Jacks */
+"sample_timers_exercise_jumping_jacks" = "开合跳";
+/* Wall Sit */
+"sample_timers_exercise_wall_sits" = "背靠墙直角坐";
+/* Push-Ups */
+"sample_timers_exercise_pushups" = "俯卧撑";
+/* Crunches */
+"sample_timers_exercise_crunches" = "卷腹";
+/* Step-Ups */
+"sample_timers_exercise_stepups" = "单腿上椅站立";
+/* Squats */
+"sample_timers_exercise_squats" = "蹲起";
+/* Tricep Dips */
+"sample_timers_exercise_tricep_dips" = "背椅仰卧撑";
+/* Plank */
+"sample_timers_exercise_plank" = "平板撑";
+/* High Knees */
+"sample_timers_exercise_high_knees" = "高抬腿";
+/* Lunges */
+"sample_timers_exercise_lunges" = "弓步";
+/* Push-Up with Rotation */
+"sample_timers_exercise_pushups_rotation" = "俯卧撑结合侧转";
+/* Side Plank */
+"sample_timers_exercise_side_planks" = "侧平板撑";
+/* Squat Jumps */
+"sample_timers_exercise_squat_jumps" = "深蹲跳";
+/* Sit-Ups */
+"sample_timers_exercise_situps" = "仰卧起坐";
+/* Squat Thrusts */
+"sample_timers_exercise_squat_thrusts" = "深蹲向后蹬腿";
+/* Back Extensions */
+"sample_timers_exercise_back_extensions" = "背部伸展";
+/* Seconds Interval Timer */
+"sample_timers_demo_interval_1" = "Seconds 运动计时器";
+/* Has A Large Clear Display */
+"sample_timers_demo_interval_2" = "大屏且清晰的显示方式";
+/* Is Simple Yet Versatile */
+"sample_timers_demo_interval_3" = "操作简单、用途广泛";
+/* Will Speak Your Interval Names */
+"sample_timers_demo_interval_4" = "可以朗读您的运动项目名称";
+/* Play Your Music During Intervals */
+"sample_timers_demo_interval_5" = "运动时可播放音乐";
+/* And Let You Assign Colours. */
+"sample_timers_demo_interval_6" = "可以选择不同的色彩。";
+/* Create Timers Using Templates */
+"sample_timers_demo_interval_7" = "使用模板来创建计时器";
+/* For H.I.I.T, Circuits, Tabata */
+"sample_timers_demo_interval_8" = "适用于 H.I.I.T、循环、Tabata训练";
+/* Or Custom Timers Like This. */
+"sample_timers_demo_interval_9" = "或像这样的自定义计时器。";
+/* Combine Many Timers Into One. */
+"sample_timers_demo_interval_10" = "将多个计时器整合成一个。";
+/* Share Timers With Friends. */
+"sample_timers_demo_interval_11" = "与好友共享计时器。";
+/* This Is Just a Quick Demo. */
+"sample_timers_demo_interval_12" = "这只是一个简短的演示。";
+/* The Possibilities Are Endless. */
+"sample_timers_demo_interval_13" = "应用本身充满无限可能。";
+/* Quad */
+"sample_timers_stretch_quad" = "股四头肌";
+/* Hamstring */
+"sample_timers_stretch_hamstring" = "腿筋";
+/* Hip and Gluteal */
+"sample_timers_stretch_hip" = "髋部和臀肌";
+/* Back */
+"sample_timers_stretch_back" = "背部";
+/* Chest and Bicep */
+"sample_timers_stretch_chest" = "胸肌和二头肌";
+/* Tricep */
+"sample_timers_stretch_tricep" = "三头肌";
+/* Neck */
+"sample_timers_stretch_neck" = "颈部";
+/* Love using Seconds? */
+"request_rating_title" = "喜欢用 Seconds 吗？";
+/* Please take a moment to rate it on the App Store. */
+"request_rating_message" = "烦请您花点时间在 App Store 上为它评分。";
+/* %@ (Left) */
+"interval_name_left" = "%@（左）";
+/* %@ (Right) */
+"interval_name_right" = "%@（右）";
+/* Duplicate */
+"popover_menu_duplicate" = "复制";
+/* %@ for %@ */
+"notification_interval_with_duration" = "%1$@ 持续了 %2$@";
+/* Your timer is complete. */
+"notification_timer_complete" = "您的计时器已完成。";
+/* Restore Purchases */
+"free_restore_purchases" = "恢复以前的购买";
+/* Fetching Products... */
+"free_fetching_product" = "正在获取产品...";
+/* An error occurred. Tap to try again. */
+"free_error_fetching_products" = "出现错误。轻按来重试。";
+/* Contacting App Store */
+"free_bezel_message_contacting" = "正在联络 App Store";
+/* Restoring Previous Purchases */
+"free_bezel_message_restoring" = "正在恢复以前的购买";
+/* Failed to Make Purchase */
+"free_bezel_message_purchase_failed" = "未能做出购买";
+/* Purchases Restored Successfully */
+"free_bezel_message_restore_succeeded" = "已成功恢复以前的购买";
+/* Failed to Restore Purchases */
+"free_bezel_message_restore_failed" = "未能恢复以前的购买";
+/* Delete */
+"edit_action_delete" = "删除";
+/* Edit */
+"edit_action_edit" = "编辑";
+/* Pause for Interruptions */
+"timer_settings_pause_for_interruptions" = "干扰时暂停";
+/* Vibrate on Alert */
+"sound_settings_vibrate_on_alerts_label" = "提示振动";
+/* Hide Statusbar */
+"timer_settings_hide_status_bar" = "隐藏状态栏";
+/* Exit */
+"timer_exit_accessibility_label" = "退出";
+/* Play */
+"timer_play_accessibility_label" = "播放";
+/* Reset */
+"timer_reset_accessibility_label" = "还原";
+/* Help */
+"timer_help_accessibility_label" = "帮助";
+/* Lock Interface */
+"timer_lock_accessibility_label" = "锁定界面";
+/* Options */
+"timer_options_accessibility_label" = "选项";
+/* ? */
+"timer_help_button_label" = "?";
+/* Lock Interface */
+"timer_options_lock" = "锁定界面";
+/* Unlock Interface */
+"timer_options_unlock" = "解锁界面";
+/* Unlock Interface */
+"timer_unlock_accessibility_label" = "解锁界面";
+/* Pause */
+"timer_pause_accessibility_label" = "暂停";
+/* Lock Interface When Timing */
+"timer_settings_lock_interface_on_play" = "计时中锁定界面";
+/* What's Changed */
+"changelog_title" = "更改内容";
+/* Exclude From Count */
+"interval_editor_exclude_from_count" = "不包括在运动项目计数中";
+/* Halfway Alert */
+"interval_editor_halfway_alert" = "半程提示";
+/* Allow Overrun */
+"common_editor_allow_overrun" = "允许超出范围";
+/* Overrun */
+"timer_settings_overrun_interval_name" = "超出范围";
+/* Configure Timer Display */
+"timer_settings_display" = "设置计时器显示";
+/* Share on Timer Complete */
+"share_settings_share_on_complete" = "分享完成计时器";
+/* Remaining */
+"timer_interval_remaining" = "剩余";
+/* Heart Rate */
+"timer_current_bpm" = "心率";
+/* Elapsed */
+"timer_interval_elapsed" = "历时";
+/* Calories */
+"timer_calories" = "卡路里";
+/* Total Time */
+"timer_display_settings_group_total_time" = "总时间";
+/* Interval Time */
+"timer_display_settings_group_interval_time" = "运动项目时间";
+/* Counters */
+"timer_display_settings_group_counters" = "计数器";
+/* Heart Rate */
+"timer_display_settings_group_heart_rate" = "心率";
+/* Timer Display */
+"timer_display_settings_title" = "计时器显示";
+/* Main */
+"timer_display_settings_main_label" = "主显示";
+/* Left */
+"timer_display_settings_left_label" = "左边显示";
+/* Center */
+"timer_display_settings_center_label" = "中间显示";
+/* Right */
+"timer_display_settings_right_label" = "右边显示";
+/* Pick One */
+"timer_display_settings_options_title" = "选择一个";
+/* Total Remaining */
+"timer_info_total_remaining" = "总剩余";
+/* Total Elapsed */
+"timer_info_total_elapsed" = "总历时";
+/* Interval Remaining */
+"timer_info_interval_remaining" = "剩余运动项目";
+/* Interval Elapsed */
+"timer_info_interval_elapsed" = "已完成运动项目";
+/* Interval Count */
+"timer_info_interval_count" = "运动项目计数";
+/* Current Beats per Minute */
+"timer_info_bpm_current" = "现在每秒心跳";
+/* Calories */
+"timer_info_total_calories" = "卡路里";
+/* Heart Rate Settings */
+"heart_rate_settings_title" = "心率设置";
+/* My Sensors */
+"heart_rate_settings_own_title" = "我的传感器";
+/* Nearby Sensors */
+"heart_rate_settings_nearby_title" = "附近传感器";
+/* No Sensors */
+"heart_rate_settings_no_sensors" = "无传感器";
+/* Discover Nearby Sensors */
+"heart_rate_settings_discover_sensors" = "搜索周围传感器";
+/* End Discovery */
+"heart_rate_settings_stop_discovery" = "结束搜索";
+/* Personal Details */
+"personal_details_title" = "个人详情";
+/* Gender */
+"personal_details_sex_label" = "性别";
+/* Female */
+"personal_details_sex_female" = "女性";
+/* Male */
+"personal_details_sex_male" = "男性";
+/* Year of Birth */
+"personal_details_birthyear_label" = "出生年份";
+/* Invalid Year of Birth */
+"personal_details_birthyear_invalid_title" = "出生年份无效";
+/* Please enter a birth year from %d up to or including %d */
+"personal_details_birthyear_invalid_message" = "请输入出生年份从%1$li达到或包括%2$li";
+/* Weight */
+"personal_details_weight_label" = "体重";
+/* Unit */
+"personal_details_weight_unit_label" = "单位";
+/* Fitness Level */
+"personal_details_fitness_level_label" = "健身等级";
+/* Very Poor */
+"personal_details_fitness_level_very_poor" = "较低";
+/* Poor */
+"personal_details_fitness_level_poor" = "低";
+/* Fair */
+"personal_details_fitness_level_fair" = "一般";
+/* Good */
+"personal_details_fitness_level_good" = "较高";
+/* Excellent */
+"personal_details_fitness_level_excellent" = "高";
+/* Superior */
+"personal_details_fitness_level_superior" = "很高";
+/* Or VO2 Max */
+"personal_details_vo2max_label" = "或者最大摄氧量";
+/* This timer contains alerts that require downloading. You may dismiss this message now but alerts will not sound until downloaded. */
+"timer_downloading_alerts_message" = "本计时器中包含的提示需要下载。您可以忽略本条信息但提示在下载之前不会响起";
+/* Downloading Alerts */
+"timer_downloading_alerts_title" = "下载提示";
+/* Export */
+"toolbar_item_export" = "导出";
+/* {current_timer_name} completed in */
+"speech_alert_prewarn_end_with_name" = "{current_timer_name}完成倒计时";
+/* That's halfway */
+"speech_alert_halfway" = "到达半程";
+/* Halfway, {current_remaining_time} to go. */
+"speech_alert_halfway_with_time" = "已到半程，还有{current_remaining_time}";
+/* Optional */
+"common_optional_placeholder" = "可选";
+/* Persist */
+"audio_editor_persist_label" = "持续";
+/* Average BPM */
+"timer_average_bpm" = "平均BPM";
+/* Max BPM */
+"timer_max_bpm" = "最大BPM";
+/* Average Beats Per Minute */
+"timer_info_bpm_average" = "平均每分钟心跳";
+/* Maximum Beats Per Minute */
+"timer_info_bpm_max" = "最大每分钟心跳";
+/* Control With Remote */
+"timer_settings_control_with_remote" = "远程控制";
+/* Randomise Order */
+"circuit_editor_randomise_exercises_label" = "随机顺序";
+/* Apple Health */
+"settings_health_header" = "Apple健康";
+/* Share Data */
+"settings_share_health_data" = "保存锻炼数据";
+/* Other */
+"personal_details_sex_other" = "其他";
+/* Not Set */
+"personal_details_sex_not_set" = "未设定";
+/* Activity */
+"common_editor_activity_label" = "运动";
+/* Not Set */
+"activity_type_none" = "未设定";
+/* Activity Type */
+"activity_picker_title" = "运动类型";
+/* Single Beep, Short, Alternating */
+"soundscheme_beeps_single_short_alternating" = "单哔声，短，交替";
+/* Single Beep, Long, Alternating */
+"soundscheme_beeps_single_long_alternating" = "单哔声，长，交替";
+/* Use System Music Player */
+"sound_settings_music_player_label" = "使用系统音乐播放器";
+/* Become a beta tester */
+"support_beta_label" = "成为beta版测试员";
+/* Social Channels */
+"support_social_title" = "社交频道";
+/* More from Runloop */
+"home_more_apps_title" = "更多Runloop的内容";
+/* Workout tracker & gym log for strength training and bodybuilding. */
+"home_heavyset_description" = "力量训练和健身的锻炼跟踪器和健身房日志。";
+/* iCloud Backups */
+"settings_backup_title" = "iCloud备份";
+/* iCloud Backups */
+"backup_title" = "iCloud备份";
+/* Select a backup to restore */
+"backup_restore_section_header" = "选择要还原的备份";
+/* Restoring this backup will overwrite your existing timers. Is this what you want to do? */
+"backup_restore_message" = "还原此备份将覆盖现有计时器。您确定要这么做吗？";
+/* Overwrite */
+"backup_restore_overwrite" = "覆盖";
+/* Restoring iCloud Backup */
+"backup_restore_progress_message" = "还原iCloud备份";
+/* Restore Succeeded */
+"backup_restore_success_message" = "还原成功";
+/* Restore Failed */
+"backup_restore_failed_message" = "还原失败";
+/* Percent of Max Heartrate */
+"timer_info_percentage_max_heartrate" = "最大心率的百分比";
+/* Current Time */
+"timer_info_current_time" = "当前时间";
+/* HR % */
+"timer_percent_heartrate" = "心率%";
+/* N/A */
+"timer_info_not_available" = "不可用";
+/* Very Light */
+"heart_zone_very_light" = "很轻";
+/* Light */
+"heart_zone_light" = "轻";
+/* Moderate */
+"heart_zone_moderate" = "中度";
+/* Hard */
+"heart_zone_hard" = "重度";
+/* Maximum */
+"heart_zone_maximum" = "最大";
+/* Heart Rate Zone */
+"timer_info_heartrate_zone" = "心率区";
+/* Zone */
+"timer_heart_rate_zone" = "区域";
+/* Current Time */
+"timer_current_time" = "当前时间";
+/* Other */
+"timer_display_settings_group_other" = "其他";
+/* Observed Max Heart Rate */
+"personal_details_observed_max_heart_rate_label" = "观察到的最大心率";
+/* Optional */
+"common_placeholder_optional" = "可选";
+/* Mindful Session Types */
+"activity_picker_mindful_session_title" = "正念练习类型";
+/* Workout Activity Types */
+"activity_picker_workout_activity_types_title" = "锻炼活动类型";
+/* Grant Pending Permissions */
+"settings_grant_pending_permissions" = "授予等待权限";
+/* Album: %@ */
+"common_editor_album_no_artist" = "专辑：%@";
+/* Dark Theme */
+"settings_dark_theme" = "暗主题";
+/* Notes */
+"common_notes_section_header" = "注释";
+/* Notes */
+"notes_editor_title" = "注释";
+/* Not Set */
+"color_not_set" = "未设定";
+/* None */
+"color_picker_none_button" = "无";
+/* Foreground Colour */
+"color_foreground" = "前景颜色";
+/* Customise Colours */
+"color_settings_title" = "自定义颜色";
+/* Preview */
+"color_settings_preview_label" = "预览";
+/* Preview Colours */
+"color_picker_preview_title" = "预览颜色";
+/* Mint */
+"color_mint" = "薄荷色";
+/* Restore Defaults */
+"color_settings_reset_button_title" = "恢复默认值";
+/* Previous Versions */
+"color_settings_previous_header" = "之前的版本";
+/* Version 1 Colours */
+"color_settings_previous_version_1" = "版本1颜色";
+/* Version 3 Colours */
+"color_settings_previous_version_3" = "版本3颜色";
+/* Sort */
+"toolbar_item_sort" = "分类";
+/* Dismiss */
+"sort_option_dismiss" = "取消";
+/* Name, Folders first */
+"sort_option_kind_name" = "名称，文件夹优先";
+/* Longest, Folders first */
+"sort_option_kind_longest" = "最长，文件夹优先";
+/* Shortest, Folders first */
+"sort_option_kind_shortest" = "最短，文件夹优先";
+/* Name */
+"sort_option_name" = "名称";
+/* Cadence */
+"interval_editor_cadence_header" = "节奏";
+/* Beats per Minute */
+"interval_editor_bpm_label" = "每分钟节拍";
+/* Cadence */
+"sound_settings_cadence_title" = "节奏";
+/* Volume */
+"sound_settings_cadence_volume_label" = "音量";
+/* Template Defaults */
+"settings_template_defaults_title" = "模板默认值";
+/* Unnamed Timer */
+"default_timer_name" = "未命名计时器";
+/* Unnamed Folder */
+"default_folder_name" = "未命名文件夹";
+/* Unnamed Interval */
+"default_interval_name" = "未命名间隔";
+/* Unknown Item */
+"unknown_object" = "未知对象";
+/* Timer has no duration */
+"timer_duration_error_title" = "计时器无持续时间";
+/* This timer needs to be edited to ensure it has a duration before it can be used. */
+"timer_duration_error_message" = "该计时器需要编辑，在使用前请确保它已设定了一段时间。";
+/* Interval Audio */
+"audio_editor_intervals_title" = "间隔音频";
+/* Timer Audio */
+"audio_editor_timer_title" = "计时器音频";
+/* End Message */
+"sound_settings_end_message_label" = "结束消息";
+/* Remove Audio */
+"audio_editor_remove_audio" = "去除音频";
+/* Recent */
+"media_picker_recents_title" = "最近的";
+/* Circuit / Tabata Timer */
+"circuit_tabata_timer_type" = "循环/Tabata训练计时器";
+/* Tabata Style */
+"circuit_editor_tabata_style_label" = "Tabata风格";
+/* Miscellaneous */
+"uncategorised_timers_title" = "其他";
+/* Auto-Start */
+"timer_settings_autostart" = "自动启动";
+/* Prefer Internal Audio */
+"timer_settings_prefer_internal_audio" = "偏好内部音频";
+/* Num. Exercises */
+"editor_exercise_count_title" = "运动次数";
+/* Ex. Duration */
+"editor_exercise_duration_title" = "运动时长";
+/* Num. Cycles */
+"editor_cycles_count_title" = "周期数";
+/* Ex. Rest */
+"editor_exercise_rest_title" = "运动间休";
+/* Cycle Rest */
+"editor_cycle_rest_title" = "周期间休";
+/* Style */
+"editor_timer_style" = "风格";
+/* Warm Up */
+"editor_warm_up_title" = "热身";
+/* Cool Down */
+"editor_cool_down_title" = "运后放松";
+/* Start */
+"editor_start_button" = "开始";
+/* Next */
+"editor_next_button" = "下个";
+/* Back */
+"editor_back_button" = "返回";
+/* Circuit */
+"editor_timer_style_circuit" = "循环";
+/* Tabata */
+"editor_timer_style_tabata" = "Tabata";
+/* End Timer */
+"timer_end_timer_button" = "计时停";
+/* Reset */
+"timer_reset_menu_item" = "重置";
+/* End Timer */
+"timer_end_timer_menu_item" = "计时停";
+/* End Workout */
+"timer_end_workout_button" = "运动停";
+/* End Session */
+"timer_end_session_button" = "结束练习";
+/* Restart */
+"timer_restart_button" = "重启";
+/* Your timer is complete. */
+"timer_completion_message" = "计时时间到";
+/* N/A */
+"timer_heart_rate_not_available" = "无";
+/* Quick Timer */
+"list_quick_timer_button" = "快速计时";
+/* Summary */
+"summary_title" = "概要";
+/* %d%% Complete */
+"summary_percent_complete" = "%li%%已完成";
+/* Total Time */
+"summary_total_timer_title" = "总时间";
+/* Active Calories */
+"summary_active_calories_title" = "消耗卡路里";
+/* Total Calories */
+"summary_total_calories_title" = "总卡路里";
+/* %dcal */
+"summary_calories_value" = "%li卡";
+/* Avg Heart Rate */
+"summary_average_heart_rate_title" = "平均心率";
+/* %dbpm */
+"summary_average_heart_rate_value" = "%libpm";
+/* Discard */
+"summary_discard_button" = "舍弃";
+/* Dismiss */
+"summary_dismiss_button" = "关闭";
+/* Save Failed */
+"summary_save_failed_title" = "保存失败";
+/* Activity */
+"activities_title" = "活动";
+/* Location */
+"activities_location_title" = "位置";
+/* Activities */
+"activities_activities_title" = "活动";
+/* Indoor %@ */
+"activities_indoor_activity" = "室内%@";
+/* Outdoor %@ */
+"activities_outdoor_activity" = "室外%@";
+/* Your saved timers will appear here after making changes in the iOS app. */
+"list_info_message_paid" = "在iOS应用程序进行更改后，您保存的计时器将显示在此处。";
+/* Quick Timer */
+"quick_timer_name" = "快速计时";
+/* Exercise %d */
+"quick_timer_exercise" = "健身项目 %li";
+/* %@ (Left) */
+"timer_exercise_name_left" = "%@（左）";
+/* %@ (Right) */
+"timer_exercise_name_right" = "%@（右）";
+/* Warm Up */
+"quick_timer_warm_up" = "热身";
+/* Cool Down */
+"quick_timer_cool_down" = "运后放松";
+/* Rest */
+"quick_timer_rest" = "休息";
+/* Have you granted the required permissions in the iOS app settings? */
+"summary_save_failed_message" = "您是否在iOS应用设置中授予了所需的权限？";
+/* Unnamed Timer */
+"list_unnamed_timer" = "未命名计时器";
+/* Unnamed Folder */
+"list_unnamed_folder" = "未命名文件夹";
+/* Available Upgrades */
+"upgrade_available_products_header" = "可用更新";
+/* Restores purchases made with previous installations of Seconds. */
+"upgrade_restore_footer" = "恢复先前Seconds安装时做出的购买";
+/* Upgrade */
+"upgrade_title" = "升级";
+/* To assign audio to your intervals you will need to update your settings and allow %@ access to your Media Library */
+"media_permission_warning_message" = "要根据您的时间间隔分配音频，您需要更新设置并允许%@访问您的媒体库";
+/* Audio not found */
+"audio_not_found_title" = "音频未找到";
+/* Please reselect your audio */
+"audio_not_found_message" = "请重新选择您的音频";
+/* Sync song changes with intervals */
+"audio_editor_timer_resume_label" = "同步歌曲更改与时间间隔";
+/* Skip restart option */
+"watch_settings_skip_restart_option" = "跳过重启选项";
+/* Discard */
+"timer_discard_workout_menu_item" = "丢弃";
+/* Sync Timers Now */
+"watch_settings_sync_now" = "现在同步定时器";
+/* Swimming */
+"watch_settings_swimming_header" = "游泳的";
+/* Pool Length */
+"watch_settings_pool_length_label" = "池长度";
+/* Unit of Measurement */
+"watch_settings_pool_unit_label" = "测量单位";
+/* Metres */
+"unit_metres" = "米";
+/* Yards */
+"unit_yards" = "码";
+/* Low Power Mode */
+"watch_settings_low_power_mode_label" = "低功耗模式";
+/* Alerts */
+"watch_settings_enable_alerts_title" = "提示";
+/* Volume */
+"watch_settings_alert_volume_title" = "音量";
+/* Haptic */
+"watch_settings_enable_haptic_title" = "触觉";
+/* Done */
+"summary_done_button" = "完成";
+/* Lock */
+"timer_water_lock_menu_item" = "锁定界面";
+/* Error */
+"alert_error_title" = "错误";
+/* Count Up Indefinitely */
+"interval_editor_count_up" = "无限计数";
+/* Estimated Duration */
+"interval_editor_estimated_duration_label" = "预计持续时间";
+/* Seconds saves a backup file to your private iCloud container each time you make a change to your timers.\n\nTo restore a backup tap the row.\n\nTo delete a backup swipe left across the row and tap Delete. */
+"backup_privacy_message" = "Seconds每次对定时器进行更改时都会将备份文件保存到您的私有iCloud容器中。\n\n要恢复备份点击该行。\n\n要删除左侧的备用滑动条，然后点按删除。";
+/* Your personal details are only used within the app to increase the accuracy of calorie calculations. This information is never shared with 3rd parties. */
+"personal_details_privacy_footer" = "您的个人信息仅用于应用程序中，以提高卡路里计算的准确性。 此信息绝不会与第三方分享。";
+/* Free */
+"common_free" = "自由";
+/* Play All */
+"toolbar_item_play_all" = "全部播放";
+/* Upgrade now - %@ */
+"upsell_delay_upgrade_button" = "现在升级-%@";
+/* Upgrade to skip this screen. */
+"upsell_delay_body_watch" = "升级跳过此屏幕。";
+/* Please wait */
+"upsell_delay_title_watch" = "等待";
+/* Nothing to restore */
+"free_bezel_message_restore_no_products" = "无恢复";
+/* Fetching price... */
+"common_fetching_price" = "获取价格";
+/* Upgrade now - %@ */
+"upsell_upgrade_title" = "现在升级-%@";
+/* Upgrade to Pro */
+"upsell_title" = "升级到专业版";
+/* Upgrade now - %@ */
+"timer_list_upgrade_button_title" = "现在升级-%@";
+/* Upgrade to remove all restrictions and delays. Previous purchases can be restored in %@ > %@. */
+"timer_list_upgrade_footnote" = "升级到取消所有限制，广告和延误。";
+/* As a non-paying user you may only use the timers you create one time. Please upgrade to remove this restriction. */
+"upsell_message_upgrade" = "作为一个非付费用户，你可以只使用定时器创建一个时间。请升级到取消这一限制。";
+/* Start a timer */
+"watch_complication_start_timer" = "启动计时器";
+/* Welcome to %@ */
+"welcome_heading" = "欢迎来到%@";
+/* Advanced Templates */
+"welcome_design_title" = "高级模板";
+/* Easily design complex interval timers for any activity using templates. */
+"welcome_design_message" = "使用模板轻松设计任何活动的复杂间隔计时器。";
+/* Text to Speech */
+"welcome_speech_title" = "文字转语音";
+/* Hear the interval names in advance so you always know what's next. */
+"welcome_speech_message" = "提前听到间隔名称，这样你就可以知道下一个是什么了。";
+/* Listen to Your Music */
+"welcome_music_title" = "听听你的音乐";
+/* Match the intensity of your music to the intensity of you workout. */
+"welcome_music_message" = "将您的音乐强度与锻炼强度相匹配。";
+/* Accept & Continue */
+"welcome_continue_button" = "接受并继续";
+/* Runloop has updated its privacy policy. */
+"privacy_update_heading" = "Runloop已更新其隐私政策。";
+/* Runloop collects Usage Data to improve the app, and shares Aggregated Data with providers. To learn more please read our %@ and %@ before continuing. */
+"privacy_disclaimer" = "Runloop收集使用数据以改进应用程序，并与提供商共享聚合数据。要了解更多信息，请在继续之前阅读我们的%1$@和%2$@ 。";
+/* privacy policy */
+"privacy_disclaimer_policy_title" = "隐私政策";
+/* terms and conditions */
+"privacy_disclaimer_terms_title" = "条款和条件";
+/* Accept & Continue */
+"privacy_update_continue_button" = "接受并继续";
+/* Restrictions */
+"restrictions_header" = "限制";
+/* Seconds is a paid app that can be used for free to trial all its features before committing to a one-time purchase.\n\nBefore upgrading users may use the timers they create one time only, after which the paid upgrade is required to use them again.\n\nUsers can use the app for free for as long as they like by recreating their timers before each use. */
+"restrictions_body" = "Seconds是一款付费应用，可以在进行一次性购买之前免费试用其所有功能。 \n\n在升级之前，用户可以使用他们仅创建一次的计时器，之后需要付费升级才能再次使用它们。 \n\n用户可以在每次使用前通过重新创建计时器，免费使用该应用程序。";
+/* I Understand */
+"restrictions_button_title" = "我明白";
+/* Support is available in English only. */
+"support_section_footer" = "支持仅提供英文版本。";
+/* Search Help Topics */
+"support_help_topics_title" = "搜索帮助主题";
+/* Continue Conversation */
+"support_conversation_title" = "继续对话";
+/* Notifications */
+"notifications_header" = "通知";
+/* Seconds may send notifications for the following reasons only: */
+"notification_intro" = "秒数可能仅出于以下原因发送通知：";
+/* Alert you to interval changes while in the background. */
+"notification_purpose_0" = "提醒您在后台进行间隔更改。";
+/* Alert you when a support issue is updated. */
+"notification_purpose_1" = "更新支持问题时提醒您。";
+/* Runloop will never send you marketing or other unwanted messages via notifications. */
+"notification_outro" = "Runloop绝不会通过通知向您发送营销或其他不需要的消息。";
+/* Enable Notifications */
+"notification_enable_button" = "启用通知";
+/* Continue without notifications */
+"notification_skip_button" = "继续没有通知";
+/* Exercise [%i] */
+"circuit_editor_new_exercise_name" = "健身项目 %li";
+"interval_editor_reduced_volume" = "减少音量";
+"settings_privacy_title" = "隐私";
+"settings_privacy_analytics_title" = "启用分析";
+"settings_privacy_analytics_description" = "Runloop监视活动安装，屏幕视图和其他界面事件，以提高应用程序的质量和性能。用户内容和健康数据永远不会发送到我们的服务器。";
+"settings_privacy_crash_title" = "启用崩溃报告";
+"settings_privacy_crash_description" = "Runloop收集崩溃报告，以帮助诊断致命错误并改善应用程序的质量，性能和用户体验。";
+/* Reset */
+"countdown_timer_reset" = "重启";
+/* Countdown */
+"countdown_timer_title" = "倒数";
+/* Your countdown is complete */
+"countdown_notification_message" = "倒计时完成了";
+/* My Intervals */
+"intervals_tabbar_title" = "间隔";
+/* Preset %d */
+"countdown_preset_title" = "预设%li";
+/* Countdown Presets */
+"timer_settings_countdown_presets" = "倒计时预设";
+/* Countdown presets are only editable for upgraded users. */
+"countdown_presets_footer" = "倒计时预设仅适用于升级用户。";
+/* Please wait while your timers are transferred from your phone. */
+"watch_loading_timers_message" = "请等待您的计时器从手机转移。";
+/* Voice */
+"watch_voice_title" = "语音";
+/* Start */
+"stopwatch_button_start" = "开始";
+/* Stop */
+"stopwatch_button_stop" = "停止";
+/* Lap */
+"stopwatch_button_lap" = "膝部";
+/* Reset */
+"stopwatch_button_reset" = "重启";
+/* Lap %li */
+"stopwatch_lap_title" = "第%li圈";
+/* Stopwatch */
+"stopwatch_title" = "跑表";
+/* Stopwatch */
+"watch_stopwatch_title" = "跑表";
+/* Pause Between Sides */
+"interval_editor_split_rest_duration" = "在双方之间暂停";
+/* Swap sides */
+"interval_name_swap_sides" = "交换双方";
+/* Quick Intervals */
+"watch_home_quick_timer" = "快速间隔";
+/* My Intervals */
+"watch_home_intervals" = "我的间隔";
+/* Countdown */
+"watch_home_countdown" = "倒数";
+/* Stopwatch */
+"watch_home_stopwatch" = "跑表";
+/* Settings */
+"watch_home_settings" = "设置";
+/* Alerts */
+"watch_settings_alerts" = "警报";
+/* Haptics */
+"watch_settings_haptics" = "触觉";
+/* Low Power Mode */
+"watch_settings_low_power" = "低功耗模式";
+/* Skip Restart Option */
+"watch_settings_skip_restart" = "跳过重启选项";
+/* Total Time */
+"editor_total_time_title" = "总时间";
+/* Anonymous */
+"user_details_anonymous" = "匿名";
+/* Signed in as */
+"user_details_signed_in_label" = "签到";
+/* User Account */
+"user_details_title" = "用户帐号";
+/* This anonymous user is valid on this device only. */
+"user_details_anonymous_footer" = "此匿名用户仅在此设备上有效。";
+/* Upgrade Status */
+"user_details_upgrade" = "升级状态";
+/* None */
+"user_details_upgrade_none" = "没有";
+/* Unverified */
+"user_details_upgrade_unverified" = "未验证";
+/* Verified */
+"user_details_upgrade_verified" = "验证";
+/* Verify Upgrade */
+"user_details_verify_upgrade" = "验证升级";
+/* Sign Out */
+"user_details_sign_out" = "登出";
+/* Copy User ID */
+"user_details_copy_uid" = "复制用户ID";
+/* Verification Successful */
+"free_bezel_message_verify_succeeded" = "验证成功";
+/* Unable to Verify */
+"free_bezel_message_verify_failed" = "无法验证";
+/* Verifying */
+"free_bezel_message_verifying" = "验证";
+/* Report a bug */
+"support_report_bug" = "报告错误";
+/* Contact Support */
+"support_help_contact" = "联系支持";
+/* Left */
+"interval_name_first_half_default" = "剩下";
+/* Right */
+"interval_name_second_half_default" = "对";
+/* %1$@ (%2$@) */
+"interval_name_split" = "%1$@ （%2$@）";
+/* First Half */
+"interval_name_first_half_label" = "上半场";
+/* Second Half */
+"interval_name_second_half_label" = "下半场";
+/* Version 3 (Light) Colours */
+"color_settings_previous_version_3_light" = "版本3颜色（浅色主题）";
+/* Version 3 (Dark) Colours */
+"color_settings_previous_version_3_dark" = "版本3颜色（深色主题）";
+/* For creating a URL for sharing with other users. */
+"toolbar_item_share_online" = "分享";
+/* For sharing a URL created for use on the device. */
+"toolbar_item_share_device" = "分享";
+/* Relates to app icon shortcut options and URLs created to be used on the device. */
+"timer_settings_shortcuts_heading" = "快速操作和网址";

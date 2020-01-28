@@ -1,0 +1,14 @@
+/* These details will override the 'Personal Details' data which are used to calculate calorie expenditure during workouts. */
+"NSHealthShareUsageDescription" = "Ces détails remplaceront les données de 'Détails personnels' qui sont utilisées pour calculer la quantité de calories brulées pendant les exercices.";
+/* Seconds will add workouts to Apple Health. */
+"NSHealthUpdateUsageDescription" = "Seconds ajoutera des exercices à Apple Health";
+/* Seconds connects to Bluetooth heartrate sensors to read heart rate data. */
+"NSBluetoothPeripheralUsageDescription" = "Seconds se connecte aux capteurs de pouls pour lire les données du rythme cardiaque.";
+/* Seconds connects to your music library allowing your to assign music to your intervals. */
+"NSAppleMusicUsageDescription" = "Seconds se connecte à votre bibliothèque musicale, ce qui vous permet d'assigner de la musique à vos intervalles.";
+/* ©2010-2018 Runloop Ltd. All rights reserved. */
+"NSHumanReadableCopyright" = "© 2010-2018 Runloop Ltd. Tous droits réservés.";
+/* Seconds requires photo library access for attaching screenshots to support requests only. */
+"NSPhotoLibraryUsageDescription" = "Seconds nécessite un accès à la photothèque pour joindre des captures d'écran afin de ne prendre en charge que les requêtes.";
+/* Seconds will pair with heart rate sensors and read heart rate information which can be displayed on screen and saved to Apple Health. */
+"NSBluetoothAlwaysUsageDescription" = "Les secondes seront couplées aux capteurs de fréquence cardiaque et liront des informations sur la fréquence cardiaque qui peuvent être affichées à l'écran et enregistrées dans Apple Health.";

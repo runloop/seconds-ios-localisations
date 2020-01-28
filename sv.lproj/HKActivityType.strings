@@ -1,0 +1,154 @@
+/* Other */
+"3000" = "Annan";
+/* American Football */
+"1" = "Amerikansk fotboll";
+/* Archery */
+"2" = "Bågskytte";
+/* Australian Football */
+"3" = "Australiensisk fotboll";
+/* Badminton */
+"4" = "Badminton";
+/* Baseball */
+"5" = "Baseboll";
+/* Basketball */
+"6" = "Basket";
+/* Bowling */
+"7" = "Bowling";
+/* Boxing */
+"8" = "Boxning";
+/* Climbing */
+"9" = "Klättring";
+/* Cricket */
+"10" = "Cricket";
+/* Cross Training */
+"11" = "Crosstraining";
+/* Curling */
+"12" = "Curling";
+/* Cycling */
+"13" = "Cykling";
+/* Dance */
+"14" = "Dans";
+/* Dance Inspired Training */
+"15" = "Dansliknande träning";
+/* Elliptical */
+"16" = "Elliptisk träning";
+/* Equestrian Sports */
+"17" = "Ridning";
+/* Fencing */
+"18" = "Fäktning";
+/* Fishing */
+"19" = "Fiske";
+/* Functional Strength Training */
+"20" = "Funktionell styrketräning";
+/* Golf */
+"21" = "Golf";
+/* Gymnastics */
+"22" = "Gymnastik";
+/* Handball */
+"23" = "Handboll";
+/* Hiking */
+"24" = "Vandring";
+/* Hockey */
+"25" = "Ishockey";
+/* Hunting */
+"26" = "Jakt";
+/* Lacrosse */
+"27" = "Lacrosse";
+/* Martial Arts */
+"28" = "Kampsport";
+/* Mind and Body */
+"29" = "Kropp och själ";
+/* Mixed Metabolic Cardio Training */
+"30" = "Blandad metabolisk konditionsträning";
+/* Paddle Sports */
+"31" = "Paddling";
+/* Play */
+"32" = "Lek";
+/* Preparation and Recovery */
+"33" = "Förberedelse och återhämtning";
+/* Racquetball */
+"34" = "Racquetball";
+/* Rowing */
+"35" = "Rodd";
+/* Rugby */
+"36" = "Rugby";
+/* Running */
+"37" = "Löpning";
+/* Sailing */
+"38" = "Segling";
+/* Skating Sports */
+"39" = "Skridskosporter";
+/* Snow Sports */
+"40" = "Vintersporter";
+/* Football */
+"41" = "Fotboll";
+/* Softball */
+"42" = "Softball";
+/* Squash */
+"43" = "Squash";
+/* Stair Climbing */
+"44" = "Trappgång";
+/* Surfing Sports */
+"45" = "Surfing";
+/* Swimming */
+"46" = "Simning";
+/* Table Tennis */
+"47" = "Bordtennis";
+/* Tennis */
+"48" = "Tennis";
+/* Track and Field */
+"49" = "Friidrott";
+/* Traditional Strength Training */
+"50" = "Traditionell styrketräning";
+/* Volleyball */
+"51" = "Volleyball";
+/* Walking */
+"52" = "Gång";
+/* Water Fitness */
+"53" = "Vattengymnastik";
+/* Water Polo */
+"54" = "Vattenpolo";
+/* Water Sports */
+"55" = "Vattensporter";
+/* Wrestling */
+"56" = "Brottning";
+/* Yoga */
+"57" = "Yoga";
+/* Barre */
+"58" = "Barre";
+/* Core Training */
+"59" = "Core-träning";
+/* Cross Country Skiing */
+"60" = "Längdskidåkning";
+/* Downhill Skiing */
+"61" = "Utförsåkning";
+/* Flexibility */
+"62" = "Flexibilitet";
+/* High Intensity Interval Training */
+"63" = "Intensiv intervallträning";
+/* Jump Rope */
+"64" = "Hopprep";
+/* Kickboxing */
+"65" = "Kickboxning";
+/* Pilates */
+"66" = "Pilates";
+/* Snowboarding */
+"67" = "Snowboardåkning";
+/* Stairs */
+"68" = "Trappmaskin";
+/* Step Training */
+"69" = "Stegträning";
+/* Wheelchair Walk Pace */
+"70" = "Rullstol gångtakt";
+/* Wheelchair Run Pace */
+"71" = "Rullstol springtakt";
+/* Tai Chi */
+"72" = "Tai Chi";
+/* Mixed Cardio */
+"73" = "Blandad kardiovaskulär träning";
+/* Hand Cycling */
+"74" = "Handcykling";
+/* Disc Sports */
+"75" = "Skivsport";
+/* Fitness Gaming */
+"76" = "Fitness-spel";

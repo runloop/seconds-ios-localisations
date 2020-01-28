@@ -1,0 +1,154 @@
+/* Other */
+"3000" = "Other";
+/* American Football */
+"1" = "Football";
+/* Archery */
+"2" = "Archery";
+/* Australian Football */
+"3" = "Australian Football";
+/* Badminton */
+"4" = "Badminton";
+/* Baseball */
+"5" = "Baseball";
+/* Basketball */
+"6" = "Basketball";
+/* Bowling */
+"7" = "Bowling";
+/* Boxing */
+"8" = "Boxing";
+/* Climbing */
+"9" = "Climbing";
+/* Cricket */
+"10" = "Cricket";
+/* Cross Training */
+"11" = "Cross Training";
+/* Curling */
+"12" = "Curling";
+/* Cycling */
+"13" = "Cycling";
+/* Dance */
+"14" = "Dance";
+/* Dance Inspired Training */
+"15" = "Dance Inspired Training";
+/* Elliptical */
+"16" = "Elliptical";
+/* Equestrian Sports */
+"17" = "Equestrian Sports";
+/* Fencing */
+"18" = "Fencing";
+/* Fishing */
+"19" = "Fishing";
+/* Functional Strength Training */
+"20" = "Functional Strength Training";
+/* Golf */
+"21" = "Golf";
+/* Gymnastics */
+"22" = "Gymnastics";
+/* Handball */
+"23" = "Handball";
+/* Hiking */
+"24" = "Hiking";
+/* Hockey */
+"25" = "Hockey";
+/* Hunting */
+"26" = "Hunting";
+/* Lacrosse */
+"27" = "Lacrosse";
+/* Martial Arts */
+"28" = "Martial Arts";
+/* Mind and Body */
+"29" = "Mind and Body";
+/* Mixed Metabolic Cardio Training */
+"30" = "Mixed Metabolic Cardio Training";
+/* Paddle Sports */
+"31" = "Paddle Sports";
+/* Play */
+"32" = "Play";
+/* Preparation and Recovery */
+"33" = "Preparation and Recovery";
+/* Racquetball */
+"34" = "Racquetball";
+/* Rowing */
+"35" = "Rowing";
+/* Rugby */
+"36" = "Rugby";
+/* Running */
+"37" = "Running";
+/* Sailing */
+"38" = "Sailing";
+/* Skating Sports */
+"39" = "Skating Sports";
+/* Snow Sports */
+"40" = "Snow Sports";
+/* Football */
+"41" = "Soccer";
+/* Softball */
+"42" = "Softball";
+/* Squash */
+"43" = "Squash";
+/* Stair Climbing */
+"44" = "Stair Climbing";
+/* Surfing Sports */
+"45" = "Surfing Sports";
+/* Swimming */
+"46" = "Swimming";
+/* Table Tennis */
+"47" = "Table Tennis";
+/* Tennis */
+"48" = "Tennis";
+/* Track and Field */
+"49" = "Track and Field";
+/* Traditional Strength Training */
+"50" = "Traditional Strength Training";
+/* Volleyball */
+"51" = "Volleyball";
+/* Walking */
+"52" = "Walking";
+/* Water Fitness */
+"53" = "Water Fitness";
+/* Water Polo */
+"54" = "Water Polo";
+/* Water Sports */
+"55" = "Water Sports";
+/* Wrestling */
+"56" = "Wrestling";
+/* Yoga */
+"57" = "Yoga";
+/* Barre */
+"58" = "Barre";
+/* Core Training */
+"59" = "Core Training";
+/* Cross Country Skiing */
+"60" = "Cross Country Skiing";
+/* Downhill Skiing */
+"61" = "Downhill Skiing";
+/* Flexibility */
+"62" = "Flexibility";
+/* High Intensity Interval Training */
+"63" = "High Intensity Interval Training";
+/* Jump Rope */
+"64" = "Jump Rope";
+/* Kickboxing */
+"65" = "Kickboxing";
+/* Pilates */
+"66" = "Pilates";
+/* Snowboarding */
+"67" = "Snowboarding";
+/* Stairs */
+"68" = "Stairs";
+/* Step Training */
+"69" = "Step Training";
+/* Wheelchair Walk Pace */
+"70" = "Wheelchair Walk Pace";
+/* Wheelchair Run Pace */
+"71" = "Wheelchair Run Pace";
+/* Tai Chi */
+"72" = "Tai Chi";
+/* Mixed Cardio */
+"73" = "Mixed Cardio";
+/* Hand Cycling */
+"74" = "Hand Cycling";
+/* Disc Sports */
+"75" = "Disc Sports";
+/* Fitness Gaming */
+"76" = "Fitness Gaming";

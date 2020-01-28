@@ -1,0 +1,1220 @@
+/* My Timers */
+"home_title" = "マイ・タイマー";
+/* My Timers */
+"menu_timers" = "マイ・タイマー";
+/* Settings */
+"menu_settings" = "設定";
+/* Items: %@ */
+"container_number_of_items" = "アイテム数: %@";
+/* Imported Timers */
+"imported_timers_title" = "インポートしたタイマー";
+/* Cut */
+"edit_control_cut" = "カット";
+/* Copy */
+"edit_control_copy" = "コピー";
+/* Paste */
+"edit_control_paste" = "ペースト";
+/* Share */
+"toolbar_item_share" = "共有";
+/* Organise */
+"toolbar_item_edit" = "編集";
+/* Done */
+"toolbar_item_done" = "完了";
+/* Help */
+"toolbar_item_help" = "ヘルプ";
+/* Shared Timers */
+"shared_items_container_name" = "共有されたタイマー";
+/* An Error Occurred */
+"share_error_title" = "エラーが発生しました";
+/* Something went wrong with your request. Please try again later. */
+"share_error_message" = "リクエストで問題が発生しました。後でもう一度やり直してください。";
+/* Cancel */
+"navigation_bar_cancel_button" = "キャンセル";
+/* Close */
+"navigation_bar_close_button" = "閉じる";
+/* Import Here */
+"navigation_bar_import_button" = "ここにインポート";
+/* Dismiss */
+"alert_dismiss_button_title" = "閉じる";
+/* Name */
+"container_editor_name_label" = "名前";
+/* Folder */
+"container_editor_title" = "フォルダー";
+/* Choose Template */
+"editor_picker_title" = "テンプレートの選択";
+/* New Folder */
+"editor_option_folder" = "新規フォルダー";
+/* Import From Clipboard */
+"editor_option_import" = "クリップボードからインポート";
+/* Rest */
+"common_timer_rest" = "休憩";
+/* Warm Up */
+"common_timer_warmup" = "ウォームアップ";
+/* Cool Down */
+"common_timer_cooldown" = "クールダウン";
+/* HIIT Timer */
+"hiit_timer_type" = "HIIT タイマー";
+/* High Intensity */
+"hiit_timer_high_intensity" = "高強度";
+/* Low Intensity */
+"hiit_timer_low_intensity" = "低強度";
+/* Circuit Timer */
+"circuit_timer_type" = "サーキットタイマー";
+/* Compound Timer */
+"compound_timer_type" = "コンパウンドタイマー";
+/* Custom Timer */
+"custom_timer_type" = "カスタムタイマー";
+/* Round Timer */
+"round_timer_type" = "ラウンドタイマー";
+/* Round */
+"round_timer_round" = "ラウンド";
+/* Break */
+"round_timer_break" = "休み";
+/* Tabata Timer */
+"tabata_timer_type" = "タバタ・タイマー";
+/* Advanced Timer (Non-editable) */
+"advanced_timer_type" = "高度設定タイマー（変更不可）";
+/* Required */
+"common_editor_required_section_header" = "必須";
+/* Optional */
+"common_editor_optional_section_header" = "任意";
+/* Exercises */
+"common_editor_exercises_section_header" = "エクササイズ";
+/* Extras */
+"common_editor_audio_section_header" = "追加";
+/* Number of Sets */
+"common_editor_sets_label" = "セット数";
+/* Alerts */
+"common_editor_soundscheme_label" = "アラート";
+/* Audio */
+"common_editor_music_label" = "オーディオ";
+/* Preview */
+"common_editor_preview_label" = "プレビュー";
+/* No Audio Selected */
+"common_editor_no_music" = "オーディオが未選択です";
+/* Playlist: %@ */
+"common_editor_playlist" = "プレイリスト: %@";
+/* Song: [title] - [artist] */
+"common_editor_song" = "楽曲: %1$@ - %2$@";
+/* Album: %@ - %@ */
+"common_editor_album" = "アルバム: %1$@ - %2$@";
+/* Genre: %@ */
+"common_editor_genre" = "ジャンル: %@";
+/* Podcast: %@ - %@ */
+"common_editor_podcast" = "ポッドキャスト: %@ - %@";
+/* Audiobook: %@ */
+"common_editor_audiobook" = "オーディオブック: %@";
+/* Artist: %@ */
+"common_editor_artist" = "アーティスト: %@";
+/* Rest Between Intervals */
+"common_editor_interval_rest_label" = "インターバルの合間に休憩";
+/* Rest Between Sets */
+"common_editor_set_rest_label" = "セットの合間に休憩";
+/* Warmup */
+"common_editor_warmup_label" = "ウォームアップ";
+/* Cooldown */
+"common_editor_cooldown_label" = "クールダウン";
+/* HIIT Timer */
+"hiit_editor_title" = "HIIT タイマー";
+/* Name */
+"hiit_editor_name_label" = "名前";
+/* High Intensity */
+"hiit_editor_high_intensity_label" = "高強度";
+/* Low Intensity */
+"hiit_editor_low_intensity_label" = "低強度";
+/* Warmup */
+"hiit_editor_warmup_label" = "ウォームアップ";
+/* Cool Down */
+"hiit_editor_cooldown_label" = "クールダウン";
+/* Start With Low Intensity */
+"hiit_editor_extra_low_label" = "低強度で開始";
+/* Round Timer */
+"round_editor_title" = "ラウンドタイマー";
+/* Number of Rounds */
+"round_editor_rounds_label" = "ラウンド数";
+/* Rounds */
+"round_editor_round_label" = "ラウンド";
+/* Breaks */
+"round_editor_break_label" = "休憩";
+/* Add Exercise */
+"circuit_editor_add_exercise_label" = "エクササイズの追加";
+/* Circuit Timer */
+"circuit_editor_title" = "サーキットタイマー";
+/* Custom Timer */
+"custom_editor_title" = "カスタム・タイマー";
+/* Compound Timer */
+"compound_editor_title" = "コンパウンド・タイマー";
+/* Sub-Timers */
+"compound_editor_subtimers_section_header" = "サブ・タイマー";
+/* Add Sub-Timer */
+"compound_editor_add_subtimer_label" = "サブ・タイマーの追加";
+/* Number of Cycles */
+"compound_editor_times_to_repeat_label" = "サイクル数";
+/* Rest Between Sub-Timers */
+"compound_editor_timer_rest_label" = "サブ・タイマーの合間の休憩";
+/* Rest Between Cycles */
+"compound_editor_repeat_rest_label" = "サイクルの合間の休憩";
+/* Interval */
+"interval_editor_title" = "インターバル";
+/* Name */
+"interval_editor_name_label" = "名前";
+/* Duration */
+"interval_editor_duration_label" = "持続時間";
+/* Colour */
+"interval_editor_color_label" = "色";
+/* Split Interval Left/Right */
+"interval_editor_split_left_right" = "インターバルを左右に分割";
+/* No Sounds */
+"soundscheme_none" = "音声なし";
+/* Beeps */
+"soundscheme_beeps_title" = "ビープ音";
+/* Default Beeps */
+"soundscheme_beeps_default" = "既定のビープ音";
+/* Single Beep, Short */
+"soundscheme_beeps_single_short" = "単一の短いビープ音";
+/* Single Beep, Long */
+"soundscheme_beeps_single_long" = "単一の長いビープ音";
+/* Three Beeps + 10 Second Beep */
+"soundscheme_beeps_three_with_ten" = "3回のビープ音＋10秒のビープ音";
+/* Five Beeps + 10 Second Beep */
+"soundscheme_beeps_five_with_ten" = "5回のビープ音＋10秒のビープ音";
+/* Text-to-Speech */
+"soundscheme_tts_title" = "テキスト読み上げ";
+/* Text-to-Speech with Count */
+"soundscheme_tts_with_count" = "カウント付きのテキスト読み上げ";
+/* Text-to-Speech without Count */
+"soundscheme_tts_without_count" = "カウントなしのテキスト読み上げ";
+/* Text-to-Speech with Time */
+"soundscheme_tts_with_time" = "時間を含むテキスト読み上げ";
+/* Text-to-Speech with Warning */
+"soundscheme_tts_with_warning" = "警告付きのテキスト読み上げ";
+/* Meditation */
+"soundscheme_meditation_title" = "瞑想";
+/* Gong */
+"soundscheme_meditation_gong" = "ゴング";
+/* Thai Gong */
+"soundscheme_meditation_gong_thai" = "タイのゴング";
+/* Tibetan Bell */
+"soundscheme_meditation_bell" = "チベットの鐘";
+/* Cowbell */
+"soundscheme_misc_cowbell" = "カウベル";
+/* Cuckoo */
+"soundscheme_misc_cuckoo" = "カッコウ";
+/* Vibrations Only */
+"soundscheme_vibrations_title" = "バイブのみ";
+/* One Vibration */
+"soundscheme_vibrations_one" = "1回のバイブ";
+/* Four Vibrations */
+"soundscheme_vibrations_four" = "4回のバイブ";
+/* Round Based */
+"soundscheme_rounds_title" = "ラウンドベース";
+/* MMA */
+"soundscheme_rounds_mma" = "総合格闘技（MMA）";
+/* Boxing */
+"soundscheme_rounds_boxing" = "ボクシング";
+/* Select Colour */
+"color_picker_title" = "色の選択";
+/* Grey */
+"color_grey" = "グレー";
+/* Red */
+"color_red" = "赤";
+/* Orange */
+"color_orange" = "オレンジ";
+/* Yellow */
+"color_yellow" = "黄";
+/* Green */
+"color_green" = "緑";
+/* Blue */
+"color_blue" = "青";
+/* Purple */
+"color_purple" = "紫";
+/* Magenta */
+"color_magenta" = "マゼンタ";
+/* Violet */
+"color_violet" = "スミレ";
+/* Value must be at least %d */
+"validator_integer_too_small" = "%li 以上の値を入力してください";
+/* Value must be at most %d */
+"validator_integer_too_large" = "%li 以下の値を入力してください";
+/* String required */
+"validator_string_required" = "文字列を入力してください";
+/* Songs */
+"media_picker_songs_title" = "楽曲";
+/* Playlists */
+"media_picker_playlists_title" = "プレイリスト";
+/* Albums */
+"media_picker_album_title" = "アルバム";
+/* Artists */
+"media_picker_artist_title" = "アーティスト";
+/* Genres */
+"media_picker_genre_title" = "ジャンル";
+/* Podcasts */
+"media_picker_podcasts_title" = "ポッドキャスト";
+/* Audiobooks */
+"media_picker_audiobooks_title" = "オーディオブック";
+/* Select Anyway */
+"media_picker_alert_action_ok" = "とりあえず選択する";
+/* Pick Another */
+"media_picker_alert_action_pick_again" = "他のものを選ぶ";
+/* Undownloaded Media */
+"media_picker_cloud_item_alert_title" = "ダウンロードされていないメディアです";
+/* The song '%@' has not been downloaded from iCloud and will not play during your timer.\n\nTo ensure it does play you must first download it within the Music app. */
+"media_picker_cloud_song_alert_message" = "曲名 '%@' はまだ iCloud からダウンロードされていないので、タイマー中に再生されません。\n\n再生されるようにするには、まず Music アプリ内にダウンロードしてください。";
+/* The album '%@' contains songs yet to be downloaded from iCloud which will not play during your timer.\n\nTo ensure they do play you must first download them within the Music app. */
+"media_picker_cloud_album_alert_message" = "アルバム '%@' には、まだ iCloud からダウンロードされていない曲が含まれています。これはタイマー中に再生されません。\n\n再生されるようにするには、まず Music アプリ内にダウンロードしてください。";
+/* The artist '%@' contains songs yet to be downloaded from iCloud which will not play during your timer.\n\nTo ensure they do play you must first download them within the Music app. */
+"media_picker_cloud_artist_alert_message" = "アーティスト '%@' には、まだ iCloud からダウンロードされていない曲が含まれています。これはタイマー中に再生されません。\n\n再生されるようにするには、まず Music アプリ内にダウンロードしてください。";
+/* The playlist '%@' contains songs yet to be downloaded from iCloud which will not play during your timer.\n\nTo ensure they do play you must first download them within the Music app. */
+"media_picker_cloud_playlist_alert_message" = "プレイリスト '%@' には、まだ iCloud からダウンロードされていない曲が含まれています。これはタイマー中に再生されません。\n\n再生されるようにするには、まず Music アプリ内にダウンロードしてください。";
+/* The genre '%@' contains songs yet to be downloaded from iCloud which will not play during your timer.\n\nTo ensure they do play you must first download them within the Music app. */
+"media_picker_cloud_genre_alert_message" = "ジャンル '%@' には、まだ iCloud からダウンロードされていない曲が含まれています。これはタイマー中に再生されません。\n\n再生されるようにするには、まず Music アプリ内にダウンロードしてください。";
+/* %@pood */
+"units_unconvential_pood" = "%@プード";
+/* Mass */
+"units_title_mass_group" = "質量";
+/* Poods */
+"units_title_pood_group" = "プード";
+/* Long Distances */
+"units_title_long_distance_group" = "長距離";
+/* Short Distances */
+"units_title_short_distance_group" = "短距離";
+/* Kilograms */
+"units_type_kilograms" = "キログラム";
+/* Pounds */
+"units_type_pounds" = "ポンド";
+/* Poods */
+"units_type_poods" = "プード";
+/* Kilometres */
+"units_type_kilometers" = "キロメートル";
+/* Miles */
+"units_type_miles" = "マイル";
+/* Metres */
+"units_type_meters" = "メートル";
+/* Yards */
+"units_type_yards" = "ヤード";
+/* Feet */
+"units_type_feet" = "フィート";
+/* As prescribed in routine */
+"units_type_as_prescribed" = "ルーティーンの指定通り";
+/* Units */
+"units_preferred_units_title" = "単位";
+/* Elapsed */
+"timer_elapsed" = "経過";
+/* Interval */
+"timer_interval" = "インターバル";
+/* Remaining */
+"timer_remaining" = "残り";
+/* Up next */
+"timer_up_next" = "次";
+/* End of Timer */
+"timer_end_interval_name" = "タイマー終了時間";
+/* Current Interval */
+"timer_current_interval" = "現在のインターバル";
+/* Exit Timer */
+"timer_options_exit" = "タイマーを閉じる";
+/* Reset */
+"timer_options_reset" = "リセット";
+/* Back to Timer */
+"timer_options_resume" = "タイマーに戻る";
+/* Audio Selection */
+"audio_editor_interval_audio_title" = "オーディオの選択";
+/* Options */
+"audio_editor_options_title" = "オプション";
+/* Shuffle */
+"audio_editor_shuffle_label" = "シャッフル";
+/* Resume */
+"audio_editor_resume_label" = "プレイバックの再開";
+/* Volume */
+"audio_editor_volume_title" = "音量";
+/* Sound Settings */
+"sound_settings_title" = "サウンド設定";
+/* Alerts */
+"sound_settings_alerts_title" = "アラート";
+/* Volume */
+"sound_settings_alerts_volume_label" = "音量";
+/* Internal Audio */
+"sound_settings_interval_audio_title" = "内部オーディオ";
+/* Volume */
+"sound_settings_music_volume_label" = "音量";
+/* Ducking */
+"sound_settings_ducking_amount_label" = "ダッキング";
+/* External Audio */
+"sound_settings_external_audio_title" = "外部オーディオ";
+/* Duck Volume */
+"sound_settings_external_ducking_label" = "ダック音量";
+/* Speech Options */
+"sound_settings_voice_title" = "音声オプション";
+/* Language */
+"sound_settings_language_label" = "言語";
+/* Pitch */
+"sound_settings_voice_pitch_label" = "ピッチ";
+/* Speed */
+"sound_settings_voice_speed_label" = "速度";
+/* Sample Text */
+"sound_settings_sample_text_label" = "サンプル文";
+/* The quick brown fox jumps over the lazy dog */
+"sound_settings_sample_text_placeholder" = "東京特許許可局 許可局長";
+/* Speak Now */
+"sound_settings_speak_now_label" = "今すぐ音声に変換";
+/* Restore Defaults */
+"sound_settings_restore_label" = "初期値に戻す";
+/* Settings */
+"settings_title" = "設定";
+/* AirPlay */
+"settings_airplay_header" = "AirPlay";
+/* Privacy Mode */
+"settings_privacy_mode" = "プライバシーモード";
+/* Timer Settings */
+"timer_settings_title" = "タイマー設定";
+/* Disable Auto-Lock */
+"timer_settings_disable_auto_lock" = "自動ロックを無効にする";
+/* Buttons Require Long Press */
+"timer_settings_long_press_buttons" = "ボタンを長押ししてください";
+/* Tap Timer to Play/Pause */
+"timer_settings_tap_timer_to_play_pause" = "タイマーをタップして再生/一時停止";
+/* Buttons Beep When Pressed */
+"timer_settings_beep_on_button_presses" = "ボタンを押すとビープ音が鳴ります";
+/* Get Ready */
+"timer_settings_preparation_interval_name" = "準備する";
+/* Preparation Interval */
+"timer_settings_preparation_interval" = "準備のインターバル";
+/* Notifications In Background */
+"timer_settings_notifications_in_background" = "バックグラウンド通知";
+/* Choose a Language */
+"voice_language_title" = "言語を選択してください";
+/* Current Language */
+"voice_langauge_current_title" = "現在の言語";
+/* Common English */
+"voice_langauge_common_title" = "一般英語";
+/* Popular European */
+"voice_langauge_popular_title" = "よく使われるヨーロッパ言語";
+/* Other Languages */
+"voice_langauge_others_title" = "その他の言語";
+/* External Music Detected */
+"external_music_alert_title" = "外部音楽が検知されました";
+/* This routine wants to play music from your Music library but an external audio source has been detected.\nWhich would you like to use? */
+"external_music_alert_message" = "このルーティーンは、ミュージック・ライブラリから音楽を再生しようとしていますが、外部オーディオソースが検知されました。\nどちらを使用しますか？";
+/* External audio */
+"external_music_option_play" = "外部オーディオ";
+/* Timer audio */
+"external_music_option_stop" = "タイマーのオーディオ";
+/* %@, %@, and %@ */
+"speech_formatted_time_three_components" = "%1$@、%2$@ と %3$@";
+/* %@ and %@ */
+"speech_formatted_time_two_components" = "%1$@ と %2$@";
+/* {current_name} for {current_duration} */
+"speech_alert_with_time" = "{current_name} を {current_duration}";
+/* Up next, {next_name} for {next_duration} */
+"speech_alert_prewarn_interval" = "次は {next_name} を {next_duration}";
+/* Timer completed in */
+"speech_alert_prewarn_end" = "タイマー終了まであと";
+/* Your timer is complete. */
+"speech_alert_timer_complete" = "タイマーが終了しました。";
+/* Interval 1 */
+"speech_sample_interval_name_one" = "インターバル 1";
+/* Interval 2 */
+"speech_sample_interval_name_two" = "インターバル 2";
+/* Support */
+"support_title" = "サポート";
+/* Unable to Generate Email */
+"support_no_email_alert_title" = "メールを生成できません";
+/* This device is not configured to send email. Would you like to copy the email 'support@runloop.com' to your clipboard to use later? */
+"support_no_email_alert_message" = "このデバイスはメールを送信するための設定がなされていません。後で使用できるように、'support@runloop.com' のメールアドレスをクリップボードにコピーしますか？";
+/* Yes */
+"support_no_email_alert_yes" = "はい";
+/* No */
+"support_no_email_alert_no" = "いいえ";
+/* Sample Timers */
+"samples_folder_name" = "サンプル・タイマー";
+/* Seconds Demo */
+"sample_timers_demo_name" = "Seconds デモ";
+/* 7 Minute Workout */
+"sample_timers_7minute_name" = "7分間ワークアウト";
+/* Tabata Timer */
+"sample_timers_tabata_name" = "タバタ・タイマー";
+/* Beginner HIIT Timer */
+"sample_timers_hiit_beginner_name" = "初心者 HIIT タイマー";
+/* Advanced HIIT Timer */
+"sample_timers_hiit_advanced_name" = "上級者 HIIT タイマー";
+/* Calisthenics Timer */
+"sample_timers_calisthenics_name" = "柔軟体操タイマー";
+/* Stretch Timer */
+"sample_timers_stretches_name" = "ストレッチ・タイマー";
+/* MMA Timer */
+"sample_timers_mma_name" = "MMA タイマー";
+/* Boxing Timer */
+"sample_timers_boxing_name" = "ボクシング・タイマー";
+/* Jumping Jacks */
+"sample_timers_exercise_jumping_jacks" = "ジャンピングジャック";
+/* Wall Sit */
+"sample_timers_exercise_wall_sits" = "空気椅子";
+/* Push-Ups */
+"sample_timers_exercise_pushups" = "腕立て伏せ";
+/* Crunches */
+"sample_timers_exercise_crunches" = "クランチ";
+/* Step-Ups */
+"sample_timers_exercise_stepups" = "ステップアップ";
+/* Squats */
+"sample_timers_exercise_squats" = "スクワット";
+/* Tricep Dips */
+"sample_timers_exercise_tricep_dips" = "トライセップ・ディップス";
+/* Plank */
+"sample_timers_exercise_plank" = "プランク";
+/* High Knees */
+"sample_timers_exercise_high_knees" = "もも上げ";
+/* Lunges */
+"sample_timers_exercise_lunges" = "ランジ";
+/* Push-Up with Rotation */
+"sample_timers_exercise_pushups_rotation" = "ローテーションの腕立て伏せ";
+/* Side Plank */
+"sample_timers_exercise_side_planks" = "サイドプランク";
+/* Squat Jumps */
+"sample_timers_exercise_squat_jumps" = "スクワットジャンプ";
+/* Sit-Ups */
+"sample_timers_exercise_situps" = "腹筋運動";
+/* Squat Thrusts */
+"sample_timers_exercise_squat_thrusts" = "スクワットスラスト";
+/* Back Extensions */
+"sample_timers_exercise_back_extensions" = "バック・エクステンション";
+/* Seconds Interval Timer */
+"sample_timers_demo_interval_1" = "Seconds インターバル・タイマー";
+/* Has A Large Clear Display */
+"sample_timers_demo_interval_2" = "大きく明確な表示";
+/* Is Simple Yet Versatile */
+"sample_timers_demo_interval_3" = "シンプルかつ万能";
+/* Will Speak Your Interval Names */
+"sample_timers_demo_interval_4" = "インターバル名を音声にする";
+/* Play Your Music During Intervals */
+"sample_timers_demo_interval_5" = "インターバル中に音楽を再生";
+/* And Let You Assign Colours. */
+"sample_timers_demo_interval_6" = "好きな色が指定できる。";
+/* Create Timers Using Templates */
+"sample_timers_demo_interval_7" = "テンプレートを使ってタイマーを作成";
+/* For H.I.I.T, Circuits, Tabata */
+"sample_timers_demo_interval_8" = "H.I.I.T、サーキット、タバタ式に対応";
+/* Or Custom Timers Like This. */
+"sample_timers_demo_interval_9" = "あるいは、このようなカスタムタイマーも可能。";
+/* Combine Many Timers Into One. */
+"sample_timers_demo_interval_10" = "多数のタイマーを一つにまとめる。";
+/* Share Timers With Friends. */
+"sample_timers_demo_interval_11" = "タイマーを友達と共有。";
+/* This Is Just a Quick Demo. */
+"sample_timers_demo_interval_12" = "これは簡単なデモにすぎません。";
+/* The Possibilities Are Endless. */
+"sample_timers_demo_interval_13" = "可能性は無限大です。";
+/* Quad */
+"sample_timers_stretch_quad" = "大腿四頭筋";
+/* Hamstring */
+"sample_timers_stretch_hamstring" = "膝腱";
+/* Hip and Gluteal */
+"sample_timers_stretch_hip" = "股関節部と臀筋";
+/* Back */
+"sample_timers_stretch_back" = "背中";
+/* Chest and Bicep */
+"sample_timers_stretch_chest" = "胸部と二頭筋";
+/* Tricep */
+"sample_timers_stretch_tricep" = "上腕三頭筋";
+/* Neck */
+"sample_timers_stretch_neck" = "首";
+/* Love using Seconds? */
+"request_rating_title" = "Seconds をお気に入りいただけましたか？";
+/* Please take a moment to rate it on the App Store. */
+"request_rating_message" = "App Store でぜひ評価してください。";
+/* %@ (Left) */
+"interval_name_left" = "%@ (左)";
+/* %@ (Right) */
+"interval_name_right" = "%@ (右)";
+/* Duplicate */
+"popover_menu_duplicate" = "重複";
+/* %@ for %@ */
+"notification_interval_with_duration" = "%1$@ を %2$@";
+/* Your timer is complete. */
+"notification_timer_complete" = "タイマーが終了しました。";
+/* Restore Purchases */
+"free_restore_purchases" = "購入アイテムのリストア";
+/* Fetching Products... */
+"free_fetching_product" = "商品を取得しています...";
+/* An error occurred. Tap to try again. */
+"free_error_fetching_products" = "エラーが発生しました。もう一度タップしてください。";
+/* Contacting App Store */
+"free_bezel_message_contacting" = "App Store に接続しています";
+/* Restoring Previous Purchases */
+"free_bezel_message_restoring" = "以前の購入アイテムをリストアしています";
+/* Failed to Make Purchase */
+"free_bezel_message_purchase_failed" = "購入に失敗しました";
+/* Purchases Restored Successfully */
+"free_bezel_message_restore_succeeded" = "購入アイテムのリストアに成功しました";
+/* Failed to Restore Purchases */
+"free_bezel_message_restore_failed" = "購入アイテムのリストアに失敗しました";
+/* Delete */
+"edit_action_delete" = "削除";
+/* Edit */
+"edit_action_edit" = "編集";
+/* Pause for Interruptions */
+"timer_settings_pause_for_interruptions" = "一時停止";
+/* Vibrate on Alert */
+"sound_settings_vibrate_on_alerts_label" = "振動警告";
+/* Hide Statusbar */
+"timer_settings_hide_status_bar" = "ステータスバーを非表示にする";
+/* Exit */
+"timer_exit_accessibility_label" = "閉じる";
+/* Play */
+"timer_play_accessibility_label" = "プレイ";
+/* Reset */
+"timer_reset_accessibility_label" = "リセット";
+/* Help */
+"timer_help_accessibility_label" = "ヘルプ";
+/* Lock Interface */
+"timer_lock_accessibility_label" = "インターフェイスをロックする";
+/* Options */
+"timer_options_accessibility_label" = "オプション";
+/* ? */
+"timer_help_button_label" = "?";
+/* Lock Interface */
+"timer_options_lock" = "インターフェイスのロック";
+/* Unlock Interface */
+"timer_options_unlock" = "インターフェイスのロック解除";
+/* Unlock Interface */
+"timer_unlock_accessibility_label" = "インターフェイスのロック解除";
+/* Pause */
+"timer_pause_accessibility_label" = "一時停止";
+/* Lock Interface When Timing */
+"timer_settings_lock_interface_on_play" = "タイム・アップ時にインターフェイスをロック";
+/* What's Changed */
+"changelog_title" = "変更点";
+/* Exclude From Count */
+"interval_editor_exclude_from_count" = "カウントから除外する";
+/* Halfway Alert */
+"interval_editor_halfway_alert" = "中間点アラート";
+/* Allow Overrun */
+"common_editor_allow_overrun" = "超過を許可";
+/* Overrun */
+"timer_settings_overrun_interval_name" = "超過";
+/* Configure Timer Display */
+"timer_settings_display" = "時間表示を設定";
+/* Share on Timer Complete */
+"share_settings_share_on_complete" = "終了したタイマーをシェア";
+/* Remaining */
+"timer_interval_remaining" = "残り";
+/* Heart Rate */
+"timer_current_bpm" = "心拍数";
+/* Elapsed */
+"timer_interval_elapsed" = "経過時間";
+/* Calories */
+"timer_calories" = "カロリー";
+/* Total Time */
+"timer_display_settings_group_total_time" = "合計タイム";
+/* Interval Time */
+"timer_display_settings_group_interval_time" = "インターバルタイム";
+/* Counters */
+"timer_display_settings_group_counters" = "カウンター";
+/* Heart Rate */
+"timer_display_settings_group_heart_rate" = "心拍数";
+/* Timer Display */
+"timer_display_settings_title" = "時間表示";
+/* Main */
+"timer_display_settings_main_label" = "メイン";
+/* Left */
+"timer_display_settings_left_label" = "左";
+/* Center */
+"timer_display_settings_center_label" = "中央";
+/* Right */
+"timer_display_settings_right_label" = "右";
+/* Pick One */
+"timer_display_settings_options_title" = "ひとつ選択";
+/* Total Remaining */
+"timer_info_total_remaining" = "残り合計";
+/* Total Elapsed */
+"timer_info_total_elapsed" = "経過合計";
+/* Interval Remaining */
+"timer_info_interval_remaining" = "残りのインターバル";
+/* Interval Elapsed */
+"timer_info_interval_elapsed" = "完了したインターバル";
+/* Interval Count */
+"timer_info_interval_count" = "インターバル・カウント";
+/* Current Beats per Minute */
+"timer_info_bpm_current" = "現在の1分当たりの鼓動";
+/* Calories */
+"timer_info_total_calories" = "カロリー";
+/* Heart Rate Settings */
+"heart_rate_settings_title" = "心拍設定";
+/* My Sensors */
+"heart_rate_settings_own_title" = "マイ・センサー";
+/* Nearby Sensors */
+"heart_rate_settings_nearby_title" = "付近のセンサー";
+/* No Sensors */
+"heart_rate_settings_no_sensors" = "センサーはありません";
+/* Discover Nearby Sensors */
+"heart_rate_settings_discover_sensors" = "付近のセンサーを検索";
+/* End Discovery */
+"heart_rate_settings_stop_discovery" = "検索終了";
+/* Personal Details */
+"personal_details_title" = "個人の詳細";
+/* Gender */
+"personal_details_sex_label" = "性別";
+/* Female */
+"personal_details_sex_female" = "女性";
+/* Male */
+"personal_details_sex_male" = "男性";
+/* Year of Birth */
+"personal_details_birthyear_label" = "生まれた年";
+/* Invalid Year of Birth */
+"personal_details_birthyear_invalid_title" = "生まれた年が無効です";
+/* Please enter a birth year from %d up to or including %d */
+"personal_details_birthyear_invalid_message" = "誕生年を入力してください%1$liまでまたはを含む%2$li";
+/* Weight */
+"personal_details_weight_label" = "体重";
+/* Unit */
+"personal_details_weight_unit_label" = "単位";
+/* Fitness Level */
+"personal_details_fitness_level_label" = "フィットネスレベル";
+/* Very Poor */
+"personal_details_fitness_level_very_poor" = "非常に悪い";
+/* Poor */
+"personal_details_fitness_level_poor" = "悪い";
+/* Fair */
+"personal_details_fitness_level_fair" = "標準";
+/* Good */
+"personal_details_fitness_level_good" = "良い";
+/* Excellent */
+"personal_details_fitness_level_excellent" = "非常に良い";
+/* Superior */
+"personal_details_fitness_level_superior" = "優秀";
+/* Or VO2 Max */
+"personal_details_vo2max_label" = "あるいは最大酸素摂取量";
+/* This timer contains alerts that require downloading. You may dismiss this message now but alerts will not sound until downloaded. */
+"timer_downloading_alerts_message" = "このタイマーにはダウンロードが必要なアラートが含まれています。今はこのメッセージを却下できますが、ダウンロードされるまで警告音は鳴りません。";
+/* Downloading Alerts */
+"timer_downloading_alerts_title" = "ダウンロード警告";
+/* Export */
+"toolbar_item_export" = "エクスポート";
+/* {current_timer_name} completed in */
+"speech_alert_prewarn_end_with_name" = "{current_timer_name} が終了します";
+/* That's halfway */
+"speech_alert_halfway" = "中間点です";
+/* Halfway, {current_remaining_time} to go. */
+"speech_alert_halfway_with_time" = "中間点です。終了まで {current_remaining_time} です。";
+/* Optional */
+"common_optional_placeholder" = "オプション";
+/* Persist */
+"audio_editor_persist_label" = "音楽を継続";
+/* Average BPM */
+"timer_average_bpm" = "平均BPM";
+/* Max BPM */
+"timer_max_bpm" = "最大BPM";
+/* Average Beats Per Minute */
+"timer_info_bpm_average" = "1分間の平均心拍数";
+/* Maximum Beats Per Minute */
+"timer_info_bpm_max" = "1分間の最大心拍数";
+/* Control With Remote */
+"timer_settings_control_with_remote" = "遠隔でのコントロール";
+/* Randomise Order */
+"circuit_editor_randomise_exercises_label" = "順序のランダム化";
+/* Apple Health */
+"settings_health_header" = "Appleヘルス";
+/* Share Data */
+"settings_share_health_data" = "ワークアウトデータを保存する";
+/* Other */
+"personal_details_sex_other" = "その他";
+/* Not Set */
+"personal_details_sex_not_set" = "設定しない";
+/* Activity */
+"common_editor_activity_label" = "アクティビティ";
+/* Not Set */
+"activity_type_none" = "設定しない";
+/* Activity Type */
+"activity_picker_title" = "アクティビティ・タイプ";
+/* Single Beep, Short, Alternating */
+"soundscheme_beeps_single_short_alternating" = "シングルビープ音、ショート、交互";
+/* Single Beep, Long, Alternating */
+"soundscheme_beeps_single_long_alternating" = "シングルビープ音、ロング、交互";
+/* Use System Music Player */
+"sound_settings_music_player_label" = "システムの音楽プレーヤーを使用します";
+/* Become a beta tester */
+"support_beta_label" = "ベータテスターになる";
+/* Social Channels */
+"support_social_title" = "ソーシャル　チャンネル";
+/* More from Runloop */
+"home_more_apps_title" = "Runloopの他のアプリ";
+/* Workout tracker & gym log for strength training and bodybuilding. */
+"home_heavyset_description" = "筋力トレーニングと体作りのための、ワークアウトトラッカーとジムの記録";
+/* iCloud Backups */
+"settings_backup_title" = "iCloudのバックアップ";
+/* iCloud Backups */
+"backup_title" = "iCloudのバックアップ";
+/* Select a backup to restore */
+"backup_restore_section_header" = "リストアするバックアップを選択してください。";
+/* Restoring this backup will overwrite your existing timers. Is this what you want to do? */
+"backup_restore_message" = "バックアップをリストアすると、現在のタイマーが上書きされます。続けますか？";
+/* Overwrite */
+"backup_restore_overwrite" = "上書きする";
+/* Restoring iCloud Backup */
+"backup_restore_progress_message" = "iCloudのバックアップをリストアしています";
+/* Restore Succeeded */
+"backup_restore_success_message" = "リストアが完了しました";
+/* Restore Failed */
+"backup_restore_failed_message" = "リストアに失敗しました";
+/* Percent of Max Heartrate */
+"timer_info_percentage_max_heartrate" = "最大心拍数の割合";
+/* Current Time */
+"timer_info_current_time" = "現在の時刻";
+/* HR % */
+"timer_percent_heartrate" = "心拍数　%　";
+/* N/A */
+"timer_info_not_available" = "情報なし";
+/* Very Light */
+"heart_zone_very_light" = "とても軽い";
+/* Light */
+"heart_zone_light" = "軽い";
+/* Moderate */
+"heart_zone_moderate" = "標準";
+/* Hard */
+"heart_zone_hard" = "ハード";
+/* Maximum */
+"heart_zone_maximum" = "最大";
+/* Heart Rate Zone */
+"timer_info_heartrate_zone" = "心拍数領域";
+/* Zone */
+"timer_heart_rate_zone" = "領域";
+/* Current Time */
+"timer_current_time" = "現在の時刻";
+/* Other */
+"timer_display_settings_group_other" = "その他";
+/* Observed Max Heart Rate */
+"personal_details_observed_max_heart_rate_label" = "確認された最大心拍数記録";
+/* Optional */
+"common_placeholder_optional" = "オプション";
+/* Mindful Session Types */
+"activity_picker_mindful_session_title" = "注目のセッションタイプ";
+/* Workout Activity Types */
+"activity_picker_workout_activity_types_title" = "トレーニング・アクティビティの種類";
+/* Grant Pending Permissions */
+"settings_grant_pending_permissions" = "保留許可の認定";
+/* Album: %@ */
+"common_editor_album_no_artist" = "アルバム: %@";
+/* Dark Theme */
+"settings_dark_theme" = "ダーク・テーマの設定";
+/* Notes */
+"common_notes_section_header" = "メモのヘッダー";
+/* Notes */
+"notes_editor_title" = "メモのタイトル";
+/* Not Set */
+"color_not_set" = "色が設定されていません";
+/* None */
+"color_picker_none_button" = "なし";
+/* Foreground Colour */
+"color_foreground" = "前面の色";
+/* Customise Colours */
+"color_settings_title" = "色のカスタマイズ";
+/* Preview */
+"color_settings_preview_label" = "プレビュー";
+/* Preview Colours */
+"color_picker_preview_title" = "色のプレビュー";
+/* Mint */
+"color_mint" = "ミント";
+/* Restore Defaults */
+"color_settings_reset_button_title" = "デフォルトに戻す";
+/* Previous Versions */
+"color_settings_previous_header" = "以前のバージョン";
+/* Version 1 Colours */
+"color_settings_previous_version_1" = "バージョン１の色";
+/* Version 3 Colours */
+"color_settings_previous_version_3" = "バージョン３の色";
+/* Sort */
+"toolbar_item_sort" = "並べ替え";
+/* Dismiss */
+"sort_option_dismiss" = "終了";
+/* Name, Folders first */
+"sort_option_kind_name" = "フォルダー１・名前";
+/* Longest, Folders first */
+"sort_option_kind_longest" = "フォルダー１・最長";
+/* Shortest, Folders first */
+"sort_option_kind_shortest" = "フォルダー１・最短";
+/* Name */
+"sort_option_name" = "名前";
+/* Cadence */
+"interval_editor_cadence_header" = "インターバル・リズム";
+/* Beats per Minute */
+"interval_editor_bpm_label" = "１分あたりの心拍数";
+/* Cadence */
+"sound_settings_cadence_title" = "音楽・リズム";
+/* Volume */
+"sound_settings_cadence_volume_label" = "音量";
+/* Template Defaults */
+"settings_template_defaults_title" = "テンプレート・元";
+/* Unnamed Timer */
+"default_timer_name" = "名前のないタイマー";
+/* Unnamed Folder */
+"default_folder_name" = "名前のないフォルダー";
+/* Unnamed Interval */
+"default_interval_name" = "名前のないインターバル";
+/* Unknown Item */
+"unknown_object" = "不明の項目";
+/* Timer has no duration */
+"timer_duration_error_title" = "タイマーに、持続期間がありません";
+/* This timer needs to be edited to ensure it has a duration before it can be used. */
+"timer_duration_error_message" = "このタイマーは、ご使用の前に、持続期間が設定されているよう確認してください。";
+/* Interval Audio */
+"audio_editor_intervals_title" = "インターバルのオーディオ";
+/* Timer Audio */
+"audio_editor_timer_title" = "タイマーのオーディオ";
+/* End Message */
+"sound_settings_end_message_label" = "メッセージ終了";
+/* Remove Audio */
+"audio_editor_remove_audio" = "オーディオの削除";
+/* Recent */
+"media_picker_recents_title" = "最新";
+/* Circuit / Tabata Timer */
+"circuit_tabata_timer_type" = "サーキット・タバタタイマー";
+/* Tabata Style */
+"circuit_editor_tabata_style_label" = "タバタ・スタイル";
+/* Miscellaneous */
+"uncategorised_timers_title" = "その他";
+/* Auto-Start */
+"timer_settings_autostart" = "自動スタート";
+/* Prefer Internal Audio */
+"timer_settings_prefer_internal_audio" = "内部オーディオの嗜好";
+/* Num. Exercises */
+"editor_exercise_count_title" = "エクササイズ番号";
+/* Ex. Duration */
+"editor_exercise_duration_title" = "エクササイズ所要時間";
+/* Num. Cycles */
+"editor_cycles_count_title" = "エクササイズセット数";
+/* Ex. Rest */
+"editor_exercise_rest_title" = "エクササイズ休憩";
+/* Cycle Rest */
+"editor_cycle_rest_title" = "セット休憩";
+/* Style */
+"editor_timer_style" = "トレーニング方式";
+/* Warm Up */
+"editor_warm_up_title" = "ウォーム・アップ";
+/* Cool Down */
+"editor_cool_down_title" = "クール・ダウン";
+/* Start */
+"editor_start_button" = "スタート";
+/* Next */
+"editor_next_button" = "次へ";
+/* Back */
+"editor_back_button" = "戻る";
+/* Circuit */
+"editor_timer_style_circuit" = "サーキット方式";
+/* Tabata */
+"editor_timer_style_tabata" = "タバタ方式";
+/* End Timer */
+"timer_end_timer_button" = "タイマー終了";
+/* Reset */
+"timer_reset_menu_item" = "リセット";
+/* End Timer */
+"timer_end_timer_menu_item" = "タイマー終了";
+/* End Workout */
+"timer_end_workout_button" = "エクササイズ終了";
+/* End Session */
+"timer_end_session_button" = "セッション終了";
+/* Restart */
+"timer_restart_button" = "再開";
+/* Your timer is complete. */
+"timer_completion_message" = "タイマー完了";
+/* N/A */
+"timer_heart_rate_not_available" = "心拍数が無効です";
+/* Quick Timer */
+"list_quick_timer_button" = "クイック・タイマー";
+/* Summary */
+"summary_title" = "まとめ";
+/* %d%% Complete */
+"summary_percent_complete" = "%li%% 完了";
+/* Total Time */
+"summary_total_timer_title" = "合計時間";
+/* Active Calories */
+"summary_active_calories_title" = "アクティブカロリー";
+/* Total Calories */
+"summary_total_calories_title" = "総カロリー";
+/* %dcal */
+"summary_calories_value" = "%liカロリー";
+/* Avg Heart Rate */
+"summary_average_heart_rate_title" = "平均心拍数";
+/* %dbpm */
+"summary_average_heart_rate_value" = "%libpm";
+/* Discard */
+"summary_discard_button" = "削除";
+/* Dismiss */
+"summary_dismiss_button" = "終了";
+/* Save Failed */
+"summary_save_failed_title" = "保存失敗";
+/* Activity */
+"activities_title" = "アクティビティ";
+/* Location */
+"activities_location_title" = "場所";
+/* Activities */
+"activities_activities_title" = "アクティビティ";
+/* Indoor %@ */
+"activities_indoor_activity" = "室内%@";
+/* Outdoor %@ */
+"activities_outdoor_activity" = "屋外%@";
+/* Your saved timers will appear here after making changes in the iOS app. */
+"list_info_message_paid" = "iOSアプリに変更を加えると、保存したタイマーがこちらに表示されます。";
+/* Quick Timer */
+"quick_timer_name" = "クイック・タイマー";
+/* Exercise %d */
+"quick_timer_exercise" = "エクササイズ %li";
+/* %@ (Left) */
+"timer_exercise_name_left" = "%@ (左)";
+/* %@ (Right) */
+"timer_exercise_name_right" = "%@ (右)";
+/* Warm Up */
+"quick_timer_warm_up" = "ウォーム・アップ";
+/* Cool Down */
+"quick_timer_cool_down" = "クール・ダウン";
+/* Rest */
+"quick_timer_rest" = "休憩";
+/* Have you granted the required permissions in the iOS app settings? */
+"summary_save_failed_message" = "iOS アプリ設定で、必要な許可を付与しましたか？";
+/* Unnamed Timer */
+"list_unnamed_timer" = "名前のないタイマー";
+/* Unnamed Folder */
+"list_unnamed_folder" = "名前のないフォルダー";
+/* Available Upgrades */
+"upgrade_available_products_header" = "可能なアップグレード";
+/* Restores purchases made with previous installations of Seconds. */
+"upgrade_restore_footer" = "Secondsの前回のインストールでの購入を復元する";
+/* Upgrade */
+"upgrade_title" = "アップグレード";
+/* To assign audio to your intervals you will need to update your settings and allow %@ access to your Media Library */
+"media_permission_warning_message" = "間隔にオーディオを割り当てるには、設定を更新し、メディアライブラリへの%@アクセスを許可する必要があります";
+/* Audio not found */
+"audio_not_found_title" = "オーディオが見つかりません";
+/* Please reselect your audio */
+"audio_not_found_message" = "あなたのオーディオを再選択してください";
+/* Sync song changes with intervals */
+"audio_editor_timer_resume_label" = "ソングの変更をインターバルと同期させる";
+/* Skip restart option */
+"watch_settings_skip_restart_option" = "再スタートのオプションをスキップ";
+/* Discard */
+"timer_discard_workout_menu_item" = "削除";
+/* Sync Timers Now */
+"watch_settings_sync_now" = "タイマーの同期を行う";
+/* Swimming */
+"watch_settings_swimming_header" = "水泳";
+/* Pool Length */
+"watch_settings_pool_length_label" = "プール長";
+/* Unit of Measurement */
+"watch_settings_pool_unit_label" = "測定単位";
+/* Metres */
+"unit_metres" = "メートル";
+/* Yards */
+"unit_yards" = "ヤード";
+/* Low Power Mode */
+"watch_settings_low_power_mode_label" = "低電力モード";
+/* Alerts */
+"watch_settings_enable_alerts_title" = "アラート";
+/* Volume */
+"watch_settings_alert_volume_title" = "ボリューム";
+/* Haptic */
+"watch_settings_enable_haptic_title" = "触覚";
+/* Done */
+"summary_done_button" = "完了";
+/* Lock */
+"timer_water_lock_menu_item" = "ロック";
+/* Error */
+"alert_error_title" = "エラー";
+/* Count Up Indefinitely */
+"interval_editor_count_up" = "無限にカウントアップ";
+/* Estimated Duration */
+"interval_editor_estimated_duration_label" = "推定期間";
+/* Seconds saves a backup file to your private iCloud container each time you make a change to your timers.\n\nTo restore a backup tap the row.\n\nTo delete a backup swipe left across the row and tap Delete. */
+"backup_privacy_message" = "秒は、タイマーを変更するたびにバックアップファイルをプライベートiCloudコンテナに保存します。 \n\nバックアップを復元するには、行をタップします。 \n\n行の左にあるバックアップスワイプを削除し、[削除]をタップします。";
+/* Your personal details are only used within the app to increase the accuracy of calorie calculations. This information is never shared with 3rd parties. */
+"personal_details_privacy_footer" = "あなたの個人的な詳細は、カロリー計算の精度を高めるためにアプリ内でのみ使用されます。この情報は第三者と共有されることはありません。";
+/* Free */
+"common_free" = "無料";
+/* Play All */
+"toolbar_item_play_all" = "全部やる";
+/* Upgrade now - %@ */
+"upsell_delay_upgrade_button" = "今すぐアップグレードする - %@";
+/* Upgrade to skip this screen. */
+"upsell_delay_body_watch" = "この画面をスキップするようにアップグレードします。";
+/* Please wait */
+"upsell_delay_title_watch" = "お待ちください";
+/* Nothing to restore */
+"free_bezel_message_restore_no_products" = "復元するものは何もない";
+/* Fetching price... */
+"common_fetching_price" = "値を取得しています...";
+/* Upgrade now - %@ */
+"upsell_upgrade_title" = "今すぐアップグレードする - %@";
+/* Upgrade to Pro */
+"upsell_title" = "プロ仕様にアップグレードする";
+/* Upgrade now - %@ */
+"timer_list_upgrade_button_title" = "今すぐアップグレードする - %@";
+/* Upgrade to remove all restrictions and delays. Previous purchases can be restored in %@ > %@. */
+"timer_list_upgrade_footnote" = "すべての制限と遅延を取り除くためにアップグレードしてください。以前の購入は、[設定] >アップグレードステータス]に復元できます。";
+/* As a non-paying user you may only use the timers you create one time. Please upgrade to remove this restriction. */
+"upsell_message_upgrade" = "支払い対象外のユーザーは、作成したタイマーを1回だけ使用することができます。この制限を解除するにはアップグレードしてください。";
+/* Start a timer */
+"watch_complication_start_timer" = "タイマーを開始する";
+/* Welcome to %@ */
+"welcome_heading" = "%@へようこそ";
+/* Advanced Templates */
+"welcome_design_title" = "高度なテンプレート";
+/* Easily design complex interval timers for any activity using templates. */
+"welcome_design_message" = "テンプレートを使用して、あらゆるアクティビティの複雑なインターバルタイマーを簡単に設計できます。";
+/* Text to Speech */
+"welcome_speech_title" = "テキスト音声変換";
+/* Hear the interval names in advance so you always know what's next. */
+"welcome_speech_message" = "あなたはいつも次のことを知っているので、事前に間隔の名前を聞いてください。";
+/* Listen to Your Music */
+"welcome_music_title" = "あなたの音楽を聞く";
+/* Match the intensity of your music to the intensity of you workout. */
+"welcome_music_message" = "あなたの音楽の強さをあなたの強さに合わせてください。";
+/* Accept & Continue */
+"welcome_continue_button" = "同意して続行する";
+/* Runloop has updated its privacy policy. */
+"privacy_update_heading" = "Runloopはプライバシーポリシーを更新しました。";
+/* Runloop collects Usage Data to improve the app, and shares Aggregated Data with providers. To learn more please read our %@ and %@ before continuing. */
+"privacy_disclaimer" = "Runloopはアプリを改善するために利用状況データを収集し、プロバイダと集計データを共有します。詳細については、続行する前に%1$@と%2$@をお読みください。";
+/* privacy policy */
+"privacy_disclaimer_policy_title" = "個人情報保護方針";
+/* terms and conditions */
+"privacy_disclaimer_terms_title" = "規約と条件";
+/* Accept & Continue */
+"privacy_update_continue_button" = "同意して続行する";
+/* Restrictions */
+"restrictions_header" = "制限事項";
+/* Seconds is a paid app that can be used for free to trial all its features before committing to a one-time purchase.\n\nBefore upgrading users may use the timers they create one time only, after which the paid upgrade is required to use them again.\n\nUsers can use the app for free for as long as they like by recreating their timers before each use. */
+"restrictions_body" = "Secondsは有料アプリで、ワンタイム購入をする前に無料でその機能を試用することができます。 \n\nアップグレードする前に、ユーザーは作成したタイマーを1回だけ使用することができます。その後、再度使用するには有料のアップグレードが必要です。 \n\nユーザーは、それぞれの使用前にタイマーを再作成することによって、好きなだけ無料でアプリを使用できます。";
+/* I Understand */
+"restrictions_button_title" = "わかります";
+/* Support is available in English only. */
+"support_section_footer" = "サポートは英語でのみ利用可能です。";
+/* Search Help Topics */
+"support_help_topics_title" = "ヘルプトピックの検索";
+/* Continue Conversation */
+"support_conversation_title" = "会話を続ける";
+/* Notifications */
+"notifications_header" = "通知";
+/* Seconds may send notifications for the following reasons only: */
+"notification_intro" = "秒は、次の理由でのみ通知を送信することがあります。";
+/* Alert you to interval changes while in the background. */
+"notification_purpose_0" = "バックグラウンドで間隔を変更するように警告します。";
+/* Alert you when a support issue is updated. */
+"notification_purpose_1" = "サポートの問題が更新されたときに警告します。";
+/* Runloop will never send you marketing or other unwanted messages via notifications. */
+"notification_outro" = "Runloopは、マーケティングやその他の不要なメッセージをあなたに通知することはありません。";
+/* Enable Notifications */
+"notification_enable_button" = "通知を有効にします";
+/* Continue without notifications */
+"notification_skip_button" = "通知なしで続行する";
+/* Exercise [%i] */
+"circuit_editor_new_exercise_name" = "エクササイズ%li";
+"interval_editor_reduced_volume" = "オーディオの音量を下げる";
+"settings_privacy_title" = "プライバシー";
+"settings_privacy_analytics_title" = "分析を有効にする";
+"settings_privacy_analytics_description" = "Runloopは、アクティブインストール、スクリーンビュー、その他のインターフェースイベントを監視して、アプリの品質とパフォーマンスを向上させます。ユーザーコンテンツと健康データは私たちのサーバーに送信されることはありません。";
+"settings_privacy_crash_title" = "クラッシュレポートを有効にする";
+"settings_privacy_crash_description" = "Runloopはクラッシュレポートを収集して致命的なエラーを診断し、アプリの品質、パフォーマンス、ユーザーエクスペリエンスを向上させます。";
+/* Reset */
+"countdown_timer_reset" = "リセット";
+/* Countdown */
+"countdown_timer_title" = "カウントダウン";
+/* Your countdown is complete */
+"countdown_notification_message" = "あなたのカウントダウンは完了しました";
+/* My Intervals */
+"intervals_tabbar_title" = "間隔";
+/* Preset %d */
+"countdown_preset_title" = "プリセット%li";
+/* Countdown Presets */
+"timer_settings_countdown_presets" = "カウントダウンプリセット";
+/* Countdown presets are only editable for upgraded users. */
+"countdown_presets_footer" = "カウントダウンプリセットは、アップグレードされたユーザーに対してのみ編集可能です。";
+/* Please wait while your timers are transferred from your phone. */
+"watch_loading_timers_message" = "タイマーが携帯電話から転送されるまでお待ちください。";
+/* Voice */
+"watch_voice_title" = "音声";
+/* Start */
+"stopwatch_button_start" = "開始";
+/* Stop */
+"stopwatch_button_stop" = "やめる";
+/* Lap */
+"stopwatch_button_lap" = "ラップ";
+/* Reset */
+"stopwatch_button_reset" = "リセット";
+/* Lap %li */
+"stopwatch_lap_title" = "%li周目";
+/* Stopwatch */
+"stopwatch_title" = "ストップウォッチ";
+/* Stopwatch */
+"watch_stopwatch_title" = "ストップウォッチ";
+/* Pause Between Sides */
+"interval_editor_split_rest_duration" = "両側を一時停止";
+/* Swap sides */
+"interval_name_swap_sides" = "辺を入れ替える";
+/* Quick Intervals */
+"watch_home_quick_timer" = "クイックインターバル";
+/* My Intervals */
+"watch_home_intervals" = "私の間隔";
+/* Countdown */
+"watch_home_countdown" = "カウントダウン";
+/* Stopwatch */
+"watch_home_stopwatch" = "ストップウォッチ";
+/* Settings */
+"watch_home_settings" = "設定";
+/* Alerts */
+"watch_settings_alerts" = "アラート";
+/* Haptics */
+"watch_settings_haptics" = "ハプティクス";
+/* Low Power Mode */
+"watch_settings_low_power" = "低電力モード";
+/* Skip Restart Option */
+"watch_settings_skip_restart" = "再起動オプションをスキップ";
+/* Total Time */
+"editor_total_time_title" = "合計時間";
+/* Anonymous */
+"user_details_anonymous" = "匿名";
+/* Signed in as */
+"user_details_signed_in_label" = "としてログイン";
+/* User Account */
+"user_details_title" = "ユーザーアカウント";
+/* This anonymous user is valid on this device only. */
+"user_details_anonymous_footer" = "この匿名ユーザーはこの端末でのみ有効です。";
+/* Upgrade Status */
+"user_details_upgrade" = "アップグレードステータス";
+/* None */
+"user_details_upgrade_none" = "無し";
+/* Unverified */
+"user_details_upgrade_unverified" = "未検証";
+/* Verified */
+"user_details_upgrade_verified" = "確認済み";
+/* Verify Upgrade */
+"user_details_verify_upgrade" = "アップグレードを確認する";
+/* Sign Out */
+"user_details_sign_out" = "サインアウト";
+/* Copy User ID */
+"user_details_copy_uid" = "ユーザーIDをコピー";
+/* Verification Successful */
+"free_bezel_message_verify_succeeded" = "検証成功";
+/* Unable to Verify */
+"free_bezel_message_verify_failed" = "確認できません";
+/* Verifying */
+"free_bezel_message_verifying" = "確認中";
+/* Report a bug */
+"support_report_bug" = "バグを報告";
+/* Contact Support */
+"support_help_contact" = "サポート問い合わせ先";
+/* Left */
+"interval_name_first_half_default" = "左";
+/* Right */
+"interval_name_second_half_default" = "右";
+/* %1$@ (%2$@) */
+"interval_name_split" = "%1$@（%2$@）";
+/* First Half */
+"interval_name_first_half_label" = "前半";
+/* Second Half */
+"interval_name_second_half_label" = "後半";
+/* Version 3 (Light) Colours */
+"color_settings_previous_version_3_light" = "バージョン3色（ライトテーマ）";
+/* Version 3 (Dark) Colours */
+"color_settings_previous_version_3_dark" = "バージョン3カラー（ダークテーマ）";
+/* For creating a URL for sharing with other users. */
+"toolbar_item_share_online" = "シェア";
+/* For sharing a URL created for use on the device. */
+"toolbar_item_share_device" = "シェア";
+/* Relates to app icon shortcut options and URLs created to be used on the device. */
+"timer_settings_shortcuts_heading" = "クイックアクションとURL";
