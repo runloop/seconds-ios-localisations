@@ -1252,3 +1252,29 @@
 "photos_picker_title" = "Choose Image";
 /* Download Seconds on the App Store - www.runloop.com/seconds-pro */
 "external_display_settings_promotional_message" = "Download Seconds on the App Store - www.runloop.com/seconds-pro";
+/* By signing up with Runloop, you agree to the %1$@. View our %2$@. */
+"auth_register_terms" = "By signing up with Runloop, you agree to the %1$@. View our %2$@.";
+/* Privacy Policy */
+"auth_register_terms_policy_title" = "Privacy Policy";
+/* Terms of Service */
+"auth_register_terms_terms_title" = "Terms of Service";
+/* Data created with an anonymous account will only be available on this device. To access your data on a different or new device you will need to create a user account. */
+"auth_register_benefits" = "Data created with an anonymous account will only be available on this device. To access your data on a different or new device you will need to create a user account.";
+"auth_register_title" = "Register";
+"auth_register_login_button" = "Or sign in to your account.";
+"auth_email_placeholder" = "Email";
+"auth_password_placeholder" = "Password";
+"auth_show_password" = "Show password";
+"auth_register_signup_button" = "Sign up with account";
+
+"auth_error_invalid_email" = "A valid email is required.";
+"auth_error_password_too_short" = "Requires minimum of 6 chararcters.";
+"auth_warning_weak_password" = "Consider a stronger password.";
+"auth_error_weak_password" = "A stronger password is required.";
+"auth_error_network" = "A network error occurred. Please try again later.";
+"auth_error_email_in_use" = "This email is already in use.";
+
+"common_error_unknown" = "An unknown error occurred. Please try again later.";
+"common_error_known" = "The following error occured: %@";
+"common_error_unexpected" = "An unexpected error occurred: %@";
+
