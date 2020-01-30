@@ -1260,21 +1260,47 @@
 "auth_register_terms_terms_title" = "Terms of Service";
 /* Data created with an anonymous account will only be available on this device. To access your data on a different or new device you will need to create a user account. */
 "auth_register_benefits" = "Data created with an anonymous account will only be available on this device. To access your data on a different or new device you will need to create a user account.";
+/* Register */
 "auth_register_title" = "Register";
-"auth_register_login_button" = "Or sign in to your account.";
+/* Or sign in to your account */
+"auth_register_login_button" = "Or sign in to your account";
+/* Email */
 "auth_email_placeholder" = "Email";
+/* Password */
 "auth_password_placeholder" = "Password";
+/* Show password */
 "auth_show_password" = "Show password";
+/* Sign up with account */
 "auth_register_signup_button" = "Sign up with account";
-
+/* Sign in anonymously */
+"auth_register_sign_in_anonymously" = "Sign in anonymously";
+/* A valid email is required. */
 "auth_error_invalid_email" = "A valid email is required.";
+/* Requires minimum of 6 chararcters. */
 "auth_error_password_too_short" = "Requires minimum of 6 chararcters.";
+/* Consider a stronger password. */
 "auth_warning_weak_password" = "Consider a stronger password.";
+/* A stronger password is required. */
 "auth_error_weak_password" = "A stronger password is required.";
+/* A network error occurred. Please try again later. */
 "auth_error_network" = "A network error occurred. Please try again later.";
+/* This email is already in use. */
 "auth_error_email_in_use" = "This email is already in use.";
-
-"common_error_unknown" = "An unknown error occurred. Please try again later.";
-"common_error_known" = "The following error occured: %@";
-"common_error_unexpected" = "An unexpected error occurred: %@";
-
+/* An unexpected error occurred. Please contact support and describe the issue. */
+"common_error_unexpected" = "An unexpected error occurred. Please contact support and describe the issue.";
+/* This user account has been disabled. Please contact support for more information. */
+"auth_error_user_disabled" = "This user account has been disabled. Please contact support for more information.";
+/* The email or password you entered is incorrect. */
+"auth_error_invalid_credentials" = "The email or password you entered is incorrect.";
+/* Sign In */
+"auth_login_title" = "Sign In";
+/* Or create a new account */
+"auth_login_register_button" = "Or create a new account";
+/* Sign in */
+"auth_login_signin_button" = "Sign in";
+/* Send password reset email */
+"auth_login_password_reset" = "Send password reset email";
+/* Request Received */
+"auth_login_password_reset_confirm_title" = "Request Received";
+/* If the account exists, an email will be sent providing further instructions. */
+"auth_login_password_reset_confirm_message" = "If the account exists, an email will be sent providing further instructions.";
