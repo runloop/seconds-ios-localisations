@@ -1314,3 +1314,21 @@
 "user_details_status_verified" = "Verified";
 /* Unverified */
 "user_details_status_unverified" = "Unverified";
+/* Email Verification */
+"user_details_email_verification_alert_title" = "Email Verification";
+/* An email verification link has been sent to %@. */
+"user_details_email_verification_alert_message" = "An email verification link has been sent to %@.";
+/* Update Email */
+"user_details_update_email" = "Update Email";
+/* Update Password */
+"user_details_update_password" = "Update Password";
+/* Password */
+"user_details_update_password_placeholder" = "Password";
+/* Current Password */
+"user_details_update_current_password_placeholder" = "Current Password";
+/* New Password */
+"user_details_update_new_password_placeholder" = "New Password";
+/* New Email */
+"user_details_update_new_email_placeholder" = "New Email";
+/* Update */
+"user_details_update_button" = "Update";
