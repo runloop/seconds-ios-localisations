@@ -1218,3 +1218,113 @@
 "toolbar_item_share_device" = "シェア";
 /* Relates to app icon shortcut options and URLs created to be used on the device. */
 "timer_settings_shortcuts_heading" = "クイックアクションとURL";
+/* External Display */
+"external_display_settings_title" = "外部ディスプレイ";
+/* Logo */
+"external_display_settings_logo_heading" = "ロゴ";
+/* A logo to be displayed on the timer screen when screen mirroring. The image will be scaled to fit within a 320px square, and will not cropped at all. */
+"external_display_settings_logo_footnote" = "画面ミラーリング時にタイマー画面に表示されるロゴ。画像は320pxの正方形に収まるように拡大縮小され、まったくトリミングされません。";
+/* Privacy Screen */
+"external_display_settings_privacy_heading" = "プライバシー画面";
+/* The privacy screen is used when screen mirroring to prevent any personal details being displayed. The image will be scaled to fill a 16:9 ratio rectangle, and will crop excess. */
+"external_display_settings_privacy_footnote" = "プライバシー画面は、画面のミラーリング時に個人情報が表示されないようにするために使用されます。画像は16：9の比率の長方形に合わせて拡大縮小され、余分な部分がトリミングされます。";
+/* Show Privacy Screen */
+"external_display_settings_privacy_screen_title" = "プライバシー画面を表示";
+/* Promotional Messages */
+"external_display_settings_messages_header" = "プロモーションメッセージ";
+/* Add Message */
+"external_display_settings_add_message" = "メッセージを追加";
+/* Promotional messages are displayed in turn along the bottom of the timer. */
+"external_display_settings_messages_footer" = "プロモーションメッセージは、タイマーの下部に順番に表示されます。";
+/* Message #%ld */
+"external_display_settings_message_placeholder" = "メッセージ＃ %ld";
+/* No access to Camera Roll */
+"photos_picker_unauthorised_title" = "カメラロールにアクセスできません";
+/* You can grant access to Seconds from the Settings app. */
+"photos_picker_unauthorised_message" = "設定アプリからSecondsへのアクセスを許可できます。";
+/* Choose Image */
+"photos_picker_title" = "画像を選択";
+/* Download Seconds on the App Store - www.runloop.com/seconds-pro */
+"external_display_settings_promotional_message" = "App StoreでSecondsをダウンロード-www.runloop.com/seconds-pro";
+/* By signing up with Runloop, you agree to the %1$@. View our %2$@. */
+"auth_register_terms" = "Runloopにサインアップすると、 %1$@同意したことになります。 %2$@表示します。";
+/* Privacy Policy */
+"auth_register_terms_policy_title" = "個人情報保護方針";
+/* Terms of Service */
+"auth_register_terms_terms_title" = "利用規約";
+/* Data created with an anonymous account will only be available on this device. To access your data on a different or new device you will need to create a user account. */
+"auth_register_benefits" = "匿名アカウントで作成されたデータは、このデバイスでのみ利用できます。別のデバイスまたは新しいデバイスでデータにアクセスするには、ユーザーアカウントを作成する必要があります。";
+/* Register */
+"auth_register_title" = "登録";
+/* Or sign in to your account */
+"auth_register_login_button" = "または、アカウントにサインインします";
+/* Email */
+"auth_email_placeholder" = "Eメール";
+/* Password */
+"auth_password_placeholder" = "パスワード";
+/* Show password */
+"auth_show_password" = "パスワードを表示";
+/* Sign up with account */
+"auth_register_signup_button" = "アカウントでサインアップ";
+/* Continue as anonymous user */
+"auth_register_sign_in_anonymously" = "匿名ユーザーとして続行";
+/* A valid email is required. */
+"auth_error_invalid_email" = "有効なメールアドレスが必要です。";
+/* Requires minimum of 6 chararcters. */
+"auth_error_password_too_short" = "最小6文字が必要です。";
+/* Consider a stronger password. */
+"auth_warning_weak_password" = "より強力なパスワードを検討してください。";
+/* A stronger password is required. */
+"auth_error_weak_password" = "より強力なパスワードが必要です。";
+/* A network error occurred. Please try again later. */
+"auth_error_network" = "ネットワークエラーが発生しました。後でもう一度やり直してください。";
+/* This email is already in use. */
+"auth_error_email_in_use" = "この電子メールは既に利用されています。";
+/* An unexpected error occurred. Please contact support and describe the issue. */
+"common_error_unexpected" = "予期しないエラーが発生しました。サポートに連絡して、問題を説明してください。";
+/* This user account has been disabled. Please contact support for more information. */
+"auth_error_user_disabled" = "このユーザーアカウントは無効になっています。詳細については、サポートにお問い合わせください。";
+/* The email or password you entered is incorrect. */
+"auth_error_invalid_credentials" = "あなたが入力したメールアドレスまたはパスワードが正しくありません。";
+/* Sign In */
+"auth_login_title" = "サインイン";
+/* Or create a new account */
+"auth_login_register_button" = "または、新しいアカウントを作成します";
+/* Sign in */
+"auth_login_signin_button" = "サインイン";
+/* Send password reset email */
+"auth_login_password_reset" = "パスワードリセットメールを送信する";
+/* Request Received */
+"auth_login_password_reset_confirm_title" = "受信したリクエスト";
+/* If the account exists, an email will be sent providing further instructions. */
+"auth_login_password_reset_confirm_message" = "アカウントが存在する場合、詳細な手順を記載したメールが送信されます。";
+/* Register a user account. */
+"user_details_register_account" = "ユーザーアカウントを登録します。";
+/* Verify Email Address */
+"user_details_verify_email" = "メールアドレスの確認";
+/* Account Status */
+"user_details_status" = "アカウントのステータス";
+/* Verified */
+"user_details_status_verified" = "検証済み";
+/* Unverified */
+"user_details_status_unverified" = "未確認";
+/* Email Verification */
+"user_details_email_verification_alert_title" = "メール確認";
+/* An email verification link has been sent to %@. */
+"user_details_email_verification_alert_message" = "メール確認リンクが%@送信されました。";
+/* Update Email */
+"user_details_update_email" = "メールを更新";
+/* Update Password */
+"user_details_update_password" = "パスワードを更新";
+/* Password */
+"user_details_update_password_placeholder" = "パスワード";
+/* Current Password */
+"user_details_update_current_password_placeholder" = "現在のパスワード";
+/* New Password */
+"user_details_update_new_password_placeholder" = "新しいパスワード";
+/* New Email */
+"user_details_update_new_email_placeholder" = "新しいメール";
+/* Update */
+"user_details_update_button" = "更新";
+/* Latest Backups */
+"user_details_backup_heading" = "最新のバックアップ";
