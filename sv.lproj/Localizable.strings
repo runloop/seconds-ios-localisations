@@ -1218,3 +1218,113 @@
 "toolbar_item_share_device" = "Dela med sig";
 /* Relates to app icon shortcut options and URLs created to be used on the device. */
 "timer_settings_shortcuts_heading" = "Snabba åtgärder och webbadresser";
+/* External Display */
+"external_display_settings_title" = "Extern skärm";
+/* Logo */
+"external_display_settings_logo_heading" = "Logotyp";
+/* A logo to be displayed on the timer screen when screen mirroring. The image will be scaled to fit within a 320px square, and will not cropped at all. */
+"external_display_settings_logo_footnote" = "En logotyp som ska visas på timerskärmen vid skärmspegling. Bilden skalas så att den passar i en kvadrat på 320px och beskärs inte alls.";
+/* Privacy Screen */
+"external_display_settings_privacy_heading" = "Sekretessskärm";
+/* The privacy screen is used when screen mirroring to prevent any personal details being displayed. The image will be scaled to fill a 16:9 ratio rectangle, and will crop excess. */
+"external_display_settings_privacy_footnote" = "Sekretessskärmen används vid skärmspegling för att förhindra att personlig information visas. Bilden skalas för att fylla en rektangel på 16: 9 och skära överskott.";
+/* Show Privacy Screen */
+"external_display_settings_privacy_screen_title" = "Visa sekretessskärm";
+/* Promotional Messages */
+"external_display_settings_messages_header" = "Kampanjmeddelanden";
+/* Add Message */
+"external_display_settings_add_message" = "Lägg till meddelande";
+/* Promotional messages are displayed in turn along the bottom of the timer. */
+"external_display_settings_messages_footer" = "Kampanjmeddelanden visas i tur och ordning längs timerns botten.";
+/* Message #%ld */
+"external_display_settings_message_placeholder" = "Meddelande # %ld";
+/* No access to Camera Roll */
+"photos_picker_unauthorised_title" = "Ingen åtkomst till kamerarulle";
+/* You can grant access to Seconds from the Settings app. */
+"photos_picker_unauthorised_message" = "Du kan ge åtkomst till Seconds från appen Inställningar.";
+/* Choose Image */
+"photos_picker_title" = "Välj bild";
+/* Download Seconds on the App Store - www.runloop.com/seconds-pro */
+"external_display_settings_promotional_message" = "Ladda ner Seconds i App Store - www.runloop.com/seconds-pro";
+/* By signing up with Runloop, you agree to the %1$@. View our %2$@. */
+"auth_register_terms" = "Genom att registrera dig med Runloop godkänner du %1$@ . Se våra %2$@ .";
+/* Privacy Policy */
+"auth_register_terms_policy_title" = "Integritetspolicy";
+/* Terms of Service */
+"auth_register_terms_terms_title" = "Användarvillkor";
+/* Data created with an anonymous account will only be available on this device. To access your data on a different or new device you will need to create a user account. */
+"auth_register_benefits" = "Data skapade med ett anonymt konto kommer endast att finnas tillgängliga på den här enheten. För att få åtkomst till dina data på en annan eller ny enhet måste du skapa ett användarkonto.";
+/* Register */
+"auth_register_title" = "Registrera";
+/* Or sign in to your account */
+"auth_register_login_button" = "Eller logga in på ditt konto";
+/* Email */
+"auth_email_placeholder" = "E-post";
+/* Password */
+"auth_password_placeholder" = "Lösenord";
+/* Show password */
+"auth_show_password" = "Visa lösenord";
+/* Sign up with account */
+"auth_register_signup_button" = "Registrera dig med konto";
+/* Continue as anonymous user */
+"auth_register_sign_in_anonymously" = "Fortsätt som anonym användare";
+/* A valid email is required. */
+"auth_error_invalid_email" = "Ett giltigt e-postmeddelande krävs.";
+/* Requires minimum of 6 chararcters. */
+"auth_error_password_too_short" = "Kräver minst 6 tecken.";
+/* Consider a stronger password. */
+"auth_warning_weak_password" = "Överväg ett starkare lösenord.";
+/* A stronger password is required. */
+"auth_error_weak_password" = "Ett starkare lösenord krävs.";
+/* A network error occurred. Please try again later. */
+"auth_error_network" = "Ett nätverksfel uppstod. Vänligen försök igen senare.";
+/* This email is already in use. */
+"auth_error_email_in_use" = "Denna e-post är redan i bruk.";
+/* An unexpected error occurred. Please contact support and describe the issue. */
+"common_error_unexpected" = "Ett oväntat fel uppstod. Kontakta supporten och beskriv problemet.";
+/* This user account has been disabled. Please contact support for more information. */
+"auth_error_user_disabled" = "Det här användarkontot har inaktiverats. Kontakta supporten för mer information.";
+/* The email or password you entered is incorrect. */
+"auth_error_invalid_credentials" = "E-postadressen eller lösenordet du skrev in är inte korrekt.";
+/* Sign In */
+"auth_login_title" = "Logga in";
+/* Or create a new account */
+"auth_login_register_button" = "Eller skapa ett nytt konto";
+/* Sign in */
+"auth_login_signin_button" = "Logga in";
+/* Send password reset email */
+"auth_login_password_reset" = "Skicka e-post för återställning av lösenord";
+/* Request Received */
+"auth_login_password_reset_confirm_title" = "Förfrågan mottagen";
+/* If the account exists, an email will be sent providing further instructions. */
+"auth_login_password_reset_confirm_message" = "Om kontot finns, kommer ett e-postmeddelande att skickas med ytterligare instruktioner.";
+/* Register a user account. */
+"user_details_register_account" = "Registrera ett användarkonto.";
+/* Verify Email Address */
+"user_details_verify_email" = "Verifiera e-postadressen";
+/* Account Status */
+"user_details_status" = "Konto Status";
+/* Verified */
+"user_details_status_verified" = "Verified";
+/* Unverified */
+"user_details_status_unverified" = "Unverified";
+/* Email Verification */
+"user_details_email_verification_alert_title" = "Mejl verifikation";
+/* An email verification link has been sent to %@. */
+"user_details_email_verification_alert_message" = "En e-interneringsläger har skickats till %@.";
+/* Update Email */
+"user_details_update_email" = "Uppdatera e-post";
+/* Update Password */
+"user_details_update_password" = "Uppdatera lösenord";
+/* Password */
+"user_details_update_password_placeholder" = "Lösenord";
+/* Current Password */
+"user_details_update_current_password_placeholder" = "Nuvarande lösenord";
+/* New Password */
+"user_details_update_new_password_placeholder" = "Nytt lösenord";
+/* New Email */
+"user_details_update_new_email_placeholder" = "Ny E-post";
+/* Update */
+"user_details_update_button" = "Uppdatering";
+/* Latest Backups */
+"user_details_backup_heading" = "Senaste säkerhetskopior";
