@@ -1218,12 +1218,113 @@
 "toolbar_item_share_device" = "Share";
 /* Relates to app icon shortcut options and URLs created to be used on the device. */
 "timer_settings_shortcuts_heading" = "Quick actions & URLs";
-
+/* External Display */
 "external_display_settings_title" = "External Display";
+/* Logo */
 "external_display_settings_logo_heading" = "Logo";
+/* A logo to be displayed on the timer screen when screen mirroring. The image will be scaled to fit within a 320px square, and will not cropped at all. */
 "external_display_settings_logo_footnote" = "A logo to be displayed on the timer screen when screen mirroring. The image will be scaled to fit within a 320px square, and will not cropped at all.";
-
+/* Privacy Screen */
 "external_display_settings_privacy_heading" = "Privacy Screen";
-
+/* The privacy screen is used when screen mirroring to prevent any personal details being displayed. The image will be scaled to fill a 16:9 ratio rectangle, and will crop excess. */
 "external_display_settings_privacy_footnote" = "The privacy screen is used when screen mirroring to prevent any personal details being displayed. The image will be scaled to fill a 16:9 ratio rectangle, and will crop excess.";
-"external_display_settings_privacy_screen_title" = "Disable Privacy Screen";
+/* Show Privacy Screen */
+"external_display_settings_privacy_screen_title" = "Show Privacy Screen";
+/* Promotional Messages */
+"external_display_settings_messages_header" = "Promotional Messages";
+/* Add Message */
+"external_display_settings_add_message" = "Add Message";
+/* Promotional messages are displayed in turn along the bottom of the timer. */
+"external_display_settings_messages_footer" = "Promotional messages are displayed in turn along the bottom of the timer.";
+/* Message #%ld */
+"external_display_settings_message_placeholder" = "Message #%ld";
+/* No access to Camera Roll */
+"photos_picker_unauthorised_title" = "No access to Camera Roll";
+/* You can grant access to Seconds from the Settings app. */
+"photos_picker_unauthorised_message" = "You can grant access to Seconds from the Settings app.";
+/* Choose Image */
+"photos_picker_title" = "Choose Image";
+/* Download Seconds on the App Store - www.runloop.com/seconds-pro */
+"external_display_settings_promotional_message" = "Download Seconds on the App Store - www.runloop.com/seconds-pro";
+/* By signing up with Runloop, you agree to the %1$@. View our %2$@. */
+"auth_register_terms" = "By signing up with Runloop, you agree to the %1$@. View our %2$@.";
+/* Privacy Policy */
+"auth_register_terms_policy_title" = "Privacy Policy";
+/* Terms of Service */
+"auth_register_terms_terms_title" = "Terms of Service";
+/* Data created with an anonymous account will only be available on this device. To access your data on a different or new device you will need to create a user account. */
+"auth_register_benefits" = "Data created with an anonymous account will only be available on this device. To access your data on a different or new device you will need to create a user account.";
+/* Register */
+"auth_register_title" = "Register";
+/* Or sign in to your account */
+"auth_register_login_button" = "Or sign in to your account";
+/* Email */
+"auth_email_placeholder" = "Email";
+/* Password */
+"auth_password_placeholder" = "Password";
+/* Show password */
+"auth_show_password" = "Show password";
+/* Sign up with account */
+"auth_register_signup_button" = "Sign up with account";
+/* Continue as anonymous user */
+"auth_register_sign_in_anonymously" = "Continue as anonymous user";
+/* A valid email is required. */
+"auth_error_invalid_email" = "A valid email is required.";
+/* Requires minimum of 6 chararcters. */
+"auth_error_password_too_short" = "Requires minimum of 6 characters.";
+/* Consider a stronger password. */
+"auth_warning_weak_password" = "Consider a stronger password.";
+/* A stronger password is required. */
+"auth_error_weak_password" = "A stronger password is required.";
+/* A network error occurred. Please try again later. */
+"auth_error_network" = "A network error occurred. Please try again later.";
+/* This email is already in use. */
+"auth_error_email_in_use" = "This email is already in use.";
+/* An unexpected error occurred. Please contact support and describe the issue. */
+"common_error_unexpected" = "An unexpected error occurred. Please contact support and describe the issue.";
+/* This user account has been disabled. Please contact support for more information. */
+"auth_error_user_disabled" = "This user account has been disabled. Please contact support for more information.";
+/* The email or password you entered is incorrect. */
+"auth_error_invalid_credentials" = "The email or password you entered is incorrect.";
+/* Sign In */
+"auth_login_title" = "Sign In";
+/* Or create a new account */
+"auth_login_register_button" = "Or create a new account";
+/* Sign in */
+"auth_login_signin_button" = "Sign in";
+/* Send password reset email */
+"auth_login_password_reset" = "Send password reset email";
+/* Request Received */
+"auth_login_password_reset_confirm_title" = "Request Received";
+/* If the account exists, an email will be sent providing further instructions. */
+"auth_login_password_reset_confirm_message" = "If the account exists, an email will be sent providing further instructions.";
+/* Register a user account. */
+"user_details_register_account" = "Register a user account.";
+/* Verify Email Address */
+"user_details_verify_email" = "Verify Email Address";
+/* Account Status */
+"user_details_status" = "Account Status";
+/* Verified */
+"user_details_status_verified" = "Verified";
+/* Unverified */
+"user_details_status_unverified" = "Unverified";
+/* Email Verification */
+"user_details_email_verification_alert_title" = "Email Verification";
+/* An email verification link has been sent to %@. */
+"user_details_email_verification_alert_message" = "An email verification link has been sent to %@.";
+/* Update Email */
+"user_details_update_email" = "Update Email";
+/* Update Password */
+"user_details_update_password" = "Update Password";
+/* Password */
+"user_details_update_password_placeholder" = "Password";
+/* Current Password */
+"user_details_update_current_password_placeholder" = "Current Password";
+/* New Password */
+"user_details_update_new_password_placeholder" = "New Password";
+/* New Email */
+"user_details_update_new_email_placeholder" = "New Email";
+/* Update */
+"user_details_update_button" = "Update";
+/* Latest Backups */
+"user_details_backup_heading" = "Latest Backups";
