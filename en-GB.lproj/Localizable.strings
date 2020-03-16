@@ -1334,3 +1334,5 @@
 "user_details_update_button" = "Update";
 /* Latest Backups */
 "user_details_backup_heading" = "Latest Backups";
+/* Install on Apple Watch */
+"common_editor_apple_watch" = "Install on Apple Watch";
