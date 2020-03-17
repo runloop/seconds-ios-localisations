@@ -1336,3 +1336,5 @@
 "user_details_backup_heading" = "Latest Backups";
 /* Install on Apple Watch */
 "common_editor_apple_watch" = "Install on Apple Watch";
+/* Enable the Install on Apple Watch option within your timers to add them here. */
+"watch_no_timers_message" = "Enable the Install on Apple Watch option within your timers to add them here.";
