@@ -170,6 +170,8 @@
 "soundscheme_beeps_title" = "Beeps";
 /* Default Beeps */
 "soundscheme_beeps_default" = "Default Beeps";
+/* Three Beep Countdown */
+"soundscheme_beeps_countdown_three" = "Three Beep Countdown";
 /* Single Beep, Short */
 "soundscheme_beeps_single_short" = "Single Beep, Short";
 /* Single Beep, Long */
@@ -188,6 +190,8 @@
 "soundscheme_tts_with_time" = "Text-to-Speech with Time";
 /* Text-to-Speech with Warning */
 "soundscheme_tts_with_warning" = "Text-to-Speech with Warning";
+/* Text-to-Speech with Next Interval */
+"soundscheme_tts_with_next_interval" = "Text-to-Speech with Next Interval";
 /* Meditation */
 "soundscheme_meditation_title" = "Meditation";
 /* Gong */
@@ -1338,3 +1342,9 @@
 "common_editor_apple_watch" = "Install on Apple Watch";
 /* Enable the Install on Apple Watch option within your timers to add them here. */
 "watch_no_timers_message" = "Enable the Install on Apple Watch option within your timers to add them here.";
+/* Countdown Beeps */
+"soundscheme_countdown_beeps_title" = "Countdown Beeps";
+/* Single Beeps */
+"soundscheme_single_beeps_title" = "Single Beeps";
+/* Preset #%lld */
+"color_preset" = "Preset #%lld";
