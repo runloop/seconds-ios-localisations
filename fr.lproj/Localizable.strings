@@ -1328,3 +1328,11 @@
 "user_details_update_button" = "Mise à jour";
 /* Latest Backups */
 "user_details_backup_heading" = "Dernières sauvegardes";
+/* Delete All iCloud Backups */
+"backup_delete_all_label" = "Supprimer toutes les sauvegardes iCloud";
+/* Deleting iCloud backups will only remove the timer backups stored in iCloud, it will not delete your the timers within the My Intervals section of the app. */
+"backups_delete_all_footer" = "La suppression des sauvegardes iCloud supprimera uniquement les sauvegardes programmées stockées dans iCloud, elle ne supprimera pas les données de votre application.";
+/* Are you sure you want to remove all iCloud Backups? This cannot be undone. */
+"backup_delete_all_message" = "Voulez-vous vraiment supprimer toutes les sauvegardes iCloud? Ça ne peut pas être annulé.";
+/* Delete All */
+"backup_delete_all_confirmation" = "Supprimer tout";
