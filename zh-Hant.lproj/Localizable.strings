@@ -1328,3 +1328,11 @@
 "user_details_update_button" = "更新資料";
 /* Latest Backups */
 "user_details_backup_heading" = "最新備份";
+/* Delete All iCloud Backups */
+"backup_delete_all_label" = "刪除所有iCloud備份";
+/* Deleting iCloud backups will only remove the timer backups stored in iCloud, it will not delete your the timers within the My Intervals section of the app. */
+"backups_delete_all_footer" = "刪除iCloud備份只會刪除存儲在iCloud中的計時器備份，而不會刪除您的應用程序數據。";
+/* Are you sure you want to remove all iCloud Backups? This cannot be undone. */
+"backup_delete_all_message" = "您確定要刪除所有iCloud備份嗎？這不能被撤消。";
+/* Delete All */
+"backup_delete_all_confirmation" = "刪除所有";

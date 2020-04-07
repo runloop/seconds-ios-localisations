@@ -1332,3 +1332,11 @@
 "common_editor_apple_watch" = "Install on Apple Watch";
 /* Enable the Install on Apple Watch option within your timers to add them here. */
 "watch_no_timers_message" = "Enable the Install on Apple Watch option within your timers to add them here.";
+/* Delete All iCloud Backups */
+"backup_delete_all_label" = "Delete All iCloud Backups";
+/* Deleting iCloud backups will only remove the timer backups stored in iCloud, it will not delete your the timers within the My Intervals section of the app. */
+"backups_delete_all_footer" = "Deleting iCloud backups will only remove the timer backups stored in iCloud, it will not delete your app data.";
+/* Are you sure you want to remove all iCloud Backups? This cannot be undone. */
+"backup_delete_all_message" = "Are you sure you want to remove all iCloud Backups? This cannot be undone.";
+/* Delete All */
+"backup_delete_all_confirmation" = "Delete All";
