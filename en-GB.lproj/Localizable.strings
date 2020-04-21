@@ -1368,3 +1368,4 @@
 "edit_control_paste_above" = "Paste Above";
 /* Paste Below */
 "edit_control_paste_below" = "Paste Below";
+"toolbar_item_reorder" = "Reorder";
