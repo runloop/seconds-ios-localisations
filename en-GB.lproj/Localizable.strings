@@ -1364,3 +1364,7 @@
 "backup_delete_all_message" = "Are you sure you want to remove all iCloud Backups? This cannot be undone.";
 /* Delete All */
 "backup_delete_all_confirmation" = "Delete All";
+/* Paste Above */
+"edit_control_paste_above" = "Paste Above";
+/* Paste Below */
+"edit_control_paste_below" = "Paste Below";
