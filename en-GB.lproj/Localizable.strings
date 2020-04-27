@@ -1370,3 +1370,5 @@
 "edit_control_paste_below" = "Paste Below";
 /* Reorder */
 "toolbar_item_reorder" = "Reorder";
+/* Duration: %@ */
+"common_editor_duration_title" = "Duration: %@";
