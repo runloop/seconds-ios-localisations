@@ -1372,3 +1372,11 @@
 "toolbar_item_reorder" = "Reorder";
 /* Duration: %@ */
 "common_editor_duration_title" = "Duration: %@";
+/* Randomise Exercises */
+"common_editor_randomization_label" = "Randomise Exercises";
+/* Not random */
+"common_editor_randomization_none" = "Not random";
+/* At start */
+"common_editor_randomization_once" = "At start";
+/* Each set */
+"common_editor_randomization_each_set" = "Each set";
