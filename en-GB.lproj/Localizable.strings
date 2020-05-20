@@ -1380,3 +1380,9 @@
 "common_editor_randomization_once" = "At start";
 /* Each set */
 "common_editor_randomization_each_set" = "Each set";
+/* Duplication Failed */
+"timer_list_duplication_failed_title" = "Duplication Failed";
+/* You exceeded the maximum number duplicate items. */
+"timer_list_duplication_failed_message_general" = "You exceeded the maximum number duplicate items.";
+/* Invalid authentication. */
+"timer_list_duplication_failed_message_invalid_auth" = "Invalid authentication.";
