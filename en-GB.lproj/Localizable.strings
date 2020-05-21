@@ -1394,3 +1394,5 @@
 "user_details_deleted_items" = "Deleted Timers";
 /* Just now */
 "common_short_time_period" = "Just now";
+/* Move Here */
+"folder_picker_move_label" = "Move Here";
