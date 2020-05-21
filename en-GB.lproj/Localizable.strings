@@ -1386,3 +1386,11 @@
 "timer_list_duplication_failed_message_general" = "You exceeded the maximum number duplicate items.";
 /* Invalid authentication. */
 "timer_list_duplication_failed_message_invalid_auth" = "Invalid authentication.";
+/* Restore */
+"restore_items_title" = "Restore";
+/* Restore */
+"restore_items_restore_button" = "Restore";
+/* Deleted Timers */
+"user_details_deleted_items" = "Deleted Timers";
+/* Just now */
+"common_short_time_period" = "Just now";
