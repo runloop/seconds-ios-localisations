@@ -1396,3 +1396,6 @@
 "common_short_time_period" = "Just now";
 /* Move Here */
 "folder_picker_move_label" = "Move Here";
+/* Export Failed */
+"timer_list_export_failed_title" = "Export Failed";
+"import_folder_picker_move_label" = "Import Here";
