@@ -1398,4 +1398,5 @@
 "folder_picker_move_label" = "Move Here";
 /* Export Failed */
 "timer_list_export_failed_title" = "Export Failed";
+/* Import Here */
 "import_folder_picker_move_label" = "Import Here";
