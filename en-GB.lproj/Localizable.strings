@@ -1392,6 +1392,8 @@
 "restore_items_restore_button" = "Restore";
 /* Deleted Timers */
 "user_details_deleted_items" = "Deleted Timers";
+/* Deleted */
+"deleted_items_title" = "Deleted";
 /* Just now */
 "common_time_period_short" = "Just now";
 /* Today */
@@ -1408,3 +1410,21 @@
 "import_folder_picker_move_label" = "Import Here";
 /* Publishing... */
 "timer_list_publishing_label" = "Publishing...";
+/* Published */
+"published_items_title" = "Published";
+/* Are you sure you want to delete this published timer? */
+"published_items_delete_title" = "Are you sure you want to delete this published timer?";
+/* Anyone that uses the timer on the website will no longer have access. Users that imported the timer to their app will still be able to use it. */
+"published_items_delete_message" = "Anyone that uses the timer on the website will no longer have access. Users that imported the timer to their app will still be able to use it.";
+/* Delete Permanently */
+"published_items_delete_label" = "Delete Permanently";
+/* Cancel */
+"actionsheet_cancel_label" = "Cancel";
+/* Published Timers */
+"user_details_published_items" = "Published Timers";
+/* Publishing Timers */
+"timer_list_publish_confirmation_title" = "Publishing Timers";
+/* This timer will be saved on our website. Anyone may import the timer into their app, and web version will be available for people to use in a browser. You may remove a published timer in your account settings. */
+"timer_list_publish_confirmation_message" = "This timer will be saved on our website. Anyone may import the timer into their app, and web version will be available for people to use in a browser. You may remove a published timer in your account settings.";
+/* I Understand */
+"timer_list_publish_confirmation_label" = "I Understand";
