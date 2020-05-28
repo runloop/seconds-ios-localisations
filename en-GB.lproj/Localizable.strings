@@ -1393,7 +1393,13 @@
 /* Deleted Timers */
 "user_details_deleted_items" = "Deleted Timers";
 /* Just now */
-"common_short_time_period" = "Just now";
+"common_time_period_short" = "Just now";
+/* Today */
+"common_time_period_today" = "Today";
+/* Yesterday */
+"common_time_period_yesterday" = "Yesterday";
+/* Over a year ago */
+"common_time_period_over_year" = "Over a year ago";
 /* Move Here */
 "folder_picker_move_label" = "Move Here";
 /* Export Failed */
