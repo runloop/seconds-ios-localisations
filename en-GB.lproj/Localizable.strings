@@ -94,9 +94,9 @@
 "common_editor_no_music" = "No Audio Selected";
 /* Playlist: %@ */
 "common_editor_playlist" = "Playlist: %@";
-/* Song: %1$@ - %2$@ */
+/* Song: [title] - [artist] */
 "common_editor_song" = "Song: %1$@ - %2$@";
-/* Album: %1$@ - %2$@ */
+/* Album: %@ - %@ */
 "common_editor_album" = "Album: %1$@ - %2$@";
 /* Genre: %@ */
 "common_editor_genre" = "Genre: %@";
@@ -110,9 +110,9 @@
 "common_editor_interval_rest_label" = "Rest Between Intervals";
 /* Rest Between Sets */
 "common_editor_set_rest_label" = "Rest Between Sets";
-/* Warm Up */
+/* Warmup */
 "common_editor_warmup_label" = "Warm Up";
-/* Cool Down */
+/* Cooldown */
 "common_editor_cooldown_label" = "Cool Down";
 /* HIIT Timer */
 "hiit_editor_title" = "HIIT Timer";
@@ -122,7 +122,7 @@
 "hiit_editor_high_intensity_label" = "High Intensity";
 /* Low Intensity */
 "hiit_editor_low_intensity_label" = "Low Intensity";
-/* Warm Up */
+/* Warmup */
 "hiit_editor_warmup_label" = "Warm Up";
 /* Cool Down */
 "hiit_editor_cooldown_label" = "Cool Down";
@@ -170,8 +170,6 @@
 "soundscheme_beeps_title" = "Beeps";
 /* Default Beeps */
 "soundscheme_beeps_default" = "Default Beeps";
-/* Three Beep Countdown */
-"soundscheme_beeps_countdown_three" = "Three Beep Countdown";
 /* Single Beep, Short */
 "soundscheme_beeps_single_short" = "Single Beep, Short";
 /* Single Beep, Long */
@@ -190,8 +188,6 @@
 "soundscheme_tts_with_time" = "Text-to-Speech with Time";
 /* Text-to-Speech with Warning */
 "soundscheme_tts_with_warning" = "Text-to-Speech with Warning";
-/* Text-to-Speech with Next Interval */
-"soundscheme_tts_with_next_interval" = "Text-to-Speech with Next Interval";
 /* Meditation */
 "soundscheme_meditation_title" = "Meditation";
 /* Gong */
@@ -236,9 +232,9 @@
 "color_magenta" = "Magenta";
 /* Violet */
 "color_violet" = "Violet";
-/* Value must be at least %li */
+/* Value must be at least %d */
 "validator_integer_too_small" = "Value must be at least %li";
-/* Value must be at most %li */
+/* Value must be at most %d */
 "validator_integer_too_large" = "Value must be at most %li";
 /* String required */
 "validator_string_required" = "String required";
@@ -402,9 +398,9 @@
 "external_music_option_play" = "External audio";
 /* Timer audio */
 "external_music_option_stop" = "Timer audio";
-/* %1$@, %2$@, and %3$@ */
+/* %@, %@, and %@ */
 "speech_formatted_time_three_components" = "%1$@, %2$@, and %3$@";
-/* %1$@ and %2$@ */
+/* %@ and %@ */
 "speech_formatted_time_two_components" = "%1$@ and %2$@";
 /* {current_name} for {current_duration} */
 "speech_alert_with_time" = "{current_name} for {current_duration}";
@@ -530,7 +526,7 @@
 "interval_name_right" = "%@ (Right)";
 /* Duplicate */
 "popover_menu_duplicate" = "Duplicate";
-/* %1$@ for %2$@ */
+/* %@ for %@ */
 "notification_interval_with_duration" = "%1$@ for %2$@";
 /* Your timer is complete. */
 "notification_timer_complete" = "Your timer is complete.";
@@ -664,7 +660,7 @@
 "personal_details_birthyear_label" = "Year of Birth";
 /* Invalid Year of Birth */
 "personal_details_birthyear_invalid_title" = "Invalid Year of Birth";
-/* Please enter a birth year from %1$li up to or including %2$li */
+/* Please enter a birth year from %d up to or including %d */
 "personal_details_birthyear_invalid_message" = "Please enter a birth year from %1$li up to or including %2$li";
 /* Weight */
 "personal_details_weight_label" = "Weight";
@@ -696,7 +692,7 @@
 "speech_alert_prewarn_end_with_name" = "{current_timer_name} completed in";
 /* That's halfway */
 "speech_alert_halfway" = "That's halfway";
-/* Halfway - {current_remaining_time} to go. */
+/* Halfway, {current_remaining_time} to go. */
 "speech_alert_halfway_with_time" = "Halfway - {current_remaining_time} to go.";
 /* Optional */
 "common_optional_placeholder" = "Optional";
@@ -716,7 +712,7 @@
 "circuit_editor_randomise_exercises_label" = "Randomise Order";
 /* Apple Health */
 "settings_health_header" = "Apple Health";
-/* Save Workout Data */
+/* Share Data */
 "settings_share_health_data" = "Save Workout Data";
 /* Other */
 "personal_details_sex_other" = "Other";
@@ -924,7 +920,7 @@
 "list_quick_timer_button" = "Quick Timer";
 /* Summary */
 "summary_title" = "Summary";
-/* %li%% Complete */
+/* %d%% Complete */
 "summary_percent_complete" = "%li%% Complete";
 /* Total Time */
 "summary_total_timer_title" = "Total Time";
@@ -932,11 +928,11 @@
 "summary_active_calories_title" = "Active Calories";
 /* Total Calories */
 "summary_total_calories_title" = "Total Calories";
-/* %lical */
+/* %dcal */
 "summary_calories_value" = "%lical";
 /* Avg Heart Rate */
 "summary_average_heart_rate_title" = "Avg Heart Rate";
-/* %libpm */
+/* %dbpm */
 "summary_average_heart_rate_value" = "%libpm";
 /* Discard */
 "summary_discard_button" = "Discard";
@@ -958,7 +954,7 @@
 "list_info_message_paid" = "Your saved timers will appear here after making changes in the iOS app.";
 /* Quick Timer */
 "quick_timer_name" = "Quick Timer";
-/* Exercise %li */
+/* Exercise %d */
 "quick_timer_exercise" = "Exercise %li";
 /* %@ (Left) */
 "timer_exercise_name_left" = "%@ (Left)";
@@ -1048,7 +1044,7 @@
 "upsell_title" = "Upgrade to Pro";
 /* Upgrade now - %@ */
 "timer_list_upgrade_button_title" = "Upgrade now - %@";
-/* Upgrade to remove all restrictions and delays. Previous purchases can be restored in %1$@ > %2$@. */
+/* Upgrade to remove all restrictions and delays. Previous purchases can be restored in %@ > %@. */
 "timer_list_upgrade_footnote" = "Upgrade to remove all restrictions and delays. Previous purchases can be restored in %1$@ > %2$@.";
 /* As a non-paying user you may only use the timers you create one time. Please upgrade to remove this restriction. */
 "upsell_message_upgrade" = "As a non-paying user you may only use the timers you create one time. Please upgrade to remove this restriction.";
@@ -1072,7 +1068,7 @@
 "welcome_continue_button" = "Accept & Continue";
 /* Runloop has updated its privacy policy. */
 "privacy_update_heading" = "Runloop has updated its privacy policy.";
-/* Runloop collects Usage Data to improve the app, and shares Aggregated Data with providers. To learn more please read our %1$@ and %2$@ before continuing. */
+/* Runloop collects Usage Data to improve the app, and shares Aggregated Data with providers. To learn more please read our %@ and %@ before continuing. */
 "privacy_disclaimer" = "Runloop collects Usage Data to improve the app, and shares Aggregated Data with providers. To learn more please read our %1$@ and %2$@ before continuing.";
 /* privacy policy */
 "privacy_disclaimer_policy_title" = "privacy policy";
@@ -1106,19 +1102,13 @@
 "notification_enable_button" = "Enable Notifications";
 /* Continue without notifications */
 "notification_skip_button" = "Continue without notifications";
-/* Exercise %li */
+/* Exercise [%i] */
 "circuit_editor_new_exercise_name" = "Exercise %li";
-/* Reduce Audio Volume */
 "interval_editor_reduced_volume" = "Reduce Audio Volume";
-/* Privacy */
 "settings_privacy_title" = "Privacy";
-/* Enable Analytics */
 "settings_privacy_analytics_title" = "Enable Analytics";
-/* Runloop monitors active installs, screen views and other interface events to improve the quality and performance of the app. User content and Health data are never sent to our servers. */
 "settings_privacy_analytics_description" = "Runloop monitors active installs, screen views and other interface events to improve the quality and performance of the app. User content and Health data are never sent to our servers.";
-/* Enable Crash Reports */
 "settings_privacy_crash_title" = "Enable Crash Reports";
-/* Runloop collects crash reports to help diagnose fatal errors and improve the quality, performance & user experience of the app. */
 "settings_privacy_crash_description" = "Runloop collects crash reports to help diagnose fatal errors and improve the quality, performance & user experience of the app.";
 /* Reset */
 "countdown_timer_reset" = "Reset";
@@ -1128,7 +1118,7 @@
 "countdown_notification_message" = "Your countdown is complete";
 /* My Intervals */
 "intervals_tabbar_title" = "My Intervals";
-/* Preset %li */
+/* Preset %d */
 "countdown_preset_title" = "Preset %li";
 /* Countdown Presets */
 "timer_settings_countdown_presets" = "Countdown Presets";
@@ -1218,15 +1208,15 @@
 "interval_name_first_half_label" = "First Half";
 /* Second Half */
 "interval_name_second_half_label" = "Second Half";
-/* Version 3 Colours (Light Theme) */
+/* Version 3 (Light) Colours */
 "color_settings_previous_version_3_light" = "Version 3 Colours (Light Theme)";
-/* Version 3 Colours (Dark Theme) */
+/* Version 3 (Dark) Colours */
 "color_settings_previous_version_3_dark" = "Version 3 Colours (Dark Theme)";
-/* Share */
+/* For creating a URL for sharing with other users. */
 "toolbar_item_share_online" = "Share";
-/* Share */
+/* For sharing a URL created for use on the device. */
 "toolbar_item_share_device" = "Share";
-/* Quick actions & URLs */
+/* Relates to app icon shortcut options and URLs created to be used on the device. */
 "timer_settings_shortcuts_heading" = "Quick actions & URLs";
 /* External Display */
 "external_display_settings_title" = "External Display";
@@ -1280,7 +1270,7 @@
 "auth_register_sign_in_anonymously" = "Continue as anonymous user";
 /* A valid email is required. */
 "auth_error_invalid_email" = "A valid email is required.";
-/* Requires minimum of 6 characters. */
+/* Requires minimum of 6 chararcters. */
 "auth_error_password_too_short" = "Requires minimum of 6 characters.";
 /* Consider a stronger password. */
 "auth_warning_weak_password" = "Consider a stronger password.";
@@ -1338,6 +1328,18 @@
 "user_details_update_button" = "Update";
 /* Latest Backups */
 "user_details_backup_heading" = "Latest Backups";
+/* Delete All iCloud Backups */
+"backup_delete_all_label" = "Delete All iCloud Backups";
+/* Deleting iCloud backups will only remove the timer backups stored in iCloud, it will not delete your the timers within the My Intervals section of the app. */
+"backups_delete_all_footer" = "Deleting iCloud backups will only remove the timer backups stored in iCloud, it will not delete your app data.";
+/* Are you sure you want to remove all iCloud Backups? This cannot be undone. */
+"backup_delete_all_message" = "Are you sure you want to remove all iCloud Backups? This cannot be undone.";
+/* Delete All */
+"backup_delete_all_confirmation" = "Delete All";
+/* Three Beep Countdown */
+"soundscheme_beeps_countdown_three" = "Three Beep Countdown";
+/* Text-to-Speech with Next Interval */
+"soundscheme_tts_with_next_interval" = "Text-to-Speech with Next Interval";
 /* Install on Apple Watch */
 "common_editor_apple_watch" = "Install on Apple Watch";
 /* Enable the Install on Apple Watch option within your timers to add them here. */
@@ -1356,14 +1358,6 @@
 "audio_editor_untitled" = "Untitled";
 /* Unknown */
 "audio_editor_unknown" = "Unknown";
-/* Delete All iCloud Backups */
-"backup_delete_all_label" = "Delete All iCloud Backups";
-/* Deleting iCloud backups will only remove the timer backups stored in iCloud, it will not delete your app data. */
-"backups_delete_all_footer" = "Deleting iCloud backups will only remove the timer backups stored in iCloud, it will not delete your app data.";
-/* Are you sure you want to remove all iCloud Backups? This cannot be undone. */
-"backup_delete_all_message" = "Are you sure you want to remove all iCloud Backups? This cannot be undone.";
-/* Delete All */
-"backup_delete_all_confirmation" = "Delete All";
 /* Paste Above */
 "edit_control_paste_above" = "Paste Above";
 /* Paste Below */
