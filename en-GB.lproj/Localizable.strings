@@ -1380,3 +1380,9 @@
 "common_editor_randomization_once" = "At start";
 /* Each set */
 "common_editor_randomization_each_set" = "Each set";
+/* This folder could no longer be found after the latest sync. Please navigate back to a valid folder. */
+"watch_list_sync_error" = "This folder could no longer be found after the latest sync. Please navigate back to a valid folder.";
+/* Sync Folder */
+"watch_list_sync_folder" = "Sync Folder";
+/* Back */
+"watch_list_back" = "Back";
