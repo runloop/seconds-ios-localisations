@@ -1336,3 +1336,9 @@
 "backup_delete_all_message" = "Tem certeza de que deseja remover todos os backups do iCloud? Isto não pode ser desfeito.";
 /* Delete All */
 "backup_delete_all_confirmation" = "Excluir tudo";
+/* This folder could no longer be found after the latest sync. Please navigate back to a valid folder. */
+"watch_list_sync_error" = "Esta pasta não pôde mais ser encontrada após a última sincronização. Navegue de volta para uma pasta válida.";
+/* Sync Folder */
+"watch_list_sync_folder" = "Sincronizar pasta";
+/* Back */
+"watch_list_back" = "Costas";

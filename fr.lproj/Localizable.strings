@@ -1336,3 +1336,9 @@
 "backup_delete_all_message" = "Voulez-vous vraiment supprimer toutes les sauvegardes iCloud? Ça ne peut pas être annulé.";
 /* Delete All */
 "backup_delete_all_confirmation" = "Supprimer tout";
+/* This folder could no longer be found after the latest sync. Please navigate back to a valid folder. */
+"watch_list_sync_error" = "Ce dossier n'a plus pu être trouvé après la dernière synchronisation. Veuillez revenir à un dossier valide.";
+/* Sync Folder */
+"watch_list_sync_folder" = "Dossier de synchronisation";
+/* Back */
+"watch_list_back" = "Retour";

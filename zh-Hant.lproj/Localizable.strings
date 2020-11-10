@@ -1336,3 +1336,9 @@
 "backup_delete_all_message" = "您確定要刪除所有iCloud備份嗎？這不能被撤消。";
 /* Delete All */
 "backup_delete_all_confirmation" = "刪除所有";
+/* This folder could no longer be found after the latest sync. Please navigate back to a valid folder. */
+"watch_list_sync_error" = "最新同步後，找不到該文件夾。請導航回有效文件夾。";
+/* Sync Folder */
+"watch_list_sync_folder" = "同步資料夾";
+/* Back */
+"watch_list_back" = "背部";
