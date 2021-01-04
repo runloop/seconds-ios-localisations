@@ -1355,7 +1355,7 @@
 /* Single Beeps */
 "soundscheme_single_beeps_title" = "Single Beeps";
 /* Preset #%lld */
-"color_preset" = "Preset #%lld";
+"color_preset" = "Preset #%lld (%@)";
 /* Select Audio */
 "audio_editor_select_audio" = "Select Audio";
 /* Change Audio Selection */
