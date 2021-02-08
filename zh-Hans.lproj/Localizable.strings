@@ -1342,3 +1342,9 @@
 "watch_list_sync_folder" = "同步资料夹";
 /* Back */
 "watch_list_back" = "背部";
+/* Custom Messages */
+"sound_settings_custom_messages_header" = "自定义消息";
+/* Halfway */
+"sound_settings_halfway_message_label" = "半";
+/* Complete */
+"sound_settings_complete_message_label" = "完成";

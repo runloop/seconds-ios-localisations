@@ -1342,3 +1342,9 @@
 "watch_list_sync_folder" = "Carpeta de sincronización";
 /* Back */
 "watch_list_back" = "Regresa";
+/* Custom Messages */
+"sound_settings_custom_messages_header" = "Mensajes personalizados";
+/* Halfway */
+"sound_settings_halfway_message_label" = "Medio camino";
+/* Complete */
+"sound_settings_complete_message_label" = "Completar";

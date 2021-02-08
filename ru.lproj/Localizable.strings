@@ -1342,3 +1342,9 @@
 "watch_list_sync_folder" = "Папка синхронизации";
 /* Back */
 "watch_list_back" = "Назад";
+/* Custom Messages */
+"sound_settings_custom_messages_header" = "Пользовательские сообщения";
+/* Halfway */
+"sound_settings_halfway_message_label" = "Наполовину";
+/* Complete */
+"sound_settings_complete_message_label" = "Завершить";

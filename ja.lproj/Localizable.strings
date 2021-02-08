@@ -1342,3 +1342,9 @@
 "watch_list_sync_folder" = "同期フォルダー";
 /* Back */
 "watch_list_back" = "バック";
+/* Custom Messages */
+"sound_settings_custom_messages_header" = "カスタムメッセージ";
+/* Halfway */
+"sound_settings_halfway_message_label" = "途中";
+/* Complete */
+"sound_settings_complete_message_label" = "コンプリート";

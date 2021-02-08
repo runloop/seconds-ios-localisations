@@ -1342,3 +1342,9 @@
 "watch_list_sync_folder" = "Sincronizar pasta";
 /* Back */
 "watch_list_back" = "Costas";
+/* Custom Messages */
+"sound_settings_custom_messages_header" = "Mensagens Personalizadas";
+/* Halfway */
+"sound_settings_halfway_message_label" = "A meio caminho";
+/* Complete */
+"sound_settings_complete_message_label" = "Completo";
