@@ -1354,8 +1354,8 @@
 "soundscheme_countdown_beeps_title" = "Countdown Beeps";
 /* Single Beeps */
 "soundscheme_single_beeps_title" = "Single Beeps";
-/* Preset #%lld */
-"color_preset" = "Preset #%lld";
+/* Preset #%lld (%@) */
+"color_preset" = "Preset #%lld (%@)";
 /* Select Audio */
 "audio_editor_select_audio" = "Select Audio";
 /* Change Audio Selection */
@@ -1434,3 +1434,9 @@
 "watch_list_sync_folder" = "Sync Folder";
 /* Back */
 "watch_list_back" = "Back";
+/* Custom Messages */
+"sound_settings_custom_messages_header" = "Custom Messages";
+/* Halfway */
+"sound_settings_halfway_message_label" = "Halfway";
+/* Complete */
+"sound_settings_complete_message_label" = "Complete";

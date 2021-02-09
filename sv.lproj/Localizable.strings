@@ -1342,3 +1342,9 @@
 "watch_list_sync_folder" = "Synkronisera mapp";
 /* Back */
 "watch_list_back" = "Tillbaka";
+/* Custom Messages */
+"sound_settings_custom_messages_header" = "Anpassade meddelanden";
+/* Halfway */
+"sound_settings_halfway_message_label" = "Halvvägs";
+/* Complete */
+"sound_settings_complete_message_label" = "Komplett";
