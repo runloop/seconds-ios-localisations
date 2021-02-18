@@ -1440,7 +1440,7 @@
 "sound_settings_halfway_message_label" = "Halfway";
 /* Complete */
 "sound_settings_complete_message_label" = "Complete";
-/* Verified */
+/* Email Verified */
 "user_details_email_verified" = "Email Verified";
-/* Unverified */
+/* Email Unverified */
 "user_details_email_unverified" = "Email Unverified";
