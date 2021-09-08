@@ -1444,3 +1444,7 @@
 "user_details_email_verified" = "Email Verified";
 /* Email Unverified */
 "user_details_email_unverified" = "Email Unverified";
+/* Please try again. If the error continues, contact Support explaining what you were trying to do and describing the issue you are experiencing in detail. */
+"alert_error_generic_message" = "Please try again. If the error continues, contact Support explaining what you were trying to do and describing the issue you are experiencing in detail.";
+/* Please explain what you were trying to do below: */
+"alert_error_description_message" = "Please explain, in detail, what you were trying when the error occurred:";
