@@ -1448,3 +1448,13 @@
 "alert_error_generic_message" = "Please try again. If the error continues, contact Support explaining what you were trying to do and describing the issue you are experiencing in detail.";
 /* Please explain, in detail, what you were trying when the error occurred: */
 "alert_error_description_message" = "Please explain, in detail, what you were trying when the error occurred:";
+/* Empty */
+"restore_empty_trash_nav_button" = "Empty";
+/* Do you want to continue? */
+"common_confirmation_continue_title" = "Do you want to continue?";
+/* Emptying the trash will permanently delete these items. There is no undo. */
+"restore_empty_trash_confirmation_message" = "Emptying the trash will permanently delete these items. There is no undo.";
+/* Empty Trash */
+"restore_empty_trash_confirmation_button" = "Empty Trash";
+/* Restore Here */
+"folder_picker_restore_label" = "Restore Here";
