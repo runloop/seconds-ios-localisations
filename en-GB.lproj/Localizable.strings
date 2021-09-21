@@ -1458,3 +1458,23 @@
 "restore_empty_trash_confirmation_button" = "Empty Trash";
 /* Restore Here */
 "folder_picker_restore_label" = "Restore Here";
+/* Teal */
+"color_teal" = "Teal";
+/* Neutral */
+"color_neutral" = "Neutral";
+/* Preset Palettes */
+"color_palettes_header" = "Preset Palettes";
+/* Latest (2021) */
+"color_palettes_v4_title" = "Latest (2021)";
+/* Version 3 Dark Content (2017) */
+"color_palettes_v3_dark_title" = "Version 3 Dark Content (2017)";
+/* Version 3 Light Content (2017) */
+"color_palettes_v3_light_title" = "Version 3 Light Content (2017)";
+/* Version 2 (2015) */
+"color_palettes_v2_title" = "Version 2 (2015)";
+/* Original (2010) */
+"color_palettes_v1_title" = "Original (2010)";
+/* Custom Palette */
+"color_palettes_custom_title" = "Custom Palette";
+/* Colour Overrides */
+"color_palettes_overrides_header" = "Colour Overrides";
