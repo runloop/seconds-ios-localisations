@@ -1478,3 +1478,11 @@
 "color_palettes_custom_title" = "Custom Palette";
 /* Colour Overrides */
 "color_palettes_overrides_header" = "Colour Overrides";
+/* Diagnostics */
+"watch_diagnostics_header" = "Diagnostics";
+/* Paired */
+"watch_paired" = "Paired";
+/* Watch App Installed */
+"watch_app_installed" = "Watch App Installed";
+/* Complication Enabled */
+"watch_complication_enabled" = "Complication Enabled";
