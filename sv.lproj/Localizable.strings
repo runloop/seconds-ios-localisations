@@ -1354,8 +1354,6 @@
 "soundscheme_countdown_beeps_title" = "Nedräkningspip";
 /* Single Beeps */
 "soundscheme_single_beeps_title" = "Enstaka pip";
-/* Preset #%lld (%@) */
-"color_preset" = "color_preset";
 /* Select Audio */
 "audio_editor_select_audio" = "Välj Ljud";
 /* Change Audio Selection */

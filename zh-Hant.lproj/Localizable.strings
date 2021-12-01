@@ -1354,8 +1354,6 @@
 "soundscheme_countdown_beeps_title" = "倒計時提示音";
 /* Single Beeps */
 "soundscheme_single_beeps_title" = "單聲蜂鳴";
-/* Preset #%lld (%@) */
-"color_preset" = "color_preset";
 /* Select Audio */
 "audio_editor_select_audio" = "選擇音頻";
 /* Change Audio Selection */

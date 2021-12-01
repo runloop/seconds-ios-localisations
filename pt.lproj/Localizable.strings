@@ -1354,8 +1354,6 @@
 "soundscheme_countdown_beeps_title" = "Bipes de contagem regressiva";
 /* Single Beeps */
 "soundscheme_single_beeps_title" = "Bipes simples";
-/* Preset #%lld (%@) */
-"color_preset" = "color_preset";
 /* Select Audio */
 "audio_editor_select_audio" = "Selecione Áudio";
 /* Change Audio Selection */

@@ -1354,8 +1354,6 @@
 "soundscheme_countdown_beeps_title" = "Сигналы обратного отсчета";
 /* Single Beeps */
 "soundscheme_single_beeps_title" = "Одиночные звуковые сигналы";
-/* Preset #%lld (%@) */
-"color_preset" = "color_preset";
 /* Select Audio */
 "audio_editor_select_audio" = "Выбрать аудио";
 /* Change Audio Selection */
