@@ -94,9 +94,9 @@
 "common_editor_no_music" = "Аудио не выбрано";
 /* Playlist: %@ */
 "common_editor_playlist" = "Плейлист: %@";
-/* Song: [title] - [artist] */
+/* Song: %1$@ - %2$@ */
 "common_editor_song" = "Песня: %1$@ – %2$@";
-/* Album: %@ - %@ */
+/* Album: %1$@ - %2$@ */
 "common_editor_album" = "Альбом: %1$@ – %2$@";
 /* Genre: %@ */
 "common_editor_genre" = "Жанр: %@";
@@ -110,9 +110,9 @@
 "common_editor_interval_rest_label" = "Отдых между интервалами";
 /* Rest Between Sets */
 "common_editor_set_rest_label" = "Отдых между сетами";
-/* Warmup */
+/* Warm Up */
 "common_editor_warmup_label" = "Разминка";
-/* Cooldown */
+/* Cool Down */
 "common_editor_cooldown_label" = "Заминка";
 /* HIIT Timer */
 "hiit_editor_title" = "Таймер ВИТ";
@@ -122,7 +122,7 @@
 "hiit_editor_high_intensity_label" = "Высокая интенсивность";
 /* Low Intensity */
 "hiit_editor_low_intensity_label" = "Низкая интенсивность";
-/* Warmup */
+/* Warm Up */
 "hiit_editor_warmup_label" = "Разминка";
 /* Cool Down */
 "hiit_editor_cooldown_label" = "Заминка";
@@ -232,9 +232,9 @@
 "color_magenta" = "Розовый";
 /* Violet */
 "color_violet" = "Фиолетовый";
-/* Value must be at least %d */
+/* Value must be at least %li */
 "validator_integer_too_small" = "Минимальное значение – %li";
-/* Value must be at most %d */
+/* Value must be at most %li */
 "validator_integer_too_large" = "Максимальное значение – %li";
 /* String required */
 "validator_string_required" = "Требуется строка";
@@ -398,9 +398,9 @@
 "external_music_option_play" = "Внешнее аудио";
 /* Timer audio */
 "external_music_option_stop" = "Аудио таймера";
-/* %@, %@, and %@ */
+/* %1$@, %2$@, and %3$@ */
 "speech_formatted_time_three_components" = "%1$@, %2$@ и %3$@";
-/* %@ and %@ */
+/* %1$@ and %2$@ */
 "speech_formatted_time_two_components" = "%1$@ и %2$@";
 /* {current_name} for {current_duration} */
 "speech_alert_with_time" = "{current_name} на {current_duration}";
@@ -526,7 +526,7 @@
 "interval_name_right" = "%@ (прав.)";
 /* Duplicate */
 "popover_menu_duplicate" = "Скопировать";
-/* %@ for %@ */
+/* %1$@ for %2$@ */
 "notification_interval_with_duration" = "%1$@ на %2$@";
 /* Your timer is complete. */
 "notification_timer_complete" = "Таймер остановлен.";
@@ -660,7 +660,7 @@
 "personal_details_birthyear_label" = "Год рождения";
 /* Invalid Year of Birth */
 "personal_details_birthyear_invalid_title" = "Год рождения неверен";
-/* Please enter a birth year from %d up to or including %d */
+/* Please enter a birth year from %1$li up to or including %2$li */
 "personal_details_birthyear_invalid_message" = "Пожалуйста, введите год рождения от %1$li до %2$li включительно";
 /* Weight */
 "personal_details_weight_label" = "Масса тела";
@@ -692,7 +692,7 @@
 "speech_alert_prewarn_end_with_name" = "{current_timer_name} завершен за";
 /* That's halfway */
 "speech_alert_halfway" = "Половина";
-/* Halfway, {current_remaining_time} to go. */
+/* Halfway - {current_remaining_time} to go. */
 "speech_alert_halfway_with_time" = "Половина, осталось еще {current_remaining_time}";
 /* Optional */
 "common_optional_placeholder" = "Опционально";
@@ -712,7 +712,7 @@
 "circuit_editor_randomise_exercises_label" = "Порядок случайного распределения";
 /* Apple Health */
 "settings_health_header" = "Apple Health";
-/* Share Data */
+/* Save Workout Data */
 "settings_share_health_data" = "Сохранить данные тренировки";
 /* Other */
 "personal_details_sex_other" = "Другое";
@@ -920,7 +920,7 @@
 "list_quick_timer_button" = "Быстрый таймер";
 /* Summary */
 "summary_title" = "Итог";
-/* %d%% Complete */
+/* %li%% Complete */
 "summary_percent_complete" = "%li%% завершено";
 /* Total Time */
 "summary_total_timer_title" = "Общее время";
@@ -928,11 +928,11 @@
 "summary_active_calories_title" = "Активные калории";
 /* Total Calories */
 "summary_total_calories_title" = "Всего калорий";
-/* %dcal */
+/* %lical */
 "summary_calories_value" = "%li кал.";
 /* Avg Heart Rate */
 "summary_average_heart_rate_title" = "Сред. серд. ритм";
-/* %dbpm */
+/* %libpm */
 "summary_average_heart_rate_value" = "%li уд./мин.";
 /* Discard */
 "summary_discard_button" = "Сброс";
@@ -954,7 +954,7 @@
 "list_info_message_paid" = "Ваши сохраненные таймеры появятся здесь после изменений в iOS-приложении.";
 /* Quick Timer */
 "quick_timer_name" = "Быстрый таймер";
-/* Exercise %d */
+/* Exercise %li */
 "quick_timer_exercise" = "Упражнение %li";
 /* %@ (Left) */
 "timer_exercise_name_left" = "%@ (лев.)";
@@ -1044,7 +1044,7 @@
 "upsell_title" = "Обновление до Pro";
 /* Upgrade now - %@ */
 "timer_list_upgrade_button_title" = "Обновить сейчас - %@";
-/* Upgrade to remove all restrictions and delays. Previous purchases can be restored in %@ > %@. */
+/* Upgrade to remove all restrictions and delays. Previous purchases can be restored in %1$@ > %2$@. */
 "timer_list_upgrade_footnote" = "Обновите, чтобы удалить все ограничения и задержки. Предыдущие покупки можно восстановить в %1$@ > %2$@.";
 /* As a non-paying user you may only use the timers you create one time. Please upgrade to remove this restriction. */
 "upsell_message_upgrade" = "В качестве неоплачиваемого пользователя вы можете использовать только таймеры, которые вы создаете один раз. Обновите, чтобы удалить это ограничение.";
@@ -1068,7 +1068,7 @@
 "welcome_continue_button" = "Принять и продолжить";
 /* Runloop has updated its privacy policy. */
 "privacy_update_heading" = "Runloop обновила свою политику конфиденциальности.";
-/* Runloop collects Usage Data to improve the app, and shares Aggregated Data with providers. To learn more please read our %@ and %@ before continuing. */
+/* Runloop collects Usage Data to improve the app, and shares Aggregated Data with providers. To learn more please read our %1$@ and %2$@ before continuing. */
 "privacy_disclaimer" = "Runloop собирает данные об использовании для улучшения приложения и обменивается агрегированными данными с поставщиками. Чтобы узнать больше, прочитайте наши %1$@ и %2$@ прежде чем продолжить.";
 /* privacy policy */
 "privacy_disclaimer_policy_title" = "политика конфиденциальности";
@@ -1102,13 +1102,19 @@
 "notification_enable_button" = "Включить уведомления";
 /* Continue without notifications */
 "notification_skip_button" = "Продолжить без уведомлений";
-/* Exercise [%i] */
+/* Exercise %li */
 "circuit_editor_new_exercise_name" = "Упражнение %li";
+/* Reduce Audio Volume */
 "interval_editor_reduced_volume" = "Уменьшить громкость звука";
+/* Privacy */
 "settings_privacy_title" = "Конфиденциальность";
+/* Enable Analytics */
 "settings_privacy_analytics_title" = "Включить аналитику";
+/* Runloop monitors active installs, screen views and other interface events to improve the quality and performance of the app. User content and Health data are never sent to our servers. */
 "settings_privacy_analytics_description" = "Runloop отслеживает активные установки, просмотры экрана и другие события интерфейса для улучшения качества и производительности приложения. Пользовательский контент и данные о здоровье никогда не отправляются на наши серверы.";
+/* Enable Crash Reports */
 "settings_privacy_crash_title" = "Включить отчеты о сбоях";
+/* Runloop collects crash reports to help diagnose fatal errors and improve the quality, performance & user experience of the app. */
 "settings_privacy_crash_description" = "Runloop собирает отчеты о сбоях, чтобы помочь диагностировать фатальные ошибки и улучшить качество, производительность и удобство работы приложения.";
 /* Reset */
 "countdown_timer_reset" = "Сброс";
@@ -1118,7 +1124,7 @@
 "countdown_notification_message" = "Ваш обратный отсчет завершен";
 /* My Intervals */
 "intervals_tabbar_title" = "Интервалы";
-/* Preset %d */
+/* Preset %li */
 "countdown_preset_title" = "Предустановка %li";
 /* Countdown Presets */
 "timer_settings_countdown_presets" = "Пресеты обратного отсчета";
@@ -1208,15 +1214,15 @@
 "interval_name_first_half_label" = "Первая половина";
 /* Second Half */
 "interval_name_second_half_label" = "Вторая половина";
-/* Version 3 (Light) Colours */
+/* Version 3 Colours (Light Theme) */
 "color_settings_previous_version_3_light" = "Версия 3 Цвета (Light Theme)";
-/* Version 3 (Dark) Colours */
+/* Version 3 Colours (Dark Theme) */
 "color_settings_previous_version_3_dark" = "Версия 3 Цвета (Темная Тема)";
-/* For creating a URL for sharing with other users. */
+/* Share */
 "toolbar_item_share_online" = "Поделиться";
-/* For sharing a URL created for use on the device. */
+/* Share */
 "toolbar_item_share_device" = "Поделиться";
-/* Relates to app icon shortcut options and URLs created to be used on the device. */
+/* Quick actions & URLs */
 "timer_settings_shortcuts_heading" = "Быстрые действия и URL";
 /* External Display */
 "external_display_settings_title" = "Внешний дисплей";
@@ -1270,7 +1276,7 @@
 "auth_register_sign_in_anonymously" = "Продолжить как анонимный пользователь";
 /* A valid email is required. */
 "auth_error_invalid_email" = "Требуется действительный адрес электронной почты.";
-/* Requires minimum of 6 chararcters. */
+/* Requires minimum of 6 characters. */
 "auth_error_password_too_short" = "Требуется минимум 6 символов.";
 /* Consider a stronger password. */
 "auth_warning_weak_password" = "Рассмотрим более надежный пароль.";
@@ -1330,12 +1336,98 @@
 "user_details_backup_heading" = "Последние резервные копии";
 /* Delete All iCloud Backups */
 "backup_delete_all_label" = "Удалить все резервные копии iCloud";
-/* Deleting iCloud backups will only remove the timer backups stored in iCloud, it will not delete your the timers within the My Intervals section of the app. */
+/* Deleting iCloud backups will only remove the timer backups stored in iCloud, it will not delete your app data. */
 "backups_delete_all_footer" = "Удаление резервных копий iCloud удалит только те резервные копии таймера, которые хранятся в iCloud, но не удалит данные вашего приложения.";
 /* Are you sure you want to remove all iCloud Backups? This cannot be undone. */
 "backup_delete_all_message" = "Вы уверены, что хотите удалить все резервные копии iCloud? Это не может быть отменено.";
 /* Delete All */
 "backup_delete_all_confirmation" = "Удалить все";
+/* Three Beep Countdown */
+"soundscheme_beeps_countdown_three" = "Обратный отсчет до трех звуковых сигналов";
+/* Text-to-Speech with Next Interval */
+"soundscheme_tts_with_next_interval" = "Преобразование текста в речь со следующим интервалом";
+/* Install on Apple Watch */
+"common_editor_apple_watch" = "Установить на Apple Watch";
+/* Enable the Install on Apple Watch option within your timers to add them here. */
+"watch_no_timers_message" = "Включите опцию «Установить на Apple Watch» в своих таймерах, чтобы добавить их сюда.";
+/* Countdown Beeps */
+"soundscheme_countdown_beeps_title" = "Сигналы обратного отсчета";
+/* Single Beeps */
+"soundscheme_single_beeps_title" = "Одиночные звуковые сигналы";
+/* Preset #%lld (%@) */
+"color_preset" = "color_preset";
+/* Select Audio */
+"audio_editor_select_audio" = "Выбрать аудио";
+/* Change Audio Selection */
+"audio_editor_reselect_audio" = "Изменить выбор аудио";
+/* Untitled */
+"audio_editor_untitled" = "Без названия";
+/* Unknown */
+"audio_editor_unknown" = "Неизвестный";
+/* Paste Above */
+"edit_control_paste_above" = "Вставить выше";
+/* Paste Below */
+"edit_control_paste_below" = "Вставить ниже";
+/* Reorder */
+"toolbar_item_reorder" = "Изменение порядка";
+/* Duration: %@ */
+"common_editor_duration_title" = "Продолжительность: %@";
+/* Randomise Exercises */
+"common_editor_randomization_label" = "Упражнения в случайном порядке";
+/* Not random */
+"common_editor_randomization_none" = "Не случайно";
+/* At start */
+"common_editor_randomization_once" = "В начале";
+/* Each set */
+"common_editor_randomization_each_set" = "Каждый комплект";
+/* Duplication Failed */
+"timer_list_duplication_failed_title" = "Дублирование не удалось";
+/* You exceeded the maximum number duplicate items. */
+"timer_list_duplication_failed_message_general" = "Вы превысили максимальное количество повторяющихся элементов.";
+/* Invalid authentication. */
+"timer_list_duplication_failed_message_invalid_auth" = "Неверная аутентификация.";
+/* Restore */
+"restore_items_title" = "Восстановить";
+/* Restore */
+"restore_items_restore_button" = "Восстановить";
+/* Deleted Timers */
+"user_details_deleted_items" = "Удаленные таймеры";
+/* Deleted */
+"deleted_items_title" = "Удалено";
+/* Just now */
+"common_time_period_short" = "Прямо сейчас";
+/* Today */
+"common_time_period_today" = "Сегодня";
+/* Yesterday */
+"common_time_period_yesterday" = "Вчера";
+/* Over a year ago */
+"common_time_period_over_year" = "Более года назад";
+/* Move Here */
+"folder_picker_move_label" = "Двигайтесь сюда";
+/* Export Failed */
+"timer_list_export_failed_title" = "Ошибка экспорта";
+/* Import Here */
+"import_folder_picker_move_label" = "Импортировать сюда";
+/* Publishing... */
+"timer_list_publishing_label" = "Издательский...";
+/* Published */
+"published_items_title" = "Опубликовано";
+/* Are you sure you want to delete this published timer? */
+"published_items_delete_title" = "Вы действительно хотите удалить опубликованный таймер?";
+/* Anyone that uses the timer on the website will no longer have access. Users that imported the timer to their app will still be able to use it. */
+"published_items_delete_message" = "Любой, кто использует таймер на веб-сайте, больше не будет иметь доступа. Пользователи, импортировавшие таймер в свое приложение, по-прежнему смогут его использовать.";
+/* Delete Permanently */
+"published_items_delete_label" = "Удалить навсегда";
+/* Cancel */
+"actionsheet_cancel_label" = "Отмена";
+/* Published Timers */
+"user_details_published_items" = "Опубликованные таймеры";
+/* Publishing Timers */
+"timer_list_publish_confirmation_title" = "Публикация таймеров";
+/* This timer will be saved on our website. Anyone may import the timer into their app, and web version will be available for people to use in a browser. You may remove a published timer in your account settings. */
+"timer_list_publish_confirmation_message" = "Этот таймер будет сохранен на нашем сайте. Кто угодно может импортировать таймер в свое приложение, и веб-версия будет доступна для использования в браузере. Вы можете удалить опубликованный таймер в настройках своей учетной записи.";
+/* I Understand */
+"timer_list_publish_confirmation_label" = "Я понимаю";
 /* This folder could no longer be found after the latest sync. Please navigate back to a valid folder. */
 "watch_list_sync_error" = "Эта папка больше не может быть найдена после последней синхронизации. Пожалуйста, вернитесь к действующей папке.";
 /* Sync Folder */
@@ -1348,3 +1440,49 @@
 "sound_settings_halfway_message_label" = "Наполовину";
 /* Complete */
 "sound_settings_complete_message_label" = "Завершить";
+/* Email Verified */
+"user_details_email_verified" = "Электронная почта подтверждена";
+/* Email Unverified */
+"user_details_email_unverified" = "Электронная почта неподтвержденная";
+/* Please try again. If the error continues, contact Support explaining what you were trying to do and describing the issue you are experiencing in detail. */
+"alert_error_generic_message" = "Пожалуйста, попробуйте еще раз. Если ошибка не исчезнет, обратитесь в службу поддержки, объяснив, что вы пытались сделать, и подробно опишите проблему, с которой вы столкнулись.";
+/* Please explain, in detail, what you were trying when the error occurred: */
+"alert_error_description_message" = "Пожалуйста, подробно объясните, что вы пытались сделать, когда произошла ошибка:";
+/* Empty */
+"restore_empty_trash_nav_button" = "Пустой";
+/* Do you want to continue? */
+"common_confirmation_continue_title" = "Вы хотите продолжить?";
+/* Emptying the trash will permanently delete these items. There is no undo. */
+"restore_empty_trash_confirmation_message" = "Очистка корзины приведет к безвозвратному удалению этих элементов. Нет отмены.";
+/* Empty Trash */
+"restore_empty_trash_confirmation_button" = "Очистить корзину";
+/* Restore Here */
+"folder_picker_restore_label" = "Восстановить здесь";
+/* Teal */
+"color_teal" = "Бирюзовый";
+/* Neutral */
+"color_neutral" = "Нейтральный";
+/* Preset Palettes */
+"color_palettes_header" = "Предустановленные палитры";
+/* Latest (2021) */
+"color_palettes_v4_title" = "Последние (2021)";
+/* Version 3 Dark Content (2017) */
+"color_palettes_v3_dark_title" = "Версия 3 Dark Content (2017)";
+/* Version 3 Light Content (2017) */
+"color_palettes_v3_light_title" = "Версия 3 Light Content (2017)";
+/* Version 2 (2015) */
+"color_palettes_v2_title" = "Версия 2 (2015 г.)";
+/* Original (2010) */
+"color_palettes_v1_title" = "Оригинал (2010)";
+/* Custom Palette */
+"color_palettes_custom_title" = "Пользовательская палитра";
+/* Colour Overrides */
+"color_palettes_overrides_header" = "Цветовые переопределения";
+/* Diagnostics */
+"watch_diagnostics_header" = "Диагностика";
+/* Paired */
+"watch_paired" = "Парный";
+/* Watch App Installed */
+"watch_app_installed" = "Приложение для часов установлено";
+/* Complication Enabled */
+"watch_complication_enabled" = "Осложнение включено";

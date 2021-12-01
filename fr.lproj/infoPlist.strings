@@ -2,7 +2,7 @@
 "NSHealthShareUsageDescription" = "Ces détails remplaceront les données de 'Détails personnels' qui sont utilisées pour calculer la quantité de calories brulées pendant les exercices.";
 /* Seconds will add workouts to Apple Health. */
 "NSHealthUpdateUsageDescription" = "Seconds ajoutera des exercices à Apple Health";
-/* Seconds connects to Bluetooth heartrate sensors to read heart rate data. */
+/* Seconds connects to Bluetooth heart rate sensors to read heart rate data. */
 "NSBluetoothPeripheralUsageDescription" = "Seconds se connecte aux capteurs de pouls pour lire les données du rythme cardiaque.";
 /* Seconds connects to your music library allowing your to assign music to your intervals. */
 "NSAppleMusicUsageDescription" = "Seconds se connecte à votre bibliothèque musicale, ce qui vous permet d'assigner de la musique à vos intervalles.";

@@ -94,9 +94,9 @@
 "common_editor_no_music" = "Kein Audio ausgewählt";
 /* Playlist: %@ */
 "common_editor_playlist" = "Wiedergabeliste: %@";
-/* Song: [title] - [artist] */
+/* Song: %1$@ - %2$@ */
 "common_editor_song" = "Song: %1$@ - %2$@";
-/* Album: %@ - %@ */
+/* Album: %1$@ - %2$@ */
 "common_editor_album" = "Album: %1$@ - %2$@";
 /* Genre: %@ */
 "common_editor_genre" = "Genre: %@";
@@ -110,9 +110,9 @@
 "common_editor_interval_rest_label" = "Ruhe zwischen Intervallen";
 /* Rest Between Sets */
 "common_editor_set_rest_label" = "Ruhe zwischen Durchgängen";
-/* Warmup */
+/* Warm Up */
 "common_editor_warmup_label" = "Aufwärmen";
-/* Cooldown */
+/* Cool Down */
 "common_editor_cooldown_label" = "Cool Down";
 /* HIIT Timer */
 "hiit_editor_title" = "HIIT-Timer";
@@ -122,7 +122,7 @@
 "hiit_editor_high_intensity_label" = "Hohe Intensität";
 /* Low Intensity */
 "hiit_editor_low_intensity_label" = "Niedrige Intensität";
-/* Warmup */
+/* Warm Up */
 "hiit_editor_warmup_label" = "Aufwärmen";
 /* Cool Down */
 "hiit_editor_cooldown_label" = "Cool Down";
@@ -232,9 +232,9 @@
 "color_magenta" = "Magenta";
 /* Violet */
 "color_violet" = "Violett";
-/* Value must be at least %d */
+/* Value must be at least %li */
 "validator_integer_too_small" = "Wert muss zumindest %li sein";
-/* Value must be at most %d */
+/* Value must be at most %li */
 "validator_integer_too_large" = "Wert darf maximal %li sein";
 /* String required */
 "validator_string_required" = "String erforderlich";
@@ -398,9 +398,9 @@
 "external_music_option_play" = "Externes Audio";
 /* Timer audio */
 "external_music_option_stop" = "Timeraudio";
-/* %@, %@, and %@ */
+/* %1$@, %2$@, and %3$@ */
 "speech_formatted_time_three_components" = "%1$@, %2$@, und %3$@";
-/* %@ and %@ */
+/* %1$@ and %2$@ */
 "speech_formatted_time_two_components" = "%1$@ und %2$@";
 /* {current_name} for {current_duration} */
 "speech_alert_with_time" = "{current_name} für {current_duration}";
@@ -526,7 +526,7 @@
 "interval_name_right" = "%@ (Rechts)";
 /* Duplicate */
 "popover_menu_duplicate" = "Duplizieren";
-/* %@ for %@ */
+/* %1$@ for %2$@ */
 "notification_interval_with_duration" = "%1$@ für %2$@";
 /* Your timer is complete. */
 "notification_timer_complete" = "Ihr Timer wurde beendet.";
@@ -660,7 +660,7 @@
 "personal_details_birthyear_label" = "Geburtsjahr";
 /* Invalid Year of Birth */
 "personal_details_birthyear_invalid_title" = "Ungültiges Geburtsjahr";
-/* Please enter a birth year from %d up to or including %d */
+/* Please enter a birth year from %1$li up to or including %2$li */
 "personal_details_birthyear_invalid_message" = "Bitte geben Sie ein Geburtsjahr von %1$li, bis zu oder einschließlich %2$li";
 /* Weight */
 "personal_details_weight_label" = "Gewicht";
@@ -692,7 +692,7 @@
 "speech_alert_prewarn_end_with_name" = "{current_timer_name} abgeschlossen in";
 /* That's halfway */
 "speech_alert_halfway" = "Halbzeit";
-/* Halfway, {current_remaining_time} to go. */
+/* Halfway - {current_remaining_time} to go. */
 "speech_alert_halfway_with_time" = "Halbzeit, nur noch {current_remaining_time}";
 /* Optional */
 "common_optional_placeholder" = "Optional";
@@ -712,7 +712,7 @@
 "circuit_editor_randomise_exercises_label" = "Zufällige Reihenfolge";
 /* Apple Health */
 "settings_health_header" = "Apple Health";
-/* Share Data */
+/* Save Workout Data */
 "settings_share_health_data" = "Speichern von Trainingsdaten";
 /* Other */
 "personal_details_sex_other" = "Sonstiges";
@@ -920,7 +920,7 @@
 "list_quick_timer_button" = "Quick-Timer";
 /* Summary */
 "summary_title" = "Zusammenf.";
-/* %d%% Complete */
+/* %li%% Complete */
 "summary_percent_complete" = "%li%% vollständig";
 /* Total Time */
 "summary_total_timer_title" = "Gesamtzeit";
@@ -928,11 +928,11 @@
 "summary_active_calories_title" = "Aktive Kalorien";
 /* Total Calories */
 "summary_total_calories_title" = "Gesamtkalorien";
-/* %dcal */
+/* %lical */
 "summary_calories_value" = "%lical";
 /* Avg Heart Rate */
 "summary_average_heart_rate_title" = "Durchschn. Herzfrequ.";
-/* %dbpm */
+/* %libpm */
 "summary_average_heart_rate_value" = "%libpm";
 /* Discard */
 "summary_discard_button" = "Löschen";
@@ -954,7 +954,7 @@
 "list_info_message_paid" = "Ihre gespeicherten Timer erscheinen hier, nachdem Sie die iOS App aktualisiert haben.";
 /* Quick Timer */
 "quick_timer_name" = "Quick-Timer";
-/* Exercise %d */
+/* Exercise %li */
 "quick_timer_exercise" = "Übung %li";
 /* %@ (Left) */
 "timer_exercise_name_left" = "%@ (Links)";
@@ -1044,7 +1044,7 @@
 "upsell_title" = "Upgrade auf Pro";
 /* Upgrade now - %@ */
 "timer_list_upgrade_button_title" = "Jetzt aktualisieren - %@";
-/* Upgrade to remove all restrictions and delays. Previous purchases can be restored in %@ > %@. */
+/* Upgrade to remove all restrictions and delays. Previous purchases can be restored in %1$@ > %2$@. */
 "timer_list_upgrade_footnote" = "Aktualisieren Sie, um alle Einschränkungen und Verzögerungen zu entfernen. Vorherige Einkäufe können unter %1$@ > %2$@ wiederhergestellt werden.";
 /* As a non-paying user you may only use the timers you create one time. Please upgrade to remove this restriction. */
 "upsell_message_upgrade" = "Als nicht zahlender Benutzer dürfen Sie nur die von Ihnen erstellten Timer verwenden. Bitte aktualisieren Sie, um diese Einschränkung zu entfernen.";
@@ -1068,7 +1068,7 @@
 "welcome_continue_button" = "Akzeptieren und fortfahren";
 /* Runloop has updated its privacy policy. */
 "privacy_update_heading" = "Runloop hat seine Datenschutzrichtlinie aktualisiert.";
-/* Runloop collects Usage Data to improve the app, and shares Aggregated Data with providers. To learn more please read our %@ and %@ before continuing. */
+/* Runloop collects Usage Data to improve the app, and shares Aggregated Data with providers. To learn more please read our %1$@ and %2$@ before continuing. */
 "privacy_disclaimer" = "Runloop sammelt Nutzungsdaten, um die App zu verbessern, und teilt aggregierte Daten mit Providern zusammen. Um mehr zu erfahren, lesen Sie bitte unsere %1$@ und %2$@ bevor Sie fortfahren.";
 /* privacy policy */
 "privacy_disclaimer_policy_title" = "Datenschutz-Bestimmungen";
@@ -1102,13 +1102,19 @@
 "notification_enable_button" = "Benachrichtigungen aktivieren";
 /* Continue without notifications */
 "notification_skip_button" = "Ohne Benachrichtigungen fortfahren";
-/* Exercise [%i] */
+/* Exercise %li */
 "circuit_editor_new_exercise_name" = "Übung %li";
+/* Reduce Audio Volume */
 "interval_editor_reduced_volume" = "Reduzieren Sie die Lautstärke";
+/* Privacy */
 "settings_privacy_title" = "Privatsphäre";
+/* Enable Analytics */
 "settings_privacy_analytics_title" = "Aktivieren Sie Analytics";
+/* Runloop monitors active installs, screen views and other interface events to improve the quality and performance of the app. User content and Health data are never sent to our servers. */
 "settings_privacy_analytics_description" = "Runloop überwacht aktive Installationen, Bildschirmansichten und andere Schnittstellenereignisse, um die Qualität und Leistung der App zu verbessern. Benutzerinhalte und Integritätsdaten werden niemals an unsere Server gesendet.";
+/* Enable Crash Reports */
 "settings_privacy_crash_title" = "Aktivieren Sie Absturzberichte";
+/* Runloop collects crash reports to help diagnose fatal errors and improve the quality, performance & user experience of the app. */
 "settings_privacy_crash_description" = "Runloop erfasst Absturzberichte, um schwerwiegende Fehler zu diagnostizieren und die Qualität, Leistung und Benutzererfahrung der App zu verbessern.";
 /* Reset */
 "countdown_timer_reset" = "Zurücksetzen";
@@ -1118,7 +1124,7 @@
 "countdown_notification_message" = "Ihr Countdown ist abgeschlossen";
 /* My Intervals */
 "intervals_tabbar_title" = "Intervalle";
-/* Preset %d */
+/* Preset %li */
 "countdown_preset_title" = "Voreinstellung %li";
 /* Countdown Presets */
 "timer_settings_countdown_presets" = "Countdown-Voreinstellungen";
@@ -1208,15 +1214,15 @@
 "interval_name_first_half_label" = "Erste Hälfte";
 /* Second Half */
 "interval_name_second_half_label" = "Zweite Hälfte";
-/* Version 3 (Light) Colours */
+/* Version 3 Colours (Light Theme) */
 "color_settings_previous_version_3_light" = "Version 3 Farben (Light Theme)";
-/* Version 3 (Dark) Colours */
+/* Version 3 Colours (Dark Theme) */
 "color_settings_previous_version_3_dark" = "Version 3 Farben (Dark Theme)";
-/* For creating a URL for sharing with other users. */
+/* Share */
 "toolbar_item_share_online" = "Teilen";
-/* For sharing a URL created for use on the device. */
+/* Share */
 "toolbar_item_share_device" = "Teilen";
-/* Relates to app icon shortcut options and URLs created to be used on the device. */
+/* Quick actions & URLs */
 "timer_settings_shortcuts_heading" = "Schnelle Aktionen und URLs";
 /* External Display */
 "external_display_settings_title" = "Externe Anzeige";
@@ -1241,19 +1247,19 @@
 /* No access to Camera Roll */
 "photos_picker_unauthorised_title" = "Kein Zugriff auf die Kamerarolle";
 /* You can grant access to Seconds from the Settings app. */
-"photos_picker_unauthorised_message" = "Sie können über die App \"Einstellungen\" Zugriff auf Seconds gewähren.";
+"photos_picker_unauthorised_message" = "Sie können den Zugriff auf Seconds über die Einstellungen-App gewähren.";
 /* Choose Image */
-"photos_picker_title" = "Wählen Sie Bild";
+"photos_picker_title" = "Bild auswählen";
 /* Download Seconds on the App Store - www.runloop.com/seconds-pro */
 "external_display_settings_promotional_message" = "Laden Sie Seconds im App Store herunter - www.runloop.com/seconds-pro";
 /* By signing up with Runloop, you agree to the %1$@. View our %2$@. */
-"auth_register_terms" = "Wenn Sie sich bei Runloop anmelden, stimmen Sie den %1$@ . Sehen Sie sich unsere %2$@ .";
+"auth_register_terms" = "Durch die Anmeldung bei Runloop stimmst du dem %1$@ zu. Sehen Sie sich unsere %2$@ an.";
 /* Privacy Policy */
 "auth_register_terms_policy_title" = "Datenschutz-Bestimmungen";
 /* Terms of Service */
 "auth_register_terms_terms_title" = "Nutzungsbedingungen";
 /* Data created with an anonymous account will only be available on this device. To access your data on a different or new device you will need to create a user account. */
-"auth_register_benefits" = "Daten, die mit einem anonymen Konto erstellt wurden, sind nur auf diesem Gerät verfügbar. Um auf Ihre Daten auf einem anderen oder neuen Gerät zugreifen zu können, müssen Sie ein Benutzerkonto erstellen.";
+"auth_register_benefits" = "Daten, die mit einem anonymen Konto erstellt wurden, sind nur auf diesem Gerät verfügbar. Um auf Ihre Daten auf einem anderen oder neuen Gerät zuzugreifen, müssen Sie ein Benutzerkonto erstellen.";
 /* Register */
 "auth_register_title" = "Registrieren";
 /* Or sign in to your account */
@@ -1267,25 +1273,25 @@
 /* Sign up with account */
 "auth_register_signup_button" = "Mit Konto anmelden";
 /* Continue as anonymous user */
-"auth_register_sign_in_anonymously" = "Fahren Sie als anonymer Benutzer fort";
+"auth_register_sign_in_anonymously" = "Als anonymer Benutzer fortfahren";
 /* A valid email is required. */
 "auth_error_invalid_email" = "Eine gültige E-Mail ist erforderlich.";
-/* Requires minimum of 6 chararcters. */
-"auth_error_password_too_short" = "Benötigt mindestens 6 Zeichen.";
+/* Requires minimum of 6 characters. */
+"auth_error_password_too_short" = "Erfordert mindestens 6 Zeichen.";
 /* Consider a stronger password. */
-"auth_warning_weak_password" = "Betrachten Sie ein stärkeres Passwort.";
+"auth_warning_weak_password" = "Ziehen Sie ein stärkeres Passwort in Betracht.";
 /* A stronger password is required. */
 "auth_error_weak_password" = "Ein stärkeres Passwort ist erforderlich.";
 /* A network error occurred. Please try again later. */
-"auth_error_network" = "Ein Netzwerkfehler ist aufgetreten. Bitte versuchen Sie es später noch einmal.";
+"auth_error_network" = "Ein Netzwerkfehler ist aufgetreten. Bitte versuchen Sie es später erneut.";
 /* This email is already in use. */
 "auth_error_email_in_use" = "Diese E-Mail-Adresse wird schon verwendet.";
 /* An unexpected error occurred. Please contact support and describe the issue. */
-"common_error_unexpected" = "Ein unerwarteter Fehler ist aufgetreten. Bitte wenden Sie sich an den Support und beschreiben Sie das Problem.";
+"common_error_unexpected" = "Ein unerwarteter Fehler ist aufgetreten. Bitte kontaktieren Sie den Support und beschreiben Sie das Problem.";
 /* This user account has been disabled. Please contact support for more information. */
 "auth_error_user_disabled" = "Dieses Benutzerkonto wurde deaktiviert. Bitte kontaktieren Sie den Support für weitere Informationen.";
 /* The email or password you entered is incorrect. */
-"auth_error_invalid_credentials" = "Die von Ihnen eingegebene E-Mail-Adresse oder das eingegebene Passwort ist falsch.";
+"auth_error_invalid_credentials" = "Die eingegebene E-Mail-Adresse oder das eingegebene Passwort ist falsch.";
 /* Sign In */
 "auth_login_title" = "Einloggen";
 /* Or create a new account */
@@ -1307,7 +1313,7 @@
 /* Verified */
 "user_details_status_verified" = "Verifiziert";
 /* Unverified */
-"user_details_status_unverified" = "Nicht überprüft";
+"user_details_status_unverified" = "Nicht bestätigt";
 /* Email Verification */
 "user_details_email_verification_alert_title" = "E-Mail-Verifizierung";
 /* An email verification link has been sent to %@. */
@@ -1319,25 +1325,111 @@
 /* Password */
 "user_details_update_password_placeholder" = "Passwort";
 /* Current Password */
-"user_details_update_current_password_placeholder" = "Jetziges Passwort";
+"user_details_update_current_password_placeholder" = "Aktuelles Passwort";
 /* New Password */
 "user_details_update_new_password_placeholder" = "Neues Kennwort";
 /* New Email */
-"user_details_update_new_email_placeholder" = "Neue Email";
+"user_details_update_new_email_placeholder" = "Neue e-mail";
 /* Update */
 "user_details_update_button" = "Aktualisieren";
 /* Latest Backups */
 "user_details_backup_heading" = "Neueste Backups";
 /* Delete All iCloud Backups */
-"backup_delete_all_label" = "Löschen Sie alle iCloud-Backups";
-/* Deleting iCloud backups will only remove the timer backups stored in iCloud, it will not delete your the timers within the My Intervals section of the app. */
-"backups_delete_all_footer" = "Durch das Löschen von iCloud-Sicherungen werden nur die in iCloud gespeicherten Timer-Sicherungen entfernt und Ihre App-Daten nicht gelöscht.";
+"backup_delete_all_label" = "Alle iCloud-Backups löschen";
+/* Deleting iCloud backups will only remove the timer backups stored in iCloud, it will not delete your app data. */
+"backups_delete_all_footer" = "Durch das Löschen von iCloud-Backups werden nur die in iCloud gespeicherten Timer-Backups entfernt, Ihre App-Daten werden nicht gelöscht.";
 /* Are you sure you want to remove all iCloud Backups? This cannot be undone. */
 "backup_delete_all_message" = "Möchten Sie wirklich alle iCloud-Backups entfernen? Das kann nicht rückgängig gemacht werden.";
 /* Delete All */
 "backup_delete_all_confirmation" = "Alles löschen";
+/* Three Beep Countdown */
+"soundscheme_beeps_countdown_three" = "Countdown mit drei Signaltönen";
+/* Text-to-Speech with Next Interval */
+"soundscheme_tts_with_next_interval" = "Text-to-Speech mit nächstem Intervall";
+/* Install on Apple Watch */
+"common_editor_apple_watch" = "Auf Apple Watch installieren";
+/* Enable the Install on Apple Watch option within your timers to add them here. */
+"watch_no_timers_message" = "Aktivieren Sie die Option Auf Apple Watch installieren in Ihren Timern, um sie hier hinzuzufügen.";
+/* Countdown Beeps */
+"soundscheme_countdown_beeps_title" = "Countdown-Pieptöne";
+/* Single Beeps */
+"soundscheme_single_beeps_title" = "Einzelne Signaltöne";
+/* Preset #%lld (%@) */
+"color_preset" = "color_preset";
+/* Select Audio */
+"audio_editor_select_audio" = "Audio auswählen";
+/* Change Audio Selection */
+"audio_editor_reselect_audio" = "Audioauswahl ändern";
+/* Untitled */
+"audio_editor_untitled" = "Ohne Titel";
+/* Unknown */
+"audio_editor_unknown" = "Unbekannt";
+/* Paste Above */
+"edit_control_paste_above" = "Oben einfügen";
+/* Paste Below */
+"edit_control_paste_below" = "Unten einfügen";
+/* Reorder */
+"toolbar_item_reorder" = "Nachbestellen";
+/* Duration: %@ */
+"common_editor_duration_title" = "Dauer: %@";
+/* Randomise Exercises */
+"common_editor_randomization_label" = "Zufällige Übungen";
+/* Not random */
+"common_editor_randomization_none" = "Nicht zufällig";
+/* At start */
+"common_editor_randomization_once" = "Am Anfang";
+/* Each set */
+"common_editor_randomization_each_set" = "Jedes Set";
+/* Duplication Failed */
+"timer_list_duplication_failed_title" = "Duplizierung fehlgeschlagen";
+/* You exceeded the maximum number duplicate items. */
+"timer_list_duplication_failed_message_general" = "Sie haben die maximale Anzahl doppelter Elemente überschritten.";
+/* Invalid authentication. */
+"timer_list_duplication_failed_message_invalid_auth" = "Ungültige Authentifizierung.";
+/* Restore */
+"restore_items_title" = "Wiederherstellen";
+/* Restore */
+"restore_items_restore_button" = "Wiederherstellen";
+/* Deleted Timers */
+"user_details_deleted_items" = "Gelöschte Timer";
+/* Deleted */
+"deleted_items_title" = "Gelöscht";
+/* Just now */
+"common_time_period_short" = "Grade eben";
+/* Today */
+"common_time_period_today" = "Heute";
+/* Yesterday */
+"common_time_period_yesterday" = "Gestern";
+/* Over a year ago */
+"common_time_period_over_year" = "Vor über einem Jahr";
+/* Move Here */
+"folder_picker_move_label" = "Komm her";
+/* Export Failed */
+"timer_list_export_failed_title" = "Exportieren fehlgeschlagen";
+/* Import Here */
+"import_folder_picker_move_label" = "Hier importieren";
+/* Publishing... */
+"timer_list_publishing_label" = "Veröffentlichung...";
+/* Published */
+"published_items_title" = "Veröffentlicht";
+/* Are you sure you want to delete this published timer? */
+"published_items_delete_title" = "Möchten Sie diesen veröffentlichten Timer wirklich löschen?";
+/* Anyone that uses the timer on the website will no longer have access. Users that imported the timer to their app will still be able to use it. */
+"published_items_delete_message" = "Jeder, der den Timer auf der Website verwendet, hat keinen Zugriff mehr. Benutzer, die den Timer in ihre App importiert haben, können ihn weiterhin verwenden.";
+/* Delete Permanently */
+"published_items_delete_label" = "Dauerhaft löschen";
+/* Cancel */
+"actionsheet_cancel_label" = "Abbrechen";
+/* Published Timers */
+"user_details_published_items" = "Veröffentlichte Timer";
+/* Publishing Timers */
+"timer_list_publish_confirmation_title" = "Veröffentlichungs-Timer";
+/* This timer will be saved on our website. Anyone may import the timer into their app, and web version will be available for people to use in a browser. You may remove a published timer in your account settings. */
+"timer_list_publish_confirmation_message" = "Dieser Timer wird auf unserer Website gespeichert. Jeder kann den Timer in seine App importieren, und die Webversion wird für die Verwendung in einem Browser verfügbar sein. Sie können einen veröffentlichten Timer in Ihren Kontoeinstellungen entfernen.";
+/* I Understand */
+"timer_list_publish_confirmation_label" = "Ich verstehe";
 /* This folder could no longer be found after the latest sync. Please navigate back to a valid folder. */
-"watch_list_sync_error" = "Dieser Ordner wurde nach der letzten Synchronisierung nicht mehr gefunden. Bitte navigieren Sie zurück zu einem gültigen Ordner.";
+"watch_list_sync_error" = "Dieser Ordner konnte nach der letzten Synchronisierung nicht mehr gefunden werden. Bitte navigieren Sie zurück zu einem gültigen Ordner.";
 /* Sync Folder */
 "watch_list_sync_folder" = "Ordner synchronisieren";
 /* Back */
@@ -1347,4 +1439,50 @@
 /* Halfway */
 "sound_settings_halfway_message_label" = "Auf halber Strecke";
 /* Complete */
-"sound_settings_complete_message_label" = "Komplett";
+"sound_settings_complete_message_label" = "Vollständig";
+/* Email Verified */
+"user_details_email_verified" = "Email überprüft";
+/* Email Unverified */
+"user_details_email_unverified" = "E-Mail nicht bestätigt";
+/* Please try again. If the error continues, contact Support explaining what you were trying to do and describing the issue you are experiencing in detail. */
+"alert_error_generic_message" = "Bitte versuche es erneut. Wenn der Fehler weiterhin auftritt, wenden Sie sich an den Support und erklären Sie, was Sie versucht haben, und beschreiben Sie das Problem im Detail.";
+/* Please explain, in detail, what you were trying when the error occurred: */
+"alert_error_description_message" = "Erklären Sie bitte im Detail, was Sie versucht haben, als der Fehler auftrat:";
+/* Empty */
+"restore_empty_trash_nav_button" = "Leer";
+/* Do you want to continue? */
+"common_confirmation_continue_title" = "Wollen Sie fortfahren?";
+/* Emptying the trash will permanently delete these items. There is no undo. */
+"restore_empty_trash_confirmation_message" = "Durch das Leeren des Papierkorbs werden diese Elemente endgültig gelöscht. Es gibt kein Rückgängigmachen.";
+/* Empty Trash */
+"restore_empty_trash_confirmation_button" = "Leerer Müll";
+/* Restore Here */
+"folder_picker_restore_label" = "Hier wiederherstellen";
+/* Teal */
+"color_teal" = "Blaugrün";
+/* Neutral */
+"color_neutral" = "Neutral";
+/* Preset Palettes */
+"color_palettes_header" = "Voreingestellte Paletten";
+/* Latest (2021) */
+"color_palettes_v4_title" = "Neueste (2021)";
+/* Version 3 Dark Content (2017) */
+"color_palettes_v3_dark_title" = "Version 3 Dunkler Inhalt (2017)";
+/* Version 3 Light Content (2017) */
+"color_palettes_v3_light_title" = "Version 3 Lichtinhalt (2017)";
+/* Version 2 (2015) */
+"color_palettes_v2_title" = "Version 2 (2015)";
+/* Original (2010) */
+"color_palettes_v1_title" = "Original (2010)";
+/* Custom Palette */
+"color_palettes_custom_title" = "Benutzerdefinierte Palette";
+/* Colour Overrides */
+"color_palettes_overrides_header" = "Farbüberschreibungen";
+/* Diagnostics */
+"watch_diagnostics_header" = "Diagnose";
+/* Paired */
+"watch_paired" = "Gepaart";
+/* Watch App Installed */
+"watch_app_installed" = "Installierte App ansehen";
+/* Complication Enabled */
+"watch_complication_enabled" = "Komplikation aktiviert";

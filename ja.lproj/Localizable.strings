@@ -94,9 +94,9 @@
 "common_editor_no_music" = "オーディオが未選択です";
 /* Playlist: %@ */
 "common_editor_playlist" = "プレイリスト: %@";
-/* Song: [title] - [artist] */
+/* Song: %1$@ - %2$@ */
 "common_editor_song" = "楽曲: %1$@ - %2$@";
-/* Album: %@ - %@ */
+/* Album: %1$@ - %2$@ */
 "common_editor_album" = "アルバム: %1$@ - %2$@";
 /* Genre: %@ */
 "common_editor_genre" = "ジャンル: %@";
@@ -110,9 +110,9 @@
 "common_editor_interval_rest_label" = "インターバルの合間に休憩";
 /* Rest Between Sets */
 "common_editor_set_rest_label" = "セットの合間に休憩";
-/* Warmup */
+/* Warm Up */
 "common_editor_warmup_label" = "ウォームアップ";
-/* Cooldown */
+/* Cool Down */
 "common_editor_cooldown_label" = "クールダウン";
 /* HIIT Timer */
 "hiit_editor_title" = "HIIT タイマー";
@@ -122,7 +122,7 @@
 "hiit_editor_high_intensity_label" = "高強度";
 /* Low Intensity */
 "hiit_editor_low_intensity_label" = "低強度";
-/* Warmup */
+/* Warm Up */
 "hiit_editor_warmup_label" = "ウォームアップ";
 /* Cool Down */
 "hiit_editor_cooldown_label" = "クールダウン";
@@ -232,9 +232,9 @@
 "color_magenta" = "マゼンタ";
 /* Violet */
 "color_violet" = "スミレ";
-/* Value must be at least %d */
+/* Value must be at least %li */
 "validator_integer_too_small" = "%li 以上の値を入力してください";
-/* Value must be at most %d */
+/* Value must be at most %li */
 "validator_integer_too_large" = "%li 以下の値を入力してください";
 /* String required */
 "validator_string_required" = "文字列を入力してください";
@@ -398,9 +398,9 @@
 "external_music_option_play" = "外部オーディオ";
 /* Timer audio */
 "external_music_option_stop" = "タイマーのオーディオ";
-/* %@, %@, and %@ */
+/* %1$@, %2$@, and %3$@ */
 "speech_formatted_time_three_components" = "%1$@、%2$@ と %3$@";
-/* %@ and %@ */
+/* %1$@ and %2$@ */
 "speech_formatted_time_two_components" = "%1$@ と %2$@";
 /* {current_name} for {current_duration} */
 "speech_alert_with_time" = "{current_name} を {current_duration}";
@@ -526,7 +526,7 @@
 "interval_name_right" = "%@ (右)";
 /* Duplicate */
 "popover_menu_duplicate" = "重複";
-/* %@ for %@ */
+/* %1$@ for %2$@ */
 "notification_interval_with_duration" = "%1$@ を %2$@";
 /* Your timer is complete. */
 "notification_timer_complete" = "タイマーが終了しました。";
@@ -660,7 +660,7 @@
 "personal_details_birthyear_label" = "生まれた年";
 /* Invalid Year of Birth */
 "personal_details_birthyear_invalid_title" = "生まれた年が無効です";
-/* Please enter a birth year from %d up to or including %d */
+/* Please enter a birth year from %1$li up to or including %2$li */
 "personal_details_birthyear_invalid_message" = "誕生年を入力してください%1$liまでまたはを含む%2$li";
 /* Weight */
 "personal_details_weight_label" = "体重";
@@ -692,7 +692,7 @@
 "speech_alert_prewarn_end_with_name" = "{current_timer_name} が終了します";
 /* That's halfway */
 "speech_alert_halfway" = "中間点です";
-/* Halfway, {current_remaining_time} to go. */
+/* Halfway - {current_remaining_time} to go. */
 "speech_alert_halfway_with_time" = "中間点です。終了まで {current_remaining_time} です。";
 /* Optional */
 "common_optional_placeholder" = "オプション";
@@ -712,7 +712,7 @@
 "circuit_editor_randomise_exercises_label" = "順序のランダム化";
 /* Apple Health */
 "settings_health_header" = "Appleヘルス";
-/* Share Data */
+/* Save Workout Data */
 "settings_share_health_data" = "ワークアウトデータを保存する";
 /* Other */
 "personal_details_sex_other" = "その他";
@@ -920,7 +920,7 @@
 "list_quick_timer_button" = "クイック・タイマー";
 /* Summary */
 "summary_title" = "まとめ";
-/* %d%% Complete */
+/* %li%% Complete */
 "summary_percent_complete" = "%li%% 完了";
 /* Total Time */
 "summary_total_timer_title" = "合計時間";
@@ -928,11 +928,11 @@
 "summary_active_calories_title" = "アクティブカロリー";
 /* Total Calories */
 "summary_total_calories_title" = "総カロリー";
-/* %dcal */
+/* %lical */
 "summary_calories_value" = "%liカロリー";
 /* Avg Heart Rate */
 "summary_average_heart_rate_title" = "平均心拍数";
-/* %dbpm */
+/* %libpm */
 "summary_average_heart_rate_value" = "%libpm";
 /* Discard */
 "summary_discard_button" = "削除";
@@ -954,7 +954,7 @@
 "list_info_message_paid" = "iOSアプリに変更を加えると、保存したタイマーがこちらに表示されます。";
 /* Quick Timer */
 "quick_timer_name" = "クイック・タイマー";
-/* Exercise %d */
+/* Exercise %li */
 "quick_timer_exercise" = "エクササイズ %li";
 /* %@ (Left) */
 "timer_exercise_name_left" = "%@ (左)";
@@ -1044,7 +1044,7 @@
 "upsell_title" = "プロ仕様にアップグレードする";
 /* Upgrade now - %@ */
 "timer_list_upgrade_button_title" = "今すぐアップグレードする - %@";
-/* Upgrade to remove all restrictions and delays. Previous purchases can be restored in %@ > %@. */
+/* Upgrade to remove all restrictions and delays. Previous purchases can be restored in %1$@ > %2$@. */
 "timer_list_upgrade_footnote" = "すべての制限と遅延を取り除くためにアップグレードしてください。以前の購入は、[設定] >アップグレードステータス]に復元できます。";
 /* As a non-paying user you may only use the timers you create one time. Please upgrade to remove this restriction. */
 "upsell_message_upgrade" = "支払い対象外のユーザーは、作成したタイマーを1回だけ使用することができます。この制限を解除するにはアップグレードしてください。";
@@ -1068,7 +1068,7 @@
 "welcome_continue_button" = "同意して続行する";
 /* Runloop has updated its privacy policy. */
 "privacy_update_heading" = "Runloopはプライバシーポリシーを更新しました。";
-/* Runloop collects Usage Data to improve the app, and shares Aggregated Data with providers. To learn more please read our %@ and %@ before continuing. */
+/* Runloop collects Usage Data to improve the app, and shares Aggregated Data with providers. To learn more please read our %1$@ and %2$@ before continuing. */
 "privacy_disclaimer" = "Runloopはアプリを改善するために利用状況データを収集し、プロバイダと集計データを共有します。詳細については、続行する前に%1$@と%2$@をお読みください。";
 /* privacy policy */
 "privacy_disclaimer_policy_title" = "個人情報保護方針";
@@ -1102,13 +1102,19 @@
 "notification_enable_button" = "通知を有効にします";
 /* Continue without notifications */
 "notification_skip_button" = "通知なしで続行する";
-/* Exercise [%i] */
+/* Exercise %li */
 "circuit_editor_new_exercise_name" = "エクササイズ%li";
+/* Reduce Audio Volume */
 "interval_editor_reduced_volume" = "オーディオの音量を下げる";
+/* Privacy */
 "settings_privacy_title" = "プライバシー";
+/* Enable Analytics */
 "settings_privacy_analytics_title" = "分析を有効にする";
+/* Runloop monitors active installs, screen views and other interface events to improve the quality and performance of the app. User content and Health data are never sent to our servers. */
 "settings_privacy_analytics_description" = "Runloopは、アクティブインストール、スクリーンビュー、その他のインターフェースイベントを監視して、アプリの品質とパフォーマンスを向上させます。ユーザーコンテンツと健康データは私たちのサーバーに送信されることはありません。";
+/* Enable Crash Reports */
 "settings_privacy_crash_title" = "クラッシュレポートを有効にする";
+/* Runloop collects crash reports to help diagnose fatal errors and improve the quality, performance & user experience of the app. */
 "settings_privacy_crash_description" = "Runloopはクラッシュレポートを収集して致命的なエラーを診断し、アプリの品質、パフォーマンス、ユーザーエクスペリエンスを向上させます。";
 /* Reset */
 "countdown_timer_reset" = "リセット";
@@ -1118,7 +1124,7 @@
 "countdown_notification_message" = "あなたのカウントダウンは完了しました";
 /* My Intervals */
 "intervals_tabbar_title" = "間隔";
-/* Preset %d */
+/* Preset %li */
 "countdown_preset_title" = "プリセット%li";
 /* Countdown Presets */
 "timer_settings_countdown_presets" = "カウントダウンプリセット";
@@ -1208,15 +1214,15 @@
 "interval_name_first_half_label" = "前半";
 /* Second Half */
 "interval_name_second_half_label" = "後半";
-/* Version 3 (Light) Colours */
+/* Version 3 Colours (Light Theme) */
 "color_settings_previous_version_3_light" = "バージョン3色（ライトテーマ）";
-/* Version 3 (Dark) Colours */
+/* Version 3 Colours (Dark Theme) */
 "color_settings_previous_version_3_dark" = "バージョン3カラー（ダークテーマ）";
-/* For creating a URL for sharing with other users. */
+/* Share */
 "toolbar_item_share_online" = "シェア";
-/* For sharing a URL created for use on the device. */
+/* Share */
 "toolbar_item_share_device" = "シェア";
-/* Relates to app icon shortcut options and URLs created to be used on the device. */
+/* Quick actions & URLs */
 "timer_settings_shortcuts_heading" = "クイックアクションとURL";
 /* External Display */
 "external_display_settings_title" = "外部ディスプレイ";
@@ -1270,7 +1276,7 @@
 "auth_register_sign_in_anonymously" = "匿名ユーザーとして続行";
 /* A valid email is required. */
 "auth_error_invalid_email" = "有効なメールアドレスが必要です。";
-/* Requires minimum of 6 chararcters. */
+/* Requires minimum of 6 characters. */
 "auth_error_password_too_short" = "最小6文字が必要です。";
 /* Consider a stronger password. */
 "auth_warning_weak_password" = "より強力なパスワードを検討してください。";
@@ -1330,12 +1336,98 @@
 "user_details_backup_heading" = "最新のバックアップ";
 /* Delete All iCloud Backups */
 "backup_delete_all_label" = "すべてのiCloudバックアップを削除";
-/* Deleting iCloud backups will only remove the timer backups stored in iCloud, it will not delete your the timers within the My Intervals section of the app. */
+/* Deleting iCloud backups will only remove the timer backups stored in iCloud, it will not delete your app data. */
 "backups_delete_all_footer" = "iCloudバックアップを削除しても、iCloudに保存されているタイマーバックアップのみが削除され、アプリデータは削除されません。";
 /* Are you sure you want to remove all iCloud Backups? This cannot be undone. */
 "backup_delete_all_message" = "すべてのiCloudバックアップを削除してもよろしいですか？これは、元に戻すことはできません。";
 /* Delete All */
 "backup_delete_all_confirmation" = "すべて削除";
+/* Three Beep Countdown */
+"soundscheme_beeps_countdown_three" = "スリービープカウントダウン";
+/* Text-to-Speech with Next Interval */
+"soundscheme_tts_with_next_interval" = "次の間隔でのテキスト読み上げ";
+/* Install on Apple Watch */
+"common_editor_apple_watch" = "AppleWatchにインストールする";
+/* Enable the Install on Apple Watch option within your timers to add them here. */
+"watch_no_timers_message" = "タイマー内で[AppleWatchにインストール]オプションを有効にして、ここに追加します。";
+/* Countdown Beeps */
+"soundscheme_countdown_beeps_title" = "カウントダウンビープ音";
+/* Single Beeps */
+"soundscheme_single_beeps_title" = "ビープ音1回";
+/* Preset #%lld (%@) */
+"color_preset" = "color_preset";
+/* Select Audio */
+"audio_editor_select_audio" = "オーディオを選択";
+/* Change Audio Selection */
+"audio_editor_reselect_audio" = "オーディオ選択の変更";
+/* Untitled */
+"audio_editor_untitled" = "無題";
+/* Unknown */
+"audio_editor_unknown" = "わからない";
+/* Paste Above */
+"edit_control_paste_above" = "上に貼り付け";
+/* Paste Below */
+"edit_control_paste_below" = "下に貼り付け";
+/* Reorder */
+"toolbar_item_reorder" = "再注文";
+/* Duration: %@ */
+"common_editor_duration_title" = "間隔： ％@";
+/* Randomise Exercises */
+"common_editor_randomization_label" = "ランダム演習";
+/* Not random */
+"common_editor_randomization_none" = "ランダムではない";
+/* At start */
+"common_editor_randomization_once" = "開始時";
+/* Each set */
+"common_editor_randomization_each_set" = "各セット";
+/* Duplication Failed */
+"timer_list_duplication_failed_title" = "複製に失敗しました";
+/* You exceeded the maximum number duplicate items. */
+"timer_list_duplication_failed_message_general" = "重複アイテムの最大数を超えました。";
+/* Invalid authentication. */
+"timer_list_duplication_failed_message_invalid_auth" = "認証が無効です。";
+/* Restore */
+"restore_items_title" = "戻す";
+/* Restore */
+"restore_items_restore_button" = "戻す";
+/* Deleted Timers */
+"user_details_deleted_items" = "削除されたタイマー";
+/* Deleted */
+"deleted_items_title" = "削除されました";
+/* Just now */
+"common_time_period_short" = "ちょうど今";
+/* Today */
+"common_time_period_today" = "今日";
+/* Yesterday */
+"common_time_period_yesterday" = "昨日";
+/* Over a year ago */
+"common_time_period_over_year" = "1年以上前";
+/* Move Here */
+"folder_picker_move_label" = "ここに移動";
+/* Export Failed */
+"timer_list_export_failed_title" = "エクスポートに失敗しました";
+/* Import Here */
+"import_folder_picker_move_label" = "ここからインポート";
+/* Publishing... */
+"timer_list_publishing_label" = "公開しています...";
+/* Published */
+"published_items_title" = "公開済み";
+/* Are you sure you want to delete this published timer? */
+"published_items_delete_title" = "この公開されたタイマーを削除してもよろしいですか？";
+/* Anyone that uses the timer on the website will no longer have access. Users that imported the timer to their app will still be able to use it. */
+"published_items_delete_message" = "ウェブサイトでタイマーを使用する人は誰でもアクセスできなくなります。タイマーをアプリにインポートしたユーザーは、引き続きタイマーを使用できます。";
+/* Delete Permanently */
+"published_items_delete_label" = "完全に削除する";
+/* Cancel */
+"actionsheet_cancel_label" = "キャンセル";
+/* Published Timers */
+"user_details_published_items" = "公開されたタイマー";
+/* Publishing Timers */
+"timer_list_publish_confirmation_title" = "タイマーの公開";
+/* This timer will be saved on our website. Anyone may import the timer into their app, and web version will be available for people to use in a browser. You may remove a published timer in your account settings. */
+"timer_list_publish_confirmation_message" = "このタイマーは当社のウェブサイトに保存されます。誰でもタイマーをアプリにインポートでき、ブラウザで使用できるWebバージョンが利用可能になります。アカウント設定で公開されたタイマーを削除できます。";
+/* I Understand */
+"timer_list_publish_confirmation_label" = "わかりました";
 /* This folder could no longer be found after the latest sync. Please navigate back to a valid folder. */
 "watch_list_sync_error" = "このフォルダは、最新の同期後に見つかりませんでした。有効なフォルダに戻ってください。";
 /* Sync Folder */
@@ -1348,3 +1440,49 @@
 "sound_settings_halfway_message_label" = "途中";
 /* Complete */
 "sound_settings_complete_message_label" = "コンプリート";
+/* Email Verified */
+"user_details_email_verified" = "メール確認済み";
+/* Email Unverified */
+"user_details_email_unverified" = "未確認のメール";
+/* Please try again. If the error continues, contact Support explaining what you were trying to do and describing the issue you are experiencing in detail. */
+"alert_error_generic_message" = "もう一度やり直してください。エラーが続く場合は、サポートに連絡して、何をしようとしていたか、発生している問題について詳しく説明してください。";
+/* Please explain, in detail, what you were trying when the error occurred: */
+"alert_error_description_message" = "エラーが発生したときに何を試みていたかを詳しく説明してください。";
+/* Empty */
+"restore_empty_trash_nav_button" = "空の";
+/* Do you want to continue? */
+"common_confirmation_continue_title" = "続けますか？";
+/* Emptying the trash will permanently delete these items. There is no undo. */
+"restore_empty_trash_confirmation_message" = "ゴミ箱を空にすると、これらのアイテムは完全に削除されます。元に戻すことはできません。";
+/* Empty Trash */
+"restore_empty_trash_confirmation_button" = "空のごみ箱";
+/* Restore Here */
+"folder_picker_restore_label" = "ここに復元";
+/* Teal */
+"color_teal" = "ティール";
+/* Neutral */
+"color_neutral" = "中性";
+/* Preset Palettes */
+"color_palettes_header" = "プリセットパレット";
+/* Latest (2021) */
+"color_palettes_v4_title" = "最新（2021）";
+/* Version 3 Dark Content (2017) */
+"color_palettes_v3_dark_title" = "バージョン3ダークコンテンツ（2017）";
+/* Version 3 Light Content (2017) */
+"color_palettes_v3_light_title" = "バージョン3ライトコンテンツ（2017）";
+/* Version 2 (2015) */
+"color_palettes_v2_title" = "バージョン2（2015）";
+/* Original (2010) */
+"color_palettes_v1_title" = "オリジナル（2010）";
+/* Custom Palette */
+"color_palettes_custom_title" = "カスタムパレット";
+/* Colour Overrides */
+"color_palettes_overrides_header" = "色の上書き";
+/* Diagnostics */
+"watch_diagnostics_header" = "診断";
+/* Paired */
+"watch_paired" = "ペアリング";
+/* Watch App Installed */
+"watch_app_installed" = "インストールされているアプリを見る";
+/* Complication Enabled */
+"watch_complication_enabled" = "合併症を有効にする";
