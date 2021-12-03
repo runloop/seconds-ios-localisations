@@ -2,22 +2,182 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>timer_downloading_alert_count_message</key>
+	<key>common_time_period_days</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@d_remaining@</string>
-		<key>d_remaining</key>
+		<string>%#@d_period@ назад</string>
+		<key>d_period</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>li</string>
-			<key>one</key>
-			<string>Остался %li сигнал.</string>
 			<key>few</key>
-			<string>Осталось %li сигнала.</string>
+			<string>%li дня</string>
+			<key>one</key>
+			<string>%li день</string>
 			<key>other</key>
-			<string>Осталось %li сигналов.</string>
+			<string>%li дней</string>
+		</dict>
+	</dict>
+	<key>common_time_period_months</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@d_period@ назад</string>
+		<key>d_period</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>li</string>
+			<key>few</key>
+			<string>%li месяца</string>
+			<key>one</key>
+			<string>%li месяц</string>
+			<key>other</key>
+			<string>%li месяцев</string>
+		</dict>
+	</dict>
+	<key>common_time_period_weeks</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@d_period@ назад</string>
+		<key>d_period</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>li</string>
+			<key>few</key>
+			<string>%li недели</string>
+			<key>one</key>
+			<string>%li неделя</string>
+			<key>other</key>
+			<string>%li недель</string>
+		</dict>
+	</dict>
+	<key>media_picker_parts_minutes_count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@d_parts@, %#@d_minutes@</string>
+		<key>d_minutes</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>li</string>
+			<key>few</key>
+			<string>%li минуты</string>
+			<key>one</key>
+			<string>%li минута</string>
+			<key>other</key>
+			<string>%li минут</string>
+		</dict>
+		<key>d_parts</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>li</string>
+			<key>few</key>
+			<string>%li части</string>
+			<key>one</key>
+			<string>%li часть</string>
+			<key>other</key>
+			<string>%li частей</string>
+		</dict>
+	</dict>
+	<key>media_picker_podcasts_minutes_count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@d_podcasts@, %#@d_minutes@</string>
+		<key>d_minutes</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>li</string>
+			<key>few</key>
+			<string>%li минуты</string>
+			<key>one</key>
+			<string>%li минута</string>
+			<key>other</key>
+			<string>%li минут</string>
+		</dict>
+		<key>d_podcasts</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>li</string>
+			<key>few</key>
+			<string>%li подкаста</string>
+			<key>one</key>
+			<string>%li подкаст</string>
+			<key>other</key>
+			<string>%li подкастов</string>
+		</dict>
+	</dict>
+	<key>media_picker_song_album_count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@d_albums@, %#@d_songs@</string>
+		<key>d_albums</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>li</string>
+			<key>few</key>
+			<string>%li альбома</string>
+			<key>one</key>
+			<string>%li альбом</string>
+			<key>other</key>
+			<string>%li альбомов</string>
+		</dict>
+		<key>d_songs</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>li</string>
+			<key>few</key>
+			<string>%li песни</string>
+			<key>one</key>
+			<string>%li песня</string>
+			<key>other</key>
+			<string>%li песен</string>
+		</dict>
+	</dict>
+	<key>media_picker_songs_minutes_count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@d_songs@, %#@d_minutes@</string>
+		<key>d_minutes</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>li</string>
+			<key>few</key>
+			<string>%li минуты</string>
+			<key>one</key>
+			<string>%li минута</string>
+			<key>other</key>
+			<string>%li минут</string>
+		</dict>
+		<key>d_songs</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>li</string>
+			<key>few</key>
+			<string>%li песни</string>
+			<key>one</key>
+			<string>%li песня</string>
+			<key>other</key>
+			<string>%li песен</string>
 		</dict>
 	</dict>
 	<key>speech_formatted_hours</key>
@@ -30,10 +190,10 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>li</string>
-			<key>one</key>
-			<string>%li час</string>
 			<key>few</key>
 			<string>%li часа</string>
+			<key>one</key>
+			<string>%li час</string>
 			<key>other</key>
 			<string>%li часов</string>
 		</dict>
@@ -48,10 +208,10 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>li</string>
-			<key>one</key>
-			<string>%li минута</string>
 			<key>few</key>
 			<string>%li минуты</string>
+			<key>one</key>
+			<string>%li минута</string>
 			<key>other</key>
 			<string>%li минут</string>
 		</dict>
@@ -66,136 +226,12 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>li</string>
-			<key>one</key>
-			<string>%li секунда</string>
 			<key>few</key>
 			<string>%li секунды</string>
+			<key>one</key>
+			<string>%li секунда</string>
 			<key>other</key>
 			<string>%li секунд</string>
-		</dict>
-	</dict>
-	<key>media_picker_song_album_count</key>
-	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@d_albums@, %#@d_songs@</string>
-		<key>d_albums</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>NSStringFormatValueTypeKey</key>
-			<string>li</string>
-			<key>one</key>
-			<string>%li альбом</string>
-			<key>few</key>
-			<string>%li альбома</string>
-			<key>other</key>
-			<string>%li альбомов</string>
-		</dict>
-		<key>d_songs</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>NSStringFormatValueTypeKey</key>
-			<string>li</string>
-			<key>one</key>
-			<string>%li песня</string>
-			<key>few</key>
-			<string>%li песни</string>
-			<key>other</key>
-			<string>%li песен</string>
-		</dict>
-	</dict>
-	<key>media_picker_songs_minutes_count</key>
-	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@d_songs@, %#@d_minutes@</string>
-		<key>d_songs</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>NSStringFormatValueTypeKey</key>
-			<string>li</string>
-			<key>one</key>
-			<string>%li песня</string>
-			<key>few</key>
-			<string>%li песни</string>
-			<key>other</key>
-			<string>%li песен</string>
-		</dict>
-		<key>d_minutes</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>NSStringFormatValueTypeKey</key>
-			<string>li</string>
-			<key>one</key>
-			<string>%li минута</string>
-			<key>few</key>
-			<string>%li минуты</string>
-			<key>other</key>
-			<string>%li минут</string>
-		</dict>
-	</dict>
-	<key>media_picker_parts_minutes_count</key>
-	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@d_parts@, %#@d_minutes@</string>
-		<key>d_parts</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>NSStringFormatValueTypeKey</key>
-			<string>li</string>
-			<key>one</key>
-			<string>%li часть</string>
-			<key>few</key>
-			<string>%li части</string>
-			<key>other</key>
-			<string>%li частей</string>
-		</dict>
-		<key>d_minutes</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>NSStringFormatValueTypeKey</key>
-			<string>li</string>
-			<key>one</key>
-			<string>%li минута</string>
-			<key>few</key>
-			<string>%li минуты</string>
-			<key>other</key>
-			<string>%li минут</string>
-		</dict>
-	</dict>
-	<key>media_picker_podcasts_minutes_count</key>
-	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@d_podcasts@, %#@d_minutes@</string>
-		<key>d_podcasts</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>NSStringFormatValueTypeKey</key>
-			<string>li</string>
-			<key>one</key>
-			<string>%li подкаст</string>
-			<key>few</key>
-			<string>%li подкаста</string>
-			<key>other</key>
-			<string>%li подкастов</string>
-		</dict>
-		<key>d_minutes</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>NSStringFormatValueTypeKey</key>
-			<string>li</string>
-			<key>one</key>
-			<string>%li минута</string>
-			<key>few</key>
-			<string>%li минуты</string>
-			<key>other</key>
-			<string>%li минут</string>
 		</dict>
 	</dict>
 </dict>
