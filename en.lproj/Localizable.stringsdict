@@ -2,22 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>timer_list_duplication_error_message</key>
-	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>Duplication to limited to a maximum of %#@d_items@.</string>
-		<key>d_items</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>NSStringFormatValueTypeKey</key>
-			<string>li</string>
-			<key>one</key>
-			<string>one item</string>
-			<key>other</key>
-			<string>%li items</string>
-		</dict>
-	</dict>
 	<key>timer_downloading_alert_count_message</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
@@ -29,7 +13,7 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>li</string>
 			<key>one</key>
-			<string>One alert</string>
+			<string>%li alert</string>
 			<key>other</key>
 			<string>%li alerts</string>
 		</dict>

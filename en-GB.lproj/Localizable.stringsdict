@@ -13,7 +13,7 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>li</string>
 			<key>one</key>
-			<string>One day</string>
+			<string>%li day</string>
 			<key>other</key>
 			<string>%li days</string>
 		</dict>
@@ -29,9 +29,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>li</string>
 			<key>one</key>
-			<string>One week</string>
-			<key>other</key>
 			<string>%li week</string>
+			<key>other</key>
+			<string>%li weeks</string>
 		</dict>
 	</dict>
 	<key>common_time_period_months</key>
@@ -45,25 +45,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>li</string>
 			<key>one</key>
-			<string>One month</string>
+			<string>%li month</string>
 			<key>other</key>
 			<string>%li months</string>
-		</dict>
-	</dict>
-	<key>timer_list_duplication_failed_message - 2</key>
-	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>Duplication to limited to a maximum of %#@d_items@.</string>
-		<key>d_items</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>NSStringFormatValueTypeKey</key>
-			<string>li</string>
-			<key>one</key>
-			<string>one item</string>
-			<key>other</key>
-			<string>%li items</string>
 		</dict>
 	</dict>
 	<key>timer_downloading_alert_count_message</key>
@@ -77,7 +61,7 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>li</string>
 			<key>one</key>
-			<string>One alert</string>
+			<string>%li alert</string>
 			<key>other</key>
 			<string>%li alerts</string>
 		</dict>
