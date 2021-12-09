@@ -1484,3 +1484,5 @@
 "watch_app_installed" = "观看应用安装";
 /* Complication Enabled */
 "watch_complication_enabled" = "启用复杂功能";
+/* Manage Timers */
+"user_details_manage_items" = "管理计时器";

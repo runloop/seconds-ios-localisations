@@ -1484,3 +1484,5 @@
 "watch_app_installed" = "Приложение для часов установлено";
 /* Complication Enabled */
 "watch_complication_enabled" = "Осложнение включено";
+/* Manage Timers */
+"user_details_manage_items" = "Управление таймерами";

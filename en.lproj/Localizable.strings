@@ -1484,3 +1484,5 @@
 "watch_app_installed" = "Watch App Installed";
 /* Complication Enabled */
 "watch_complication_enabled" = "Complication Enabled";
+/* Manage Timers */
+"user_details_manage_items" = "Manage Timers";
