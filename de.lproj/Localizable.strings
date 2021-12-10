@@ -1486,3 +1486,5 @@
 "watch_complication_enabled" = "Komplikation aktiviert";
 /* Manage Timers */
 "user_details_manage_items" = "Timer verwalten";
+/* Currently, all users are anonymous. */
+"settings_user_details_anonymous_footer" = "Derzeit sind alle Benutzer anonym.";

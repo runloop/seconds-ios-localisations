@@ -1486,3 +1486,5 @@
 "watch_complication_enabled" = "启用复杂功能";
 /* Manage Timers */
 "user_details_manage_items" = "管理计时器";
+/* Currently, all users are anonymous. */
+"settings_user_details_anonymous_footer" = "目前，所有用户都是匿名的。";

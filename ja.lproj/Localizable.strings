@@ -1486,3 +1486,5 @@
 "watch_complication_enabled" = "合併症を有効にする";
 /* Manage Timers */
 "user_details_manage_items" = "タイマーの管理";
+/* Currently, all users are anonymous. */
+"settings_user_details_anonymous_footer" = "現在、すべてのユーザーは匿名です。";
