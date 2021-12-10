@@ -1488,3 +1488,5 @@
 "user_details_manage_items" = "Hantera timers";
 /* Currently, all users are anonymous. */
 "settings_user_details_anonymous_footer" = "För närvarande är alla användare anonyma.";
+/* Temporarily reduce the volume of any audio during the alerts. */
+"sound_settings_external_ducking_footer" = "Sänk temporärt volymen på alla ljud under varningarna.";

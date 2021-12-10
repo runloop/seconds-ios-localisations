@@ -1488,3 +1488,5 @@
 "user_details_manage_items" = "管理计时器";
 /* Currently, all users are anonymous. */
 "settings_user_details_anonymous_footer" = "目前，所有用户都是匿名的。";
+/* Temporarily reduce the volume of any audio during the alerts. */
+"sound_settings_external_ducking_footer" = "在警报期间暂时降低任何音频的音量。";

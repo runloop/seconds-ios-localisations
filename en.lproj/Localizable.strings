@@ -1488,3 +1488,5 @@
 "user_details_manage_items" = "Manage Timers";
 /* Currently, all users are anonymous. */
 "settings_user_details_anonymous_footer" = "Currently, all users are anonymous.";
+/* Temporarily reduce the volume of any audio during the alerts. */
+"sound_settings_external_ducking_footer" = "Temporarily reduce the volume of any audio during the alerts.";

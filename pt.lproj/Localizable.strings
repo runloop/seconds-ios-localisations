@@ -1488,3 +1488,5 @@
 "user_details_manage_items" = "Gerenciar cronômetros";
 /* Currently, all users are anonymous. */
 "settings_user_details_anonymous_footer" = "Atualmente, todos os usuários são anônimos.";
+/* Temporarily reduce the volume of any audio during the alerts. */
+"sound_settings_external_ducking_footer" = "Reduza temporariamente o volume de qualquer áudio durante os alertas.";

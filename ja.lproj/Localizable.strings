@@ -1488,3 +1488,5 @@
 "user_details_manage_items" = "タイマーの管理";
 /* Currently, all users are anonymous. */
 "settings_user_details_anonymous_footer" = "現在、すべてのユーザーは匿名です。";
+/* Temporarily reduce the volume of any audio during the alerts. */
+"sound_settings_external_ducking_footer" = "アラート中は、音声の音量を一時的に下げてください。";

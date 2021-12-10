@@ -1488,3 +1488,5 @@
 "user_details_manage_items" = "Управление таймерами";
 /* Currently, all users are anonymous. */
 "settings_user_details_anonymous_footer" = "В настоящее время все пользователи анонимны.";
+/* Temporarily reduce the volume of any audio during the alerts. */
+"sound_settings_external_ducking_footer" = "Временно уменьшите громкость любого звука во время предупреждений.";
