@@ -1349,13 +1349,13 @@
 /* Install on Apple Watch */
 "common_editor_apple_watch" = "Installer sur Apple Watch";
 /* Enable the Install on Apple Watch option within your timers to add them here. */
-"watch_no_timers_message" = "Activez l&#39;option Installer sur Apple Watch dans vos minuteries pour les ajouter ici.";
+"watch_no_timers_message" = "Activez l'option Installer sur Apple Watch dans vos minuteries pour les ajouter ici.";
 /* Countdown Beeps */
 "soundscheme_countdown_beeps_title" = "Bips de compte à rebours";
 /* Single Beeps */
 "soundscheme_single_beeps_title" = "Bips simples";
 /* Select Audio */
-"audio_editor_select_audio" = "Sélectionnez l&#39;audio";
+"audio_editor_select_audio" = "Sélectionnez l'audio";
 /* Change Audio Selection */
 "audio_editor_reselect_audio" = "Modifier la sélection audio";
 /* Untitled */
@@ -1381,7 +1381,7 @@
 /* Duplication Failed */
 "timer_list_duplication_failed_title" = "Échec de la duplication";
 /* You exceeded the maximum number duplicate items. */
-"timer_list_duplication_failed_message_general" = "Vous avez dépassé le nombre maximal d&#39;éléments en double.";
+"timer_list_duplication_failed_message_general" = "Vous avez dépassé le nombre maximal d'éléments en double.";
 /* Invalid authentication. */
 "timer_list_duplication_failed_message_invalid_auth" = "Authentification invalide.";
 /* Restore */
@@ -1395,15 +1395,15 @@
 /* Just now */
 "common_time_period_short" = "Juste maintenant";
 /* Today */
-"common_time_period_today" = "Aujourd&#39;hui";
+"common_time_period_today" = "Aujourd'hui";
 /* Yesterday */
 "common_time_period_yesterday" = "Hier";
 /* Over a year ago */
-"common_time_period_over_year" = "Il ya plus d&#39;un an";
+"common_time_period_over_year" = "Il ya plus d'un an";
 /* Move Here */
 "folder_picker_move_label" = "Bouge ici";
 /* Export Failed */
-"timer_list_export_failed_title" = "Échec de l&#39;exportation";
+"timer_list_export_failed_title" = "Échec de l'exportation";
 /* Import Here */
 "import_folder_picker_move_label" = "Importer ici";
 /* Publishing... */
@@ -1413,7 +1413,7 @@
 /* Are you sure you want to delete this published timer? */
 "published_items_delete_title" = "Voulez-vous vraiment supprimer ce minuteur publié ?";
 /* Anyone that uses the timer on the website will no longer have access. Users that imported the timer to their app will still be able to use it. */
-"published_items_delete_message" = "Toute personne utilisant le minuteur sur le site Web n&#39;y aura plus accès. Les utilisateurs qui ont importé le minuteur dans leur application pourront toujours l&#39;utiliser.";
+"published_items_delete_message" = "Toute personne utilisant le minuteur sur le site Web n'y aura plus accès. Les utilisateurs qui ont importé le minuteur dans leur application pourront toujours l'utiliser.";
 /* Delete Permanently */
 "published_items_delete_label" = "supprimer définitivement";
 /* Cancel */
@@ -1443,15 +1443,15 @@
 /* Email Unverified */
 "user_details_email_unverified" = "E-mail non vérifié";
 /* Please try again. If the error continues, contact Support explaining what you were trying to do and describing the issue you are experiencing in detail. */
-"alert_error_generic_message" = "Veuillez réessayer. Si l&#39;erreur persiste, contactez l&#39;assistance en expliquant ce que vous essayez de faire et en décrivant en détail le problème que vous rencontrez.";
+"alert_error_generic_message" = "Veuillez réessayer. Si l'erreur persiste, contactez l'assistance en expliquant ce que vous essayez de faire et en décrivant en détail le problème que vous rencontrez.";
 /* Please explain, in detail, what you were trying when the error occurred: */
-"alert_error_description_message" = "Veuillez expliquer en détail ce que vous essayiez lorsque l&#39;erreur s&#39;est produite :";
+"alert_error_description_message" = "Veuillez expliquer en détail ce que vous essayiez lorsque l'erreur s'est produite :";
 /* Empty */
 "restore_empty_trash_nav_button" = "Vide";
 /* Do you want to continue? */
 "common_confirmation_continue_title" = "Voulez-vous continuer?";
 /* Emptying the trash will permanently delete these items. There is no undo. */
-"restore_empty_trash_confirmation_message" = "Vider la corbeille supprimera définitivement ces éléments. Il n&#39;y a pas d&#39;annulation.";
+"restore_empty_trash_confirmation_message" = "Vider la corbeille supprimera définitivement ces éléments. Il n'y a pas d'annulation.";
 /* Empty Trash */
 "restore_empty_trash_confirmation_button" = "Poubelle vide";
 /* Restore Here */
@@ -1481,7 +1481,7 @@
 /* Paired */
 "watch_paired" = "Jumelé";
 /* Watch App Installed */
-"watch_app_installed" = "Regarder l&#39;application installée";
+"watch_app_installed" = "Regarder l'application installée";
 /* Complication Enabled */
 "watch_complication_enabled" = "Complication activée";
 /* Manage Timers */
@@ -1490,3 +1490,7 @@
 "settings_user_details_anonymous_footer" = "Actuellement, tous les utilisateurs sont anonymes.";
 /* Temporarily reduce the volume of any audio during the alerts. */
 "sound_settings_external_ducking_footer" = "Réduisez temporairement le volume de tout son pendant les alertes.";
+/* Delete backups by %@ */
+"backup_delete_all_by_device" = "Supprimer les sauvegardes par %@";
+/* Delete backups by any device */
+"backup_delete_all_by_any" = "Supprimer les sauvegardes par n'importe quel appareil";

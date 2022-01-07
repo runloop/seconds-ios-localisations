@@ -1490,3 +1490,7 @@
 "settings_user_details_anonymous_footer" = "現在、すべてのユーザーは匿名です。";
 /* Temporarily reduce the volume of any audio during the alerts. */
 "sound_settings_external_ducking_footer" = "アラート中は、音声の音量を一時的に下げてください。";
+/* Delete backups by %@ */
+"backup_delete_all_by_device" = "％@によるバックアップの削除";
+/* Delete backups by any device */
+"backup_delete_all_by_any" = "任意のデバイスによるバックアップを削除します";
