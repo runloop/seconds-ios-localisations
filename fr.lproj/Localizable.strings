@@ -1494,3 +1494,15 @@
 "backup_delete_all_by_device" = "Supprimer les sauvegardes par %@";
 /* Delete backups by any device */
 "backup_delete_all_by_any" = "Supprimer les sauvegardes par n'importe quel appareil";
+/* Custom */
+"item_list_sort_option_custom" = "Personnalisé";
+/* Timer Name */
+"item_list_sort_option_name" = "Nom de la minuterie";
+/* Last Performed Date */
+"item_list_sort_option_last_performed" = "Date de la dernière exécution";
+/* Created Date */
+"item_list_sort_option_created" = "Date de création";
+/* Updated Date */
+"item_list_sort_option_updated" = "Date de mise à jour";
+/* Duration */
+"item_list_sort_option_duration" = "Durée";

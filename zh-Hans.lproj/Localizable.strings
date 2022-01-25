@@ -1494,3 +1494,15 @@
 "backup_delete_all_by_device" = "按 %@ 删除备份";
 /* Delete backups by any device */
 "backup_delete_all_by_any" = "通过任何设备删除备份";
+/* Custom */
+"item_list_sort_option_custom" = "风俗";
+/* Timer Name */
+"item_list_sort_option_name" = "定时器名称";
+/* Last Performed Date */
+"item_list_sort_option_last_performed" = "上次执行日期";
+/* Created Date */
+"item_list_sort_option_created" = "创建日期";
+/* Updated Date */
+"item_list_sort_option_updated" = "更新日期";
+/* Duration */
+"item_list_sort_option_duration" = "期间";

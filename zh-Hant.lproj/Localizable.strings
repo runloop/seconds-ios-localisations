@@ -1494,3 +1494,15 @@
 "backup_delete_all_by_device" = "按 %@ 刪除備份";
 /* Delete backups by any device */
 "backup_delete_all_by_any" = "通過任何設備刪除備份";
+/* Custom */
+"item_list_sort_option_custom" = "風俗";
+/* Timer Name */
+"item_list_sort_option_name" = "定時器名稱";
+/* Last Performed Date */
+"item_list_sort_option_last_performed" = "上次執行日期";
+/* Created Date */
+"item_list_sort_option_created" = "創建日期";
+/* Updated Date */
+"item_list_sort_option_updated" = "更新日期";
+/* Duration */
+"item_list_sort_option_duration" = "期間";

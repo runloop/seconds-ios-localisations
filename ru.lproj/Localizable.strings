@@ -1494,3 +1494,15 @@
 "backup_delete_all_by_device" = "Удалить резервные копии до% @";
 /* Delete backups by any device */
 "backup_delete_all_by_any" = "Удаляйте резервные копии на любом устройстве";
+/* Custom */
+"item_list_sort_option_custom" = "Обычай";
+/* Timer Name */
+"item_list_sort_option_name" = "Имя таймера";
+/* Last Performed Date */
+"item_list_sort_option_last_performed" = "Дата последнего исполнения";
+/* Created Date */
+"item_list_sort_option_created" = "Дата создания";
+/* Updated Date */
+"item_list_sort_option_updated" = "Дата обновления";
+/* Duration */
+"item_list_sort_option_duration" = "Продолжительность";

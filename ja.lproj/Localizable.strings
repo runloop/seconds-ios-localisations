@@ -1494,3 +1494,15 @@
 "backup_delete_all_by_device" = "％@によるバックアップの削除";
 /* Delete backups by any device */
 "backup_delete_all_by_any" = "任意のデバイスによるバックアップを削除します";
+/* Custom */
+"item_list_sort_option_custom" = "カスタム";
+/* Timer Name */
+"item_list_sort_option_name" = "タイマー名";
+/* Last Performed Date */
+"item_list_sort_option_last_performed" = "最終実行日";
+/* Created Date */
+"item_list_sort_option_created" = "作成日";
+/* Updated Date */
+"item_list_sort_option_updated" = "更新日";
+/* Duration */
+"item_list_sort_option_duration" = "間隔";

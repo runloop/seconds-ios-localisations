@@ -1494,3 +1494,15 @@
 "backup_delete_all_by_device" = "Ta bort säkerhetskopior med %@";
 /* Delete backups by any device */
 "backup_delete_all_by_any" = "Ta bort säkerhetskopior från valfri enhet";
+/* Custom */
+"item_list_sort_option_custom" = "Beställnings";
+/* Timer Name */
+"item_list_sort_option_name" = "Timernamn";
+/* Last Performed Date */
+"item_list_sort_option_last_performed" = "Senaste utförd datum";
+/* Created Date */
+"item_list_sort_option_created" = "Skapat Datum";
+/* Updated Date */
+"item_list_sort_option_updated" = "uppdaterat datum";
+/* Duration */
+"item_list_sort_option_duration" = "Varaktighet";
