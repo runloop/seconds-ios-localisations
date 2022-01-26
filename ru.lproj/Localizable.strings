@@ -1506,3 +1506,15 @@
 "item_list_sort_option_updated" = "Дата обновления";
 /* Duration */
 "item_list_sort_option_duration" = "Продолжительность";
+/* Duplicate */
+"item_list_menu_duplicate" = "Дублировать";
+/* Move... */
+"item_list_menu_move" = "Переехать...";
+/* Share */
+"item_list_menu_share" = "доля";
+/* Shortcuts Link */
+"item_list_menu_local_link" = "Ссылка на ярлыки";
+/* Move to Trash */
+"item_list_menu_trash" = "Переместить в корзину";
+/* Options */
+"item_list_menu_options" = "Опции";

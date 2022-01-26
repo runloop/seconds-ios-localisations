@@ -1506,3 +1506,15 @@
 "item_list_sort_option_updated" = "更新日期";
 /* Duration */
 "item_list_sort_option_duration" = "期间";
+/* Duplicate */
+"item_list_menu_duplicate" = "复制";
+/* Move... */
+"item_list_menu_move" = "移动...";
+/* Share */
+"item_list_menu_share" = "分享";
+/* Shortcuts Link */
+"item_list_menu_local_link" = "快捷方式链接";
+/* Move to Trash */
+"item_list_menu_trash" = "移到废纸篓";
+/* Options */
+"item_list_menu_options" = "选项";

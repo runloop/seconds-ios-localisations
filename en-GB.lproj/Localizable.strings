@@ -1506,3 +1506,15 @@
 "item_list_sort_option_updated" = "Updated Date";
 /* Duration */
 "item_list_sort_option_duration" = "Duration";
+/* Duplicate */
+"item_list_menu_duplicate" = "Duplicate";
+/* Move... */
+"item_list_menu_move" = "Move...";
+/* Share */
+"item_list_menu_share" = "Share";
+/* Shortcuts Link */
+"item_list_menu_local_link" = "Shortcuts Link";
+/* Move to Trash */
+"item_list_menu_trash" = "Move to Trash";
+/* Options */
+"item_list_menu_options" = "Options";

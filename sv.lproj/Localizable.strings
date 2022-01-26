@@ -1506,3 +1506,15 @@
 "item_list_sort_option_updated" = "uppdaterat datum";
 /* Duration */
 "item_list_sort_option_duration" = "Varaktighet";
+/* Duplicate */
+"item_list_menu_duplicate" = "Duplicera";
+/* Move... */
+"item_list_menu_move" = "Flytta...";
+/* Share */
+"item_list_menu_share" = "Dela med sig";
+/* Shortcuts Link */
+"item_list_menu_local_link" = "Genvägar Länk";
+/* Move to Trash */
+"item_list_menu_trash" = "Flytta till papperskorgen";
+/* Options */
+"item_list_menu_options" = "alternativ";

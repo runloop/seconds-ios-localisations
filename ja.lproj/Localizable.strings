@@ -1506,3 +1506,15 @@
 "item_list_sort_option_updated" = "更新日";
 /* Duration */
 "item_list_sort_option_duration" = "間隔";
+/* Duplicate */
+"item_list_menu_duplicate" = "複製";
+/* Move... */
+"item_list_menu_move" = "動く...";
+/* Share */
+"item_list_menu_share" = "シェア";
+/* Shortcuts Link */
+"item_list_menu_local_link" = "ショートカットリンク";
+/* Move to Trash */
+"item_list_menu_trash" = "ゴミ箱に移動";
+/* Options */
+"item_list_menu_options" = "オプション";
