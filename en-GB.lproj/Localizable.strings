@@ -1518,3 +1518,6 @@
 "item_list_menu_trash" = "Move to Trash";
 /* Options */
 "item_list_menu_options" = "Options";
+
+"published_list_menu_remote_link" = "Get URL";
+"published_list_menu_remove" = "Unpublish Timer";
