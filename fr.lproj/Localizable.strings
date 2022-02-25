@@ -1518,3 +1518,11 @@
 "item_list_menu_trash" = "Mettre à la corbeille";
 /* Options */
 "item_list_menu_options" = "Choix";
+/* Get URL */
+"published_list_menu_remote_link" = "Obtenir l&#39;URL";
+/* Unpublish Timer */
+"published_list_menu_remove" = "Dépublier le minuteur";
+/* Create new */
+"item_list_compound_menu_new" = "Créer un nouveau";
+/* Append to existing... */
+"item_list_compound_menu_append" = "Ajouter à l&#39;existant...";
