@@ -1526,3 +1526,7 @@
 "item_list_compound_menu_new" = "Создать новое";
 /* Append to existing... */
 "item_list_compound_menu_append" = "Добавить к существующим...";
+/* Publish */
+"item_list_menu_publish" = "Публиковать";
+/* Convert to Custom */
+"item_list_menu_custom" = "Преобразовать в пользовательский";

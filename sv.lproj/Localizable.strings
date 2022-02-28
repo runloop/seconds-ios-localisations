@@ -1526,3 +1526,7 @@
 "item_list_compound_menu_new" = "Skapa ny";
 /* Append to existing... */
 "item_list_compound_menu_append" = "Lägg till i befintliga...";
+/* Publish */
+"item_list_menu_publish" = "Publicera";
+/* Convert to Custom */
+"item_list_menu_custom" = "Konvertera till anpassad";

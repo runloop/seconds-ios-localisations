@@ -1526,3 +1526,7 @@
 "item_list_compound_menu_new" = "新しく作る";
 /* Append to existing... */
 "item_list_compound_menu_append" = "既存に追加...";
+/* Publish */
+"item_list_menu_publish" = "公開";
+/* Convert to Custom */
+"item_list_menu_custom" = "カスタムに変換";

@@ -1526,3 +1526,7 @@
 "item_list_compound_menu_new" = "Créer un nouveau";
 /* Append to existing... */
 "item_list_compound_menu_append" = "Ajouter à l&#39;existant...";
+/* Publish */
+"item_list_menu_publish" = "Publier";
+/* Convert to Custom */
+"item_list_menu_custom" = "Convertir en personnalisé";

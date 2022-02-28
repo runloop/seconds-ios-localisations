@@ -1526,3 +1526,7 @@
 "item_list_compound_menu_new" = "創建新的";
 /* Append to existing... */
 "item_list_compound_menu_append" = "附加到現有...";
+/* Publish */
+"item_list_menu_publish" = "發布";
+/* Convert to Custom */
+"item_list_menu_custom" = "轉換為自定義";
