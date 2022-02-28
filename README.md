@@ -1,5 +1,18 @@
 # seconds-ios-localisations
-A public repository for the localisation files in Seconds Interval Timer for iOS
+A public repository for the localisation files in Seconds Interval Timer for iOS.
+
+## Community
+
+Moving forward we are going to continue to provide computed translations with the app. However, we have provided this public repository to enable users of Seconds Interval Timer to contribute to the translations within the app. Who better to provide accurate translations than the people that know the app the best. 
+
+If you have spotted a translation in the app that you think could be improved, you now have the opportunity to do so.
+
+## How to Update the Translations
+
+1. Sign into your Github account
+2. Fork this repository
+3. Make changes to the strings
+4. Create a pull request
 
 ## The Translation Problem
 
@@ -20,11 +33,7 @@ The quality of the translations provided by either of the above has not great. T
 
 As such, more recently we have simply reverted to using Google Translate. The benefits of speed and cost are hard to argue with. Translations are delivered in seconds, and cost next to nothing. The quality of the translation is adaquate, bordering on poor. 
 
-## Community
 
-Moving forward we are going to continue to provide computed translations with the app. However, we have provided this public repository to enable users of Seconds Interval Timer to contribute to the translations within the app. Who better to provide accurate translations than the people that know the app the best. 
-
-If you have spotted a translation in the app that you think could be improved, you now have the opportunity to do so.
 
 ## How to Update the Translations
 
