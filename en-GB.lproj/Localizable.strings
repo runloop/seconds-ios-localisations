@@ -1530,3 +1530,4 @@
 "item_list_menu_publish" = "Publish";
 /* Convert to Custom */
 "item_list_menu_custom" = "Convert to Custom";
+"new_translation" = "New Translation";
