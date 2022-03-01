@@ -1530,3 +1530,5 @@
 "item_list_menu_publish" = "Публиковать";
 /* Convert to Custom */
 "item_list_menu_custom" = "Преобразовать в пользовательский";
+/* Convert to Compound Timer */
+"item_list_menu_add_compound" = "Преобразование в составной таймер";

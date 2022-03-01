@@ -1530,3 +1530,5 @@
 "item_list_menu_publish" = "公開";
 /* Convert to Custom */
 "item_list_menu_custom" = "カスタムに変換";
+/* Convert to Compound Timer */
+"item_list_menu_add_compound" = "複合タイマーに変換";

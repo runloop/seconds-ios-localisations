@@ -1530,3 +1530,5 @@
 "item_list_menu_publish" = "發布";
 /* Convert to Custom */
 "item_list_menu_custom" = "轉換為自定義";
+/* Convert to Compound Timer */
+"item_list_menu_add_compound" = "轉換為複合計時器";

@@ -1530,3 +1530,5 @@
 "item_list_menu_publish" = "Publish";
 /* Convert to Custom */
 "item_list_menu_custom" = "Convert to Custom";
+/* Convert to Compound Timer */
+"item_list_menu_add_compound" = "Convert to Compound Timer";

@@ -1530,3 +1530,5 @@
 "item_list_menu_publish" = "Publicera";
 /* Convert to Custom */
 "item_list_menu_custom" = "Konvertera till anpassad";
+/* Convert to Compound Timer */
+"item_list_menu_add_compound" = "Konvertera till sammansatt timer";

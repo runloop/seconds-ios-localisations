@@ -1530,3 +1530,5 @@
 "item_list_menu_publish" = "Publicar";
 /* Convert to Custom */
 "item_list_menu_custom" = "Converter para personalizado";
+/* Convert to Compound Timer */
+"item_list_menu_add_compound" = "Converter para temporizador composto";
