@@ -1532,3 +1532,5 @@
 "item_list_menu_custom" = "Konvertera till anpassad";
 /* Convert to Compound Timer */
 "item_list_menu_add_compound" = "Konvertera till sammansatt timer";
+/* Import Legacy User Timers */
+"user_details_import_legacy" = "Importera äldre användartimer";

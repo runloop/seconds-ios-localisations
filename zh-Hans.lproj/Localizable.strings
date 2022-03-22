@@ -1532,3 +1532,5 @@
 "item_list_menu_custom" = "转换为自定义";
 /* Convert to Compound Timer */
 "item_list_menu_add_compound" = "转换为复合计时器";
+/* Import Legacy User Timers */
+"user_details_import_legacy" = "导入旧版用户计时器";

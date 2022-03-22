@@ -1532,3 +1532,5 @@
 "item_list_menu_custom" = "In Benutzerdefiniert konvertieren";
 /* Convert to Compound Timer */
 "item_list_menu_add_compound" = "In zusammengesetzten Timer umwandeln";
+/* Import Legacy User Timers */
+"user_details_import_legacy" = "Importieren Sie Legacy-Benutzer-Timer";

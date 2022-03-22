@@ -1532,3 +1532,5 @@
 "item_list_menu_custom" = "Convertir a personalizado";
 /* Convert to Compound Timer */
 "item_list_menu_add_compound" = "Convertir a temporizador compuesto";
+/* Import Legacy User Timers */
+"user_details_import_legacy" = "Importar temporizadores de usuario heredados";

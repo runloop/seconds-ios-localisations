@@ -1532,3 +1532,5 @@
 "item_list_menu_custom" = "Преобразовать в пользовательский";
 /* Convert to Compound Timer */
 "item_list_menu_add_compound" = "Преобразование в составной таймер";
+/* Import Legacy User Timers */
+"user_details_import_legacy" = "Импорт старых пользовательских таймеров";
