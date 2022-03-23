@@ -1534,3 +1534,5 @@
 "item_list_menu_add_compound" = "複合タイマーに変換";
 /* Import Legacy User Timers */
 "user_details_import_legacy" = "レガシーユーザータイマーのインポート";
+/* Export Legacy User Data */
+"user_details_export_legacy" = "レガシーユーザーデータのエクスポート";

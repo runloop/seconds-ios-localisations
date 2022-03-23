@@ -1534,3 +1534,5 @@
 "item_list_menu_add_compound" = "Converter para temporizador composto";
 /* Import Legacy User Timers */
 "user_details_import_legacy" = "Importar temporizadores de usuários legados";
+/* Export Legacy User Data */
+"user_details_export_legacy" = "Exportar dados do usuário legado";
