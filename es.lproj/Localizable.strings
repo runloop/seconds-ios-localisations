@@ -1107,7 +1107,7 @@
 /* Reduce Audio Volume */
 "interval_editor_reduced_volume" = "Reducir el volumen de audio";
 /* Privacy */
-"settings_privacy_title" = "Intimidad";
+"settings_privacy_title" = "Privacidad";
 /* Enable Analytics */
 "settings_privacy_analytics_title" = "Habilitar Analytics";
 /* Runloop monitors active installs, screen views and other interface events to improve the quality and performance of the app. User content and Health data are never sent to our servers. */
@@ -1139,7 +1139,7 @@
 /* Stop */
 "stopwatch_button_stop" = "Detener";
 /* Lap */
-"stopwatch_button_lap" = "Regazo";
+"stopwatch_button_lap" = "Vuelta";
 /* Reset */
 "stopwatch_button_reset" = "Reiniciar";
 /* Lap %li */
@@ -1203,7 +1203,7 @@
 /* Report a bug */
 "support_report_bug" = "Reportar un error";
 /* Contact Support */
-"support_help_contact" = "Soporte de contacto";
+"support_help_contact" = "Soporte al cliente";
 /* Left */
 "interval_name_first_half_default" = "Izquierda";
 /* Right */
