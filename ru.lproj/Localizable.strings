@@ -1538,3 +1538,5 @@
 "user_details_export_legacy" = "Экспорт устаревших пользовательских данных";
 /* Enter notes... */
 "notes_editor_placeholder" = "Введите примечания...";
+/* System Standard */
+"color_palettes_system_title" = "Стандарт системы";
