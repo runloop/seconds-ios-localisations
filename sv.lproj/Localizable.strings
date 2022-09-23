@@ -1540,3 +1540,7 @@
 "notes_editor_placeholder" = "Ange anteckningar...";
 /* System Standard */
 "color_palettes_system_title" = "Systemstandard";
+/* Quick Access */
+"widget_folder_display_name" = "Snabb åtkomst";
+/* Easily start your favourite timers. */
+"widget_folder_description" = "Starta enkelt dina favorittimer.";

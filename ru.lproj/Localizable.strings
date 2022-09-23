@@ -1540,3 +1540,7 @@
 "notes_editor_placeholder" = "Введите примечания...";
 /* System Standard */
 "color_palettes_system_title" = "Стандарт системы";
+/* Quick Access */
+"widget_folder_display_name" = "Быстрый доступ";
+/* Easily start your favourite timers. */
+"widget_folder_description" = "Легко запускайте свои любимые таймеры.";

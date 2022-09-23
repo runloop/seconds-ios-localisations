@@ -1540,3 +1540,7 @@
 "notes_editor_placeholder" = "メモを入力してください...";
 /* System Standard */
 "color_palettes_system_title" = "システム標準";
+/* Quick Access */
+"widget_folder_display_name" = "迅速なアクセス";
+/* Easily start your favourite timers. */
+"widget_folder_description" = "お気に入りのタイマーを簡単に開始できます。";

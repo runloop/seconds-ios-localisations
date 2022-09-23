@@ -1540,3 +1540,7 @@
 "notes_editor_placeholder" = "Insira notas...";
 /* System Standard */
 "color_palettes_system_title" = "Padrão do Sistema";
+/* Quick Access */
+"widget_folder_display_name" = "Acesso rápido";
+/* Easily start your favourite timers. */
+"widget_folder_description" = "Inicie facilmente seus temporizadores favoritos.";

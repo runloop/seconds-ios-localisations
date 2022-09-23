@@ -1540,3 +1540,7 @@
 "notes_editor_placeholder" = "输入注释...";
 /* System Standard */
 "color_palettes_system_title" = "系统标准";
+/* Quick Access */
+"widget_folder_display_name" = "快速访问";
+/* Easily start your favourite timers. */
+"widget_folder_description" = "轻松启动您最喜欢的计时器。";

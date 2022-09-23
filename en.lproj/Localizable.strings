@@ -1540,3 +1540,7 @@
 "notes_editor_placeholder" = "Enter notes...";
 /* System Standard */
 "color_palettes_system_title" = "System Standard";
+/* Quick Access */
+"widget_folder_display_name" = "Quick Access";
+/* Easily start your favourite timers. */
+"widget_folder_description" = "Easily start your favorite timers.";
