@@ -1544,3 +1544,5 @@
 "widget_folder_display_name" = "Быстрый доступ";
 /* Easily start your favourite timers. */
 "widget_folder_description" = "Легко запускайте свои любимые таймеры.";
+/* Novelty Voices */
+"voice_language_novelty_title" = "Новые голоса";

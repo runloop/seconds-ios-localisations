@@ -1544,3 +1544,5 @@
 "widget_folder_display_name" = "Snabb åtkomst";
 /* Easily start your favourite timers. */
 "widget_folder_description" = "Starta enkelt dina favorittimer.";
+/* Novelty Voices */
+"voice_language_novelty_title" = "Nyhetsröster";

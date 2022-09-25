@@ -1544,3 +1544,5 @@
 "widget_folder_display_name" = "快速訪問";
 /* Easily start your favourite timers. */
 "widget_folder_description" = "輕鬆啟動您最喜歡的計時器。";
+/* Novelty Voices */
+"voice_language_novelty_title" = "新奇的聲音";
