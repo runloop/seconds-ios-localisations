@@ -1546,3 +1546,7 @@
 "widget_folder_description" = "Starta enkelt dina favorittimer.";
 /* Novelty Voices */
 "voice_language_novelty_title" = "Nyhetsröster";
+/* As a non-paying user you may only use the timers you create one time. Please upgrade to remove this restriction.\n\nAlternatively, you may perform the this timer one more time by watching a video ad. */
+"upsell_message_upgrade_or_ad" = "Som icke-betalande användare får du bara använda de timers du skapar en gång. Uppgradera för att ta bort den här begränsningen.\n\nAlternativt kan du utföra denna timer en gång till genom att titta på en videoannons.";
+/* Watch an ad */
+"upsell_watch_ad_button" = "Se en annons";

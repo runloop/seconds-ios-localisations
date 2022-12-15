@@ -1546,3 +1546,7 @@
 "widget_folder_description" = "Easily start your favorite timers.";
 /* Novelty Voices */
 "voice_language_novelty_title" = "Novelty Voices";
+/* As a non-paying user you may only use the timers you create one time. Please upgrade to remove this restriction.\n\nAlternatively, you may perform the this timer one more time by watching a video ad. */
+"upsell_message_upgrade_or_ad" = "As a non-paying user you may only use the timers you create one time. Please upgrade to remove this restriction.\n\nAlternatively, you may perform the this timer one more time by watching a video ad.";
+/* Watch an ad */
+"upsell_watch_ad_button" = "Watch an ad";

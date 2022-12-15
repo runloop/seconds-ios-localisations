@@ -1546,3 +1546,7 @@
 "widget_folder_description" = "Starten Sie einfach Ihre Lieblings-Timer.";
 /* Novelty Voices */
 "voice_language_novelty_title" = "Neuartige Stimmen";
+/* As a non-paying user you may only use the timers you create one time. Please upgrade to remove this restriction.\n\nAlternatively, you may perform the this timer one more time by watching a video ad. */
+"upsell_message_upgrade_or_ad" = "Als nicht zahlender Benutzer dürfen Sie die von Ihnen erstellten Timer nur einmal verwenden. Bitte führen Sie ein Upgrade durch, um diese Einschränkung zu entfernen.\n\nAlternativ können Sie diesen Timer noch einmal ausführen, indem Sie sich eine Videoanzeige ansehen.";
+/* Watch an ad */
+"upsell_watch_ad_button" = "Sehen Sie sich eine Anzeige an";

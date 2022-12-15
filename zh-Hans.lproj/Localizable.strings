@@ -1546,3 +1546,7 @@
 "widget_folder_description" = "轻松启动您最喜欢的计时器。";
 /* Novelty Voices */
 "voice_language_novelty_title" = "新奇的声音";
+/* As a non-paying user you may only use the timers you create one time. Please upgrade to remove this restriction.\n\nAlternatively, you may perform the this timer one more time by watching a video ad. */
+"upsell_message_upgrade_or_ad" = "作为非付费用户，您只能使用自己创建的计时器一次。请升级以取消此限制。\n\n或者，您可以通过观看视频广告再次执行此计时器。";
+/* Watch an ad */
+"upsell_watch_ad_button" = "看广告";
