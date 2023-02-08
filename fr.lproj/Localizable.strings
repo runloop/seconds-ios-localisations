@@ -1550,3 +1550,5 @@
 "upsell_message_upgrade_or_ad" = "En tant qu'utilisateur non payant, vous ne pouvez utiliser les minuteurs que vous créez qu'une seule fois. Veuillez mettre à jour pour supprimer cette restriction.\n\nVous pouvez également exécuter ce minuteur une fois de plus en regardant une annonce vidéo.";
 /* Watch an ad */
 "upsell_watch_ad_button" = "Regarder une annonce";
+/* Review on the App Store */
+"settings_write_review" = "Avis sur l'App Store";

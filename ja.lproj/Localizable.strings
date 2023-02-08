@@ -1550,3 +1550,5 @@
 "upsell_message_upgrade_or_ad" = "無料ユーザーは、作成したタイマーを 1 回だけ使用できます。アップグレードしてこの制限を解除してください。\n\nまたは、動画広告を見て、このタイマーをもう一度実行することもできます。";
 /* Watch an ad */
 "upsell_watch_ad_button" = "広告を見る";
+/* Review on the App Store */
+"settings_write_review" = "App Store でのレビュー";

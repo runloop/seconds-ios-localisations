@@ -1550,3 +1550,5 @@
 "upsell_message_upgrade_or_ad" = "Como usuário não pagante, você só pode usar os cronômetros criados uma vez. Atualize para remover esta restrição.\n\nComo alternativa, você pode executar este cronômetro mais uma vez assistindo a um anúncio em vídeo.";
 /* Watch an ad */
 "upsell_watch_ad_button" = "Assistir a um anúncio";
+/* Review on the App Store */
+"settings_write_review" = "Comente na App Store";

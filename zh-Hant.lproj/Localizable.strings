@@ -1550,3 +1550,5 @@
 "upsell_message_upgrade_or_ad" = "作為非付費用戶，您只能使用自己創建的計時器一次。請升級以取消此限制。\n\n或者，您可以通過觀看視頻廣告再次執行此計時器。";
 /* Watch an ad */
 "upsell_watch_ad_button" = "看廣告";
+/* Review on the App Store */
+"settings_write_review" = "在 App Store 上的評論";

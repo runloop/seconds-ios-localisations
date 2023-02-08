@@ -1550,3 +1550,5 @@
 "upsell_message_upgrade_or_ad" = "As a non-paying user you may only use the timers you create one time. Please upgrade to remove this restriction.\n\nAlternatively, you may perform the this timer one more time by watching a video ad.";
 /* Watch an ad */
 "upsell_watch_ad_button" = "Watch an ad";
+/* Review on the App Store */
+"settings_write_review" = "Review on the App Store";

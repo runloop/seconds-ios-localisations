@@ -1550,3 +1550,5 @@
 "upsell_message_upgrade_or_ad" = "Como usuario que no paga, solo puede usar los temporizadores que crea una vez. Actualice para eliminar esta restricción.\n\nAlternativamente, puede ejecutar este temporizador una vez más viendo un anuncio de video.";
 /* Watch an ad */
 "upsell_watch_ad_button" = "ver un anuncio";
+/* Review on the App Store */
+"settings_write_review" = "Reseña en la App Store";

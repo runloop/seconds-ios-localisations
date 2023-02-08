@@ -1550,3 +1550,5 @@
 "upsell_message_upgrade_or_ad" = "Als nicht zahlender Benutzer dürfen Sie die von Ihnen erstellten Timer nur einmal verwenden. Bitte führen Sie ein Upgrade durch, um diese Einschränkung zu entfernen.\n\nAlternativ können Sie diesen Timer noch einmal ausführen, indem Sie sich eine Videoanzeige ansehen.";
 /* Watch an ad */
 "upsell_watch_ad_button" = "Sehen Sie sich eine Anzeige an";
+/* Review on the App Store */
+"settings_write_review" = "Rezension im App Store";
