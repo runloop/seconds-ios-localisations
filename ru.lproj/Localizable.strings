@@ -1552,3 +1552,9 @@
 "upsell_watch_ad_button" = "Смотреть рекламу";
 /* Review on the App Store */
 "settings_write_review" = "Обзор в App Store";
+/* Lower External Volume... */
+"sound_settings_ducking_heading" = "Уменьшить внешний объем...";
+/* During Alerts */
+"sound_settings_ducking_alerts" = "Во время предупреждений";
+/* Before Timers Start */
+"sound_settings_ducking_before_timer" = "Перед запуском таймеров";

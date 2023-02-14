@@ -1552,3 +1552,9 @@
 "upsell_watch_ad_button" = "Se en annons";
 /* Review on the App Store */
 "settings_write_review" = "Recension på App Store";
+/* Lower External Volume... */
+"sound_settings_ducking_heading" = "Sänk extern volym...";
+/* During Alerts */
+"sound_settings_ducking_alerts" = "Under varningar";
+/* Before Timers Start */
+"sound_settings_ducking_before_timer" = "Innan timern startar";

@@ -1552,3 +1552,9 @@
 "upsell_watch_ad_button" = "看广告";
 /* Review on the App Store */
 "settings_write_review" = "在 App Store 上的评论";
+/* Lower External Volume... */
+"sound_settings_ducking_heading" = "降低外部音量...";
+/* During Alerts */
+"sound_settings_ducking_alerts" = "警报期间";
+/* Before Timers Start */
+"sound_settings_ducking_before_timer" = "计时器开始前";

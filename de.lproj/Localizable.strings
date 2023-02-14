@@ -1552,3 +1552,9 @@
 "upsell_watch_ad_button" = "Sehen Sie sich eine Anzeige an";
 /* Review on the App Store */
 "settings_write_review" = "Rezension im App Store";
+/* Lower External Volume... */
+"sound_settings_ducking_heading" = "Externe Lautstärke verringern...";
+/* During Alerts */
+"sound_settings_ducking_alerts" = "Während Warnungen";
+/* Before Timers Start */
+"sound_settings_ducking_before_timer" = "Vor dem Start der Timer";

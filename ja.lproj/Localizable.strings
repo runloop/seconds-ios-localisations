@@ -1552,3 +1552,9 @@
 "upsell_watch_ad_button" = "広告を見る";
 /* Review on the App Store */
 "settings_write_review" = "App Store でのレビュー";
+/* Lower External Volume... */
+"sound_settings_ducking_heading" = "外部ボリュームを下げる...";
+/* During Alerts */
+"sound_settings_ducking_alerts" = "アラート中";
+/* Before Timers Start */
+"sound_settings_ducking_before_timer" = "タイマー開始前";
